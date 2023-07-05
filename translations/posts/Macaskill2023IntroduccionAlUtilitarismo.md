@@ -78,7 +78,7 @@ Women](/libros/el-sometimiento-de-la-mujer-john-stuart-mill/1)*,[^6]
 Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los
-> dos sexos ---la subordinación jurídica de un sexo al otro--- es
+> dos sexos —la subordinación jurídica de un sexo al otro— es
 > moralmente incorrecto en sí mismo, y actualmente uno de los
 > principales obstáculos para el mejoramiento humano; y que debería ser
 > sustituido por un principio de perfecta igualdad, que no admita ningún
