@@ -7,8 +7,8 @@
 
 ¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre
 debemos promover el bienestar general. En comparación con otras teorías
-éticas, el utilitarismo es menos deferente con el pensamiento común
-y puede decirnos que hagamos cambios sustanciales en cómo conducimos
+éticas, el utilitarismo es menos deferente con el pensamiento común y
+puede decirnos que hagamos cambios sustanciales en cómo conducimos
 nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a
 un encendido debate filosófico entre sus
 [defensores](/argumentos-a-favor-del-utilitarismo/) y sus
@@ -65,9 +65,10 @@ Bentham](pensador-utilitarista/jeremy-bentham) defendió cuestiones como
 la separación de la Iglesia y el Estado; la abolición de la esclavitud y
 de la pena de muerte; regulaciones jurídicas para proteger a los
 criminales y a los animales no humanos del trato cruel;[^3] y la
-despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre
-la homosexualidad eran tan liberales que su editor los ocultó al público
-tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
+despenalización de la homosexualidad.[^4] De hecho, sus manuscritos
+sobre la homosexualidad eran tan liberales que su editor los ocultó al
+público tras la muerte de Bentham. Sólo se publicaron dos siglos más
+tarde.
 
 [John Stuart Mill](pensador-utilitarista/john-stuart-mill) defendió la
 provisión de asistencia social a los pobres y la libertad de expresión.
@@ -78,12 +79,11 @@ Women](/libros/el-sometimiento-de-la-mujer-john-stuart-mill/1)*,[^6]
 Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los
-> dos sexos —la subordinación jurídica de un sexo al otro— es
-> moralmente incorrecto en sí mismo, y actualmente uno de los
-> principales obstáculos para el mejoramiento humano; y que debería ser
-> sustituido por un principio de perfecta igualdad, que no admita ningún
-> poder o privilegio por una de las partes, ni incapacidad por la
-> otra.[^7]
+> dos sexos —la subordinación jurídica de un sexo al otro— es moralmente
+> incorrecto en sí mismo, y actualmente uno de los principales
+> obstáculos para el mejoramiento humano; y que debería ser sustituido
+> por un principio de perfecta igualdad, que no admita ningún poder o
+> privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
 En una línea similar, [Henry
 Sidgwick](pensador-utilitarista/henry-sidgwick) abogó por la educación
@@ -116,14 +116,14 @@ cualquier otro.
 A veces, los filósofos hablan de "utilidad" en lugar de "bienestar",
 pero estas palabras se suelen utilizar para referirse a lo mismo.[^10]
 (Otros utilizan a veces "bienestar" y "felicidad" indistintamente, pero
-aquí consideraremos que "felicidad" es un concepto más restringido.)[^11]
-El utilitarismo se suele aplicar para evaluar la corrección moral de las
-acciones, pero la teoría también puede evaluar otras cosas, como las
-normas, las políticas, los motivos, las virtudes y las instituciones
-sociales. Tal vez sea una lástima que el término "utilitarismo", que
-suena clínico, se impusiera como nombre, sobre todo porque en el
-lenguaje común la palabra "utilitarista" se confunde fácilmente con la
-funcionalidad neutra o incluso con el puro egoísmo.
+aquí consideraremos que "felicidad" es un concepto más
+restringido.)[^11] El utilitarismo se suele aplicar para evaluar la
+corrección moral de las acciones, pero la teoría también puede evaluar
+otras cosas, como las normas, las políticas, los motivos, las virtudes y
+las instituciones sociales. Tal vez sea una lástima que el término
+"utilitarismo", que suena clínico, se impusiera como nombre, sobre todo
+porque en el lenguaje común la palabra "utilitarista" se confunde
+fácilmente con la funcionalidad neutra o incluso con el puro egoísmo.
 
 Todas las teorías éticas de la familia utilitarista comparten cuatro
 elementos definitorios: consecuencialismo, bienestarismo, imparcialidad
@@ -167,12 +167,12 @@ consecuencialista.
 En los capítulos 4 y 5 se analizan, respectivamente, [teorías del
 bienestar](/teorieas-del-bienestar/) y de la [ética de la
 población](/etica-de-la-poblacion/) específicas. Aunque el utilitarismo
-se asocia a menudo con el *hedonismo* del bienestar y la
-*perspectiva total* de la ética de la población (una combinación
-conocida como *utilitarismo clásico*), hay otras opciones que también
-vale la pena considerar. Es útil tener en cuenta, sobre todo, que las
-objeciones al hedonismo o a la perspectiva total pueden dejar intactas
-otras formas de utilitarismo.
+se asocia a menudo con el *hedonismo* del bienestar y la *perspectiva
+total* de la ética de la población (una combinación conocida como
+*utilitarismo clásico*), hay otras opciones que también vale la pena
+considerar. Es útil tener en cuenta, sobre todo, que las objeciones al
+hedonismo o a la perspectiva total pueden dejar intactas otras formas de
+utilitarismo.
 
 El [Capítulo 6](/utilitarismo-y-etica-practica/) y nuestro artículo
 complementario [Actuar conforme al
@@ -216,10 +216,10 @@ Todas las teorías utilitaristas comparten cuatro elementos clave:
 consecuencialismo, bienestarismo, imparcialidad y agregacionismo. El
 utilitarismo clásico incluye otros dos elementos: el hedonismo y el
 totalismo. El hedonismo es la perspectiva según la cual el bienestar de
-una persona es determinado por el saldo de sus experiencias
-conscientes positivas y negativas. La perspectiva total sostiene que el
-valor de añadir una persona más a un estado de cosas es igual al valor
-del bienestar de esa persona a lo largo de su vida.
+una persona es determinado por el saldo de sus experiencias conscientes
+positivas y negativas. La perspectiva total sostiene que el valor de
+añadir una persona más a un estado de cosas es igual al valor del
+bienestar de esa persona a lo largo de su vida.
 
 La ética utilitarista tiene una tradición intelectual que abarca siglos,
 durante los cuales ha suscitado muchos debates encendidos. Los críticos
@@ -266,7 +266,7 @@ Descubre cómo poner en práctica el utilitarismo:
 - [@Parfit2011WhatMatters]
 - [@Ng1990WelfarismUtilitarianismRehabilitation]
 
-[^1]: *Mòzǐ* 32: 1, C. Fraser transl.
+[^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
 [^2]: Para más detalles, véase [@Williams2015PosibilidadOngoingMoral].
 
@@ -276,12 +276,12 @@ los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden
 
 [@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
 
-"Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo
-que respira. Hemos comenzado por atender a la condición de los esclavos;
-terminaremos por aliviar la de todos los animales que asisten
+"Ya llegará el momento en que la humanidad extenderá su manto sobre todo
+lo que respira. Hemos comenzado por atender a la condición de los
+esclavos; terminaremos por aliviar la de todos los animales que asisten
 nuestros trabajos o satisfacen nuestras necesidades."
 
-
+[@Bentham1838PrinciplesOfPenal, p. 162]
 
 [^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y
     [@CamposBoralevi1984BenthamOppressed].
@@ -301,9 +301,9 @@ nuestros trabajos o satisfacen nuestras necesidades."
     Sobre la cría intensiva de animales véase [@Singer2023AnimalLiberationNow].
 
 [^9]: Esto es más claro en un contexto de población fija, donde las
-    acciones de uno no afectan el número o la identidad de las personas.
-    Para casos más complejos, véase el debate sobre la [ética de la
-    población](/etica-de-la-poblacion/) en el capítulo 5.
+    acciones individuales no afectan el número o la identidad de las
+    personas. Para casos más complejos, véase el debate sobre la [ética
+    de la población](/etica-de-la-poblacion/) en el capítulo 5.
 
 [^10]: Sin embargo, cuando los economistas utilizan el término
     "[utilidad](https://en.wikipedia.org/wiki/Utility)" suelen
@@ -312,17 +312,17 @@ nuestros trabajos o satisfacen nuestras necesidades."
     individuo](/teorias-del-bienestar/#teorias-del-deseo).
 
 [^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes
-    placenteras. [Capítulo 4: Teorías del
+    placenteras. El [Capítulo 4: Teorías del
     bienestar](/teorias-del-bienestar/) explora si el bienestar puede
     implicar algo más que esto.
 
 [^12]: Esta definición se aplica a un contexto de población fija, en el
-    que las acciones de uno no alteran el número ni la identidad de las
-    personas. Hay teorías agregacionistas que difieren en cómo lidiar
-    con entornos de población variable. Se trata de una cuestión
-    técnica, relevante para el debate sobre [ética de la
+    que las acciones individuales no alteran el número ni la identidad
+    de las personas. Hay teorías agregacionistas que difieren en el modo
+    de lidiar con entornos de población variable. Se trata de una
+    cuestión técnica, relevante para el debate sobre [ética de la
     población](/etica-de-la-poblacion/) del capítulo 5. Obsérvese además
-    que los no bienestaristas podrían considerar que otras cosas, además
-    de las vidas, aportan valor al mundo, lo que debería incluirse en la
-    suma. Ponemos entre paréntesis esta posibilidad para facilitar la
-    exposición.
+    que quienes no son bienestaristas podrían considerar que otras
+    cosas, además de las vidas, aportan valor al mundo, lo cual debería
+    incluirse en la suma. Ponemos entre paréntesis esta posibilidad para
+    facilitar la exposición.
