@@ -1,7 +1,7 @@
 > *"La tarea del benevolente es sin duda tratar diligentemente de
 > promover el beneficio del mundo y eliminar el daño al mundo y tomar
 > esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No
-> beneficia a la gente? Detente.
+> beneficia a la gente? Detente.*
 >
 > -- [Mòzǐ](/pensador-utilitarista/mozi/)[^1]
 
@@ -52,13 +52,13 @@ basaron en ideas que se remontan a los antiguos griegos. Desde entonces,
 el utilitarismo ha sido ampliamente discutido y ha tenido una influencia
 significativa en la economía y las políticas públicas.
 
-## Historial
+## Trayectoria
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la
-correcta, el razonamiento moral utilitarista tiene un sólido historial
-de contribución al progreso moral colectivo de la humanidad, lo que
-sugiere que al menos puede haber algo moralmente beneficioso en estas
-ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
+correcta, el razonamiento moral utilitarista tiene una sólida
+trayectoria de contribución al progreso moral colectivo de la humanidad,
+lo que sugiere que al menos puede haber algo moralmente beneficioso en
+estas ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
 actitudes sociales y políticas muy adelantadas a su tiempo: como
 reformador social progresista, [Jeremy
 Bentham](pensador-utilitarista/jeremy-bentham) defendió cuestiones como
@@ -274,14 +274,15 @@ Descubre cómo poner en práctica el utilitarismo:
 los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden
 *conversar*? Si no ¿Pueden *sufrir*?"
 
-[@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
+    [@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
 
-"Ya llegará el momento en que la humanidad extenderá su manto sobre todo
-lo que respira. Hemos comenzado por atender a la condición de los
-esclavos; terminaremos por aliviar la de todos los animales que asisten
-nuestros trabajos o satisfacen nuestras necesidades."
+    "¿Por qué la ley habría de negar su protección a un ser sensible? Ya
+llegará el momento en que la humanidad extenderá su manto sobre todo lo
+que respira. Hemos comenzado por atender a la condición de los esclavos;
+terminaremos por aliviar la de todos los animales que asisten nuestros
+trabajos o satisfacen nuestras necesidades."
 
-[@Bentham1838PrinciplesOfPenal, p. 162]
+    [@Bentham1838PrinciplesOfPenal, p. 162]
 
 [^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y
     [@CamposBoralevi1984BenthamOppressed].
