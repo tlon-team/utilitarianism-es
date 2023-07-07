@@ -7,7 +7,7 @@
 
 ¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre
 debemos promover el bienestar general. En comparación con otras teorías
-éticas, el utilitarismo es menos deferente con el pensamiento corriente
+éticas, el utilitarismo es menos deferente con el pensamiento común
 y puede decirnos que hagamos cambios sustanciales en cómo conducimos
 nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a
 un encendido debate filosófico entre sus
@@ -18,7 +18,7 @@ un encendido debate filosófico entre sus
 
 Cuando realizamos juicios morales en la vida cotidiana, a menudo nos
 basamos en nuestra intuición. Si nos preguntamos si está mal o no comer
-carne, mentir a un amigo o comprar productos fabricados en fábricas
+carne, mentir a un amigo o comprar productos procedentes de fábricas
 donde se explota a los trabajadores, probablemente tengamos una fuerte
 intuición moral sobre el tema. Pero confiar únicamente en nuestra
 intuición moral tiene sus problemas.
@@ -28,7 +28,7 @@ moralmente horribles. En las sociedades occidentales, antes se creía
 firmemente que era intuitivamente obvio que las personas de color y las
 mujeres tenían menos derechos que los hombres blancos, que la
 homosexualidad era mala y que era permisible poseer esclavos. Ahora
-vemos que estas intuiciones morales están muy equivocadas. Esta
+vemos que estas intuiciones morales estaban muy equivocadas. Esta
 trayectoria histórica nos da motivos para preocuparnos por la
 posibilidad de que nosotros, en la era moderna, también seamos
 responsables, sin saberlo, de graves errores a gran escala. Sería una
@@ -57,7 +57,7 @@ significativa en la economía y las políticas públicas.
 Aunque la historia no puede decirnos directamente qué teoría moral es la
 correcta, el razonamiento moral utilitarista tiene un sólido historial
 de contribución al progreso moral colectivo de la humanidad, lo que
-sugiere que al menos puede haber algo moralmente saludable en estas
+sugiere que al menos puede haber algo moralmente beneficioso en estas
 ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
 actitudes sociales y políticas muy adelantadas a su tiempo: como
 reformador social progresista, [Jeremy
@@ -65,7 +65,7 @@ Bentham](pensador-utilitarista/jeremy-bentham) defendió cuestiones como
 la separación de la Iglesia y el Estado; la abolición de la esclavitud y
 de la pena de muerte; regulaciones jurídicas para proteger a los
 criminales y a los animales no humanos del trato cruel;[^3] y la
-despenalización de la homosexualidad[^4] De hecho, sus manuscritos sobre
+despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre
 la homosexualidad eran tan liberales que su editor los ocultó al público
 tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
 
@@ -114,16 +114,16 @@ posible,[^9] sin que el bienestar de nadie cuente más o menos que el de
 cualquier otro.
 
 A veces, los filósofos hablan de "utilidad" en lugar de "bienestar",
-pero estas palabras se suelen utilizar para referirse a lo mismo[^10]
-(otros utilizan a veces "bienestar" y "felicidad" indistintamente, pero
-aquí consideraremos que "felicidad" es un concepto más restringido)[^11]
+pero estas palabras se suelen utilizar para referirse a lo mismo.[^10]
+(Otros utilizan a veces "bienestar" y "felicidad" indistintamente, pero
+aquí consideraremos que "felicidad" es un concepto más restringido.)[^11]
 El utilitarismo se suele aplicar para evaluar la corrección moral de las
 acciones, pero la teoría también puede evaluar otras cosas, como las
 normas, las políticas, los motivos, las virtudes y las instituciones
 sociales. Tal vez sea una lástima que el término "utilitarismo", que
 suena clínico, se impusiera como nombre, sobre todo porque en el
 lenguaje común la palabra "utilitarista" se confunde fácilmente con la
-funcionalidad deprimente o incluso con el puro egoísmo.
+funcionalidad neutra o incluso con el puro egoísmo.
 
 Todas las teorías éticas de la familia utilitarista comparten cuatro
 elementos definitorios: consecuencialismo, bienestarismo, imparcialidad
@@ -135,7 +135,7 @@ y agregacionismo, que definiremos a continuación:
     determinado por el bienestar de los individuos que lo integran.
 3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente
     valiosa sin importar *de quién* sea el bienestar.
-4.  **Agregacionismo**: el valor de un resultado viene dado por la
+4.  **Agregacionismo**: el valor de un resultado es determinado por la
     *suma* del valor de las vidas que contiene.[^12]
 
 [Los rivales del utilitarismo](/alternativas-casi-utilitaristas) son
@@ -167,10 +167,10 @@ consecuencialista.
 En los capítulos 4 y 5 se analizan, respectivamente, [teorías del
 bienestar](/teorieas-del-bienestar/) y de la [ética de la
 población](/etica-de-la-poblacion/) específicas. Aunque el utilitarismo
-se asocia a menudo con el *hedonismo* sobre el bienestar y la
+se asocia a menudo con el *hedonismo* del bienestar y la
 *perspectiva total* de la ética de la población (una combinación
 conocida como *utilitarismo clásico*), hay otras opciones que también
-vale la pena considerar. Hay que tener en cuenta, sobre todo, que las
+vale la pena considerar. Es útil tener en cuenta, sobre todo, que las
 objeciones al hedonismo o a la perspectiva total pueden dejar intactas
 otras formas de utilitarismo.
 
@@ -200,7 +200,7 @@ Las principales [objeciones al
 utilitarismo](/objeciones-al-utilitarismo/) se abordan en el capítulo 8.
 Presentamos una "[caja de
 herramientas](/objeciones-al-utilitarismo/#caja-de-herramientas-utilitarista)"
-de maniobras generales a disposición de los utilitaristas para hacer
+con maniobras generales a disposición de los utilitaristas para hacer
 frente a una amplia gama de objeciones, y luego mostramos cómo esta caja
 de herramientas se puede utilizar para responder a inquietudes relativas
 a los derechos, las exigencias de la moral, la incertidumbre radical, y
@@ -216,9 +216,9 @@ Todas las teorías utilitaristas comparten cuatro elementos clave:
 consecuencialismo, bienestarismo, imparcialidad y agregacionismo. El
 utilitarismo clásico incluye otros dos elementos: el hedonismo y el
 totalismo. El hedonismo es la perspectiva según la cual el bienestar de
-una persona viene determinado por el saldo de sus experiencias
+una persona es determinado por el saldo de sus experiencias
 conscientes positivas y negativas. La perspectiva total sostiene que el
-valor de añadir una persona más a un estdo de cosas es igual al valor
+valor de añadir una persona más a un estado de cosas es igual al valor
 del bienestar de esa persona a lo largo de su vida.
 
 La ética utilitarista tiene una tradición intelectual que abarca siglos,
@@ -274,12 +274,14 @@ Descubre cómo poner en práctica el utilitarismo:
 los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden
 *conversar*? Si no ¿Pueden *sufrir*?"
 
-  [@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
+[@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
 
-"Llegará el momento en que la humanidad extenderá su manto sobre todo lo
-que respira. Hemos comenzado por atender la condición de los esclavos;
-terminaremos por aliviar la de todos los los animales que nos asisten
+"Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo
+que respira. Hemos comenzado por atender a la condición de los esclavos;
+terminaremos por aliviar la de todos los animales que asisten
 nuestros trabajos o satisfacen nuestras necesidades."
+
+
 
 [^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y
     [@CamposBoralevi1984BenthamOppressed].
