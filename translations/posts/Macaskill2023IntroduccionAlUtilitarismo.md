@@ -129,10 +129,9 @@ Todas las teorías éticas de la familia utilitarista comparten cuatro
 elementos definitorios: consecuencialismo, bienestarismo, imparcialidad
 y agregacionismo, que definiremos a continuación:
 
-1.  **Consecuencialismo:** uno debe siempre promover los buenos
-    resultados.
-2.  **Bienestarismo:** el valor de un resultado está totalmente
-    determinado por el bienestar de los individuos que lo integran.
+1.  **Consecuencialismo:** uno debe siempre promover los buenos resultados.
+2.  **Bienestarismo:** el valor de un resultado está totalmente determinado
+por el bienestar de los individuos que lo integran.
 3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente
     valiosa sin importar *de quién* sea el bienestar.
 4.  **Agregacionismo**: el valor de un resultado es determinado por la
