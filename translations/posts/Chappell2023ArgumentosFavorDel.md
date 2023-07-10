@@ -91,9 +91,9 @@ preocupación moral a nuestra propia especie, por lo que deberíamos
 concluir que lo que importa es el bienestar en general. Es decir,
 deberíamos querer que las vidas de los seres sintientes fueran lo mejor
 posible (ya sea maximizando la
-[felicidad](/teorías-del-bienestar#hedonismo), la [satisfacción del
-deseo](/teorías del bienestar#teorías-del-deseo) u [otros
-valores](/teorías del bienestar#teorías-de-la-lista-objetiva)).
+[felicidad](/teorias-del-bienestar#hedonismo), la [satisfacción del
+deseo](/teorias del bienestar#teorias-del-deseo) u [otros
+valores](/teorias del bienestar#teorias-de-la-lista-objetiva)).
 
 ¿Podría haber algo _más_ importante? Tal sugerencia puede parecer
 desconcertante. Por ejemplo, robar (normalmente) está mal,[^3] pero es
