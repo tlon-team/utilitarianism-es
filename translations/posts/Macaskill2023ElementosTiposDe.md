@@ -101,10 +101,10 @@ En nuestra definición de consecuencialismo, sólo la versión directa es
 una posición genuinamente consecuencialista, y el
 utilitarismo/consecuencialismo de las reglas, a pesar de su nombre, no
 es un tipo de consecuencialismo.[^1] Como argumenta Brad Hooker, el
-principal consecuencialista de reglas del mundo, no es plausible
-sostenerel que el consecuencialismo de reglas esté motivado por el
+principal consecuencialista de las reglas del mundo, no es plausible
+sostener que el consecuencialismo de las reglas esté motivado por el
 compromiso consecuencialista de que los resultados sean lo mejor
-posible: el argumento a favor del consecuencialismo de reglas es, más
+posible: el argumento a favor del consecuencialismo de las reglas es, más
 bien, que justifica imparcialmente reglas morales intuitivamente
 plausibles.[^2] Esto marca una importante diferencia con las teorías
 consecuencialistas fundacionales.
@@ -117,7 +117,7 @@ deberíamos seguir en la
 práctica](/utilitarismo-y-etica-practica/#respeto-a-las-normas-morales-de-sentido-común),
 precisamente para que nuestras acciones tengan mejores resultados y
 eviten causar daño. Para más información y aclaraciones, véase la
-sección sobre "[utilitarismo
+sección sobre el "[utilitarismo
 multinivel](/tipos-de-utilitarismo#utilitarismo-multinivel-versus-utilitarismo-de-un-solo-nivel)"
 más adelante.
 
@@ -176,7 +176,7 @@ sexo, lugar o época en que vivan, o incluso de su especie. Según el
 utilitarismo, _en principio_ ni siquiera se debe privilegiar el
 bienestar de uno mismo o de la propia familia sobre el de extraños
 lejanos (aunque puede haber buenas razones _prácticas_ para
-hacerlo)..[^5]
+hacerlo).[^5]
 
 No todos los filósofos están de acuerdo en que la imparcialidad sea una
 característica esencial de la moral. Pueden sostener que se nos permite,
@@ -188,7 +188,7 @@ la igual consideración de intereses. Por ejemplo, el
 _[prioritarismo](/alternativas-casi-utilitaristas#prioritarismo)_ da más
 peso a los intereses de los más desfavorecidos, sean quienes sean.
 
-### Agregación
+### Agregacionismo
 
 El último elemento común del utilitarismo es el _agregaciónismo_, que
 definimos como sigue:
@@ -210,8 +210,7 @@ personas no pueden compensar los grandes beneficios obtenidos por unas
 pocas personas. Para ilustrar esta creencia, supongamos que nos
 enfrentamos a la disyuntiva de salvar la vida de una persona determinada
 o evitar que un gran grupo de personas sufra dolores de cabeza leves. Un
-[antiagregacionista](/objeciones-al-utilitarismo/separación-de-personas/#intuiciones-antiagrupativas)
-podría sostener que salvar la vida es moralmente más importante que
+[antiagregacionista](/objeciones-al-utilitarismo/separación-de-personas/#intuiciones-antiagrupativas) podría sostener que salvar la vida es moralmente más importante que
 evitar los dolores de cabeza, _sin importar el número de dolores de
 cabeza evitados_. Los utilitaristas razonarían que si hay suficientes
 personas cuyos dolores de cabeza se pueden evitar, entonces el bienestar
@@ -220,11 +219,11 @@ el bienestar total de salvar la vida, por lo que se deberían evitar los
 dolores de cabeza.[^8] El número de dolores de cabeza que tenemos que
 aliviar para que sea mejor que salvar una vida podría ser, en la
 práctica, _extremadamente_ alto, pero los utilitaristas, no obstante,
-creen que existe _algún_ número de dolores de cabeza tal que debería
-realizarse este intercambio.
+creen que existe _algún_ número de dolores de cabeza tal que justifica
+esta compensación.
 
-En la práctica, muchas personas y responsables políticos parecen avalar
-este tipo de intercambios. Por ejemplo, permitir que los coches circulen
+En la práctica, muchas personas y políticos responsables parecen avalar
+este tipo de compensaciones. Por ejemplo, permitir que los coches circulen
 rápido por las carreteras aumenta el número de personas que mueren en
 accidentes. Imponer límites de velocidad extremadamente bajos salvaría
 vidas a costa de incomodar a muchos conductores. La mayoría de la gente
@@ -280,7 +279,7 @@ consciente negativa_, respectivamente.
 
 Analizamos los argumentos a favor y en contra del hedonismo —y de sus
 dos principales rivales, las _teorías del deseo_ y las _teorías de la
-lista objetiva_— en el capítulo [Teoriías del
+lista objetiva_— en el capítulo [Teorías del
 bienestar](/teorias-del-bienestar).
 
 ### Ética de la población: la perspectiva total
@@ -294,7 +293,7 @@ como la _perspectiva total_, que sostiene que:
 > total.**
 
 La perspectiva total implica que podemos mejorar el mundo de dos
-maneras:[^8a] podemos mejorar la calidad de vida de las personas
+maneras:[^8] podemos mejorar la calidad de vida de las personas
 existentes, o podemos aumentar el número de personas que viven una vida
 positiva.[^9] En la práctica, a menudo hay que elegir entre hacer más
 felices a las personas existentes o crear más personas felices. En un
@@ -305,11 +304,10 @@ disminuya.
 
 La principal consecuencia práctica de la perspectiva total es [dar gran
 importancia](/utilitarismo-y-etica-practica#largoplacismo) a garantizar
-el florecimiento de la civilización a largo plazo. Dado que el bienestar
+la prosperidad de la civilización a largo plazo. Dado que el bienestar
 total del que disfrutarán todas las personas futuras es potencialmente
 enorme, la [mitigación de los riesgos
-existenciales](/actuar-conforme-al-utilitarismo#reduccion-de-riesgos-existenciales)
-—que amenazan con destruir este inmenso valor futuro—es, según la
+existenciales](/actuar-conforme-al-utilitarismo#reduccion-de-riesgos-existenciales) —que amenazan con destruir este inmenso valor futuro— es, según la
 perspectiva total, una de las principales cuestiones morales a las que
 se enfrenta la humanidad.
 
@@ -317,7 +315,7 @@ Las alternativas a la perspectiva total en la ética de la población
 incluyen la _perspectiva promedio_, las _teorías del valor variable_,
 las _teorías del nivel (y rango) crítico,_ y las _perspectivas centradas
 en las personas afectadas_. Explicamos y analizamos estas teorías en el
-capítulo sobre [ética de la población](/etica-de-la-poblcaion).
+capítulo sobre la [ética de la población](/etica-de-la-poblcaion).
 
 ## Otras distinciones entre teorías utilitaristas
 
@@ -334,14 +332,14 @@ población preferidas, también debemos considerar:
 
 ### Reconstruir la corrección moral: utilitarismo maximizador, de suficiencia y escalar
 
-El utilitarismo se suele formular en su forma maximizadora: que, dado
+El utilitarismo se suele formular en su forma maximizadora: dado
 cualquier conjunto de opciones, la acción que produce el mayor bienestar
 es correcta, y todas las demás acciones son incorrectas.
 
 Aunque ésta es la formulación más común del utilitarismo,[^10] puede
 resultar engañosa en algunos aspectos. Los utilitaristas están de
 acuerdo en que _idealmente_ una persona debería elegir la acción que
-mejor promueve el bienestar general. Eso es lo que la persona tiene
+promueve mejor el bienestar general. Eso es lo que la persona tiene
 _más_ razones morales para hacer. Pero no recomiendan _censurar_ a la
 persona cada vez que no alcance este ideal.[^11] Como resultado, muchos
 utilitaristas consideran que es engañoso que se interpreten sus
@@ -366,8 +364,7 @@ suficiencia](https://plato.stanford.edu/entries/consequentialism/#ConWhoLimDemMo
 sostiene que, entre cualquier conjunto de opciones, una acción es
 correcta si y sólo si produce _suficiente_ bienestar.[^13] Esta
 propuesta tiene sus propios problemas y aún no ha encontrado un amplio
-apoyo.[^14] En el caso expuesto en el párrafo anterior, seguimos
-queriendo decir que hay buenas razones para salvar a las 1000 personas
+apoyo.[^14] En el caso expuesto en el párrafo anterior, aún queremos decir que hay buenas razones para salvar a las 1000 personas
 antes que a las 999; calificar ambas acciones de correctas supondría el
 riesgo de ignorar la importante diferencia moral entre estas dos
 opciones. Así que, aunque podemos sentirnos atraídos por una explicación
@@ -381,7 +378,7 @@ siguiente manera:
 
 > **El utilitarismo escalar es la perspectiva de que la evaluación moral
 > es una cuestión de grado: cuanto más promueva un acto el bienestar,
-> más razones morales se tienen para realizar ese acto.**[^16]
+> más razones morales habrá para realizar ese acto.**[^16]
 
 De acuerdo con esta perspectiva, no existe una distinción fundamental y
 tajante entre acciones "correctas" e "incorrectas", sino una escala
@@ -391,7 +388,7 @@ Tradicionalmente, los filósofos han concebido el utilitarismo
 maximizador, el utilitarismo de suficiencia y el utilitarismo escalar
 como perspectivas enfrentadas. Pero más recientemente se ha sugerido que
 los utilitaristas podrían aceptar fructíferamente las tres, construyendo
-_múltiples_ sentidos diferentes de 'debería' o 'correcto'.[^18] Según
+_múltiples_ sentidos diferentes de "debería" o "correcto".[^18] Según
 este enfoque pluralista, (i) los maximizadores están en lo cierto al
 sostener que Sophie _idealmente_ debería salvar a todas las 1000
 personas; (ii) los partidarios del utilitarismo de suficiencia pueden
@@ -406,7 +403,7 @@ instancia, esto es una cuestión de grado, y que el beneficio de salvar a
 
 Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever
 todas las consecuencias de nuestras acciones. Muchos filósofos han
-sostenido que lo que debemos hacer depende de lo que (deberíamos) creer
+sostenido que lo que debemos hacer depende de lo que creemos, o más bien deberíamos creer,
 en el momento de la acción. El ejemplo más destacado de este tipo de
 razonamiento es el _utilitarismo de expectativas_.[^19]
 
@@ -451,14 +448,13 @@ administrarle ningún tratamiento. La decisión del médico resultó ser
 inmensamente afortunada, pero fue extremadamente imprudente e irracional
 dada la información de que disponía.
 
-Cuando existe un conflicto de este tipo entre qué acto sería _realmente_
-mejor frente a cuál sería _esperablemente_ mejor, ¿existe un hecho
-objetivo sobre qué acto es "realmente" correcto? Muchos filósofos opinan
+Cuando existe un conflicto de este tipo entre qué acto sería el mejor _de hecho_
+frente a cuál sería el mejor _en términos esperados_, ¿hay algo que pueda indicar qué acto es "realmente" correcto? Muchos filósofos opinan
 que se trata de una disputa meramente verbal. Podemos hablar de la
-opción realmente mejor como "objetivamente correcta" y de la opción
-esperablemente mejor como "subjetivamente correcta", y cada uno de estos
+mejor opción de hecho como "objetivamente correcta" y de la mejor opción
+en términos esperados como "subjetivamente correcta", y cada uno de estos
 conceptos podría tener un papel teórico legítimo. Por ejemplo,
-deberíamos _preferir_ que se produjera el mejor resultado real. Pero
+deberíamos _preferir_ que se produjera el mejor resultado de hecho. Pero
 también deberíamos reconocer que, dadas nuestras limitaciones
 cognitivas, en la práctica sería más sensato guiarnos por
 consideraciones de valor esperado.
@@ -527,8 +523,7 @@ heurística recomendada por el utilitarismo multinivel produce mejores
 resultados, la teoría tiene éxito.
 
 Una objeción común al utilitarismo multinivel es que _[causa su propia
-desaparición](/objeciones-al-utilitarismo/abusabilidad/#causa-el-utilitarismo-su-propia-desaparicion)_.
-Se dice que una teoría causa (parcialmente) su propia desaparición si (a
+desaparición](/objeciones-al-utilitarismo/abusabilidad/#causa-el-utilitarismo-su-propia-desaparicion)_. Se dice que una teoría causa (parcialmente) su propia desaparición si (a
 veces) exige a sus seguidores que sigan una teoría diferente. El
 utilitarismo multinivel a menudo prohíbe utilizar el criterio
 utilitarista cuando tomamos decisiones, y en su lugar recomienda actuar
@@ -545,16 +540,15 @@ fácil confundirlas. Sin embargo, las dos teorías son distintas y es
 importante entender en qué se diferencian.
 
 El utilitarismo multinivel considera que el utilitarismo es el criterio
-de corrección moral. Esto significa que no considera las heurísticas
-recomendadas como la justificación ética última de cualquier acción,
-sino que ésta viene determinada por la tendencia de la acción a aumentar
+de corrección moral. Esto significa que la justificación ética última de cualquier acción no está determinada por las heurísticas
+recomendadas, sino por la tendencia de la acción a aumentar
 el bienestar. En cambio, para el utilitarismo de las reglas, la
 conformidad con un conjunto de reglas es el criterio de corrección
 moral: la razón por la que una acción es correcta o incorrecta es que se
 ajusta o no al conjunto correcto de reglas.
 
-En la medida en que compartimos la preocupación utilitarista fundamental
-por promover el bienestar, y simplemente nos preocupa que la búsqueda
+En la medida en que compartamos la preocupación utilitarista fundamental
+por promover el bienestar, y simplemente nos preocupe que la búsqueda
 deliberada de este objetivo resulte contraproducente, esto debería
 llevarnos a aceptar el utilitarismo multinivel en lugar de algún tipo de
 utilitarismo de las reglas.
@@ -613,7 +607,7 @@ utilitarista directa de que sería bueno censurar a la gente por realizar
 actos buenos y no por realizar actos malos, ya que así se obtendrían los
 mejores resultados (en el escenario imaginado). Pero una segunda
 afirmación distinta es que sólo los actos malos son realmente
-censurables en el sentido de que merecen intrínsecamente la
+_dignos_ de censura en el sentido de que _merecen_ intrínsecamente la
 desaprobación moral.[^28] Es importante destacar que estas dos
 afirmaciones son compatibles. Podemos sostener _tanto_ que la tortura
 gratuita (por ejemplo) justifica la desaprobación moral, _y_ que sería
