@@ -43,14 +43,13 @@ is to multiply the number of individuals (N) with their average quality
 of life (Q).[^4] We can, therefore, represent the total view by the
 following value function:
 
-**Value<sub>total view</sub> = N \* Q**
+**Value~total view~ = N \* Q**
 
-Consider a hypothetical world A with 100 inhabitants (N<sub>A</sub>) at
-average well-being level 10 (Q<sub>A</sub>) and another hypothetical
-world B with 200 inhabitants (N<sub>B</sub>) at well-being level 5
-(Q<sub>B</sub>). On the total view, worlds A and B are equally good
-because they both have 1,000 units of well-being (N<sub>A</sub> \*
-Q<sub>A</sub> = N<sub>B</sub> \* Q<sub>B</sub> = 1,000).
+Consider a hypothetical world A with 100 inhabitants (N~A~) at average
+well-being level 10 (Q~A~) and another hypothetical world B with 200
+inhabitants (N~B~) at well-being level 5 (Q~B~). On the total view,
+worlds A and B are equally good because they both have 1,000 units of
+well-being (N~A~ \* Q~A~ = N~B~ \* Q~B~ = 1,000).
 
 When making such comparisons between hypothetical worlds in population
 ethics, these worlds are often illustrated graphically. The width of the
@@ -258,7 +257,7 @@ level_, it disregards—in contrast to the total view—the number of
 individuals that exist.[^25] Consequently, the average view is
 represented by a simple value function, with average well-being level Q:
 
-**Value<sub>average view</sub> = Q**
+**Value~average view~ = Q**
 
 The average view avoids the repugnant conclusion because it entails that
 reductions in the average well-being level can never be compensated for
@@ -307,7 +306,7 @@ The simplest variable value theories may be represented by the following
 value function, with number of individuals N and average quality of life
 Q:[^28]
 
-> **Value<sub>variable value</sub> = Q \* f(N)**
+> **Value~variable value~ = Q \* f(N)**
 
 This diminishing marginal value allows variable value theories to avoid
 some of the weaknesses of the total and average views. For instance,
@@ -357,7 +356,7 @@ The total value of an outcome, according to critical level theories, can
 be represented by the following value function, with number of
 individuals N, average quality of live Q, and critical level α:
 
-**Value<sub>critical level</sub> = N \* (Q - α)**
+**Value~critical level~ = N \* (Q - α)**
 
 By looking at this value function, we may observe that the total view of
 population ethics is simply a critical level theory with a critical
@@ -531,14 +530,14 @@ value_ to the outcome. But this falsely implies that creating lives with
 low positive welfare is just as good as creating an equal number of
 lives at a high welfare level. For example, consider the choice between
 creating either of two worlds inhabited by different sets of future
-people. In world A<sub>1</sub>, everyone has a wonderful life. In world
-A<sub>2</sub>, all people have lives that are much worse than in
-A<sub>1</sub> yet still positive.
+people. In world A~1~, everyone has a wonderful life. In world
+A~2~, all people have lives that are much worse than in
+A~1~ yet still positive.
 
 ![Person affecting views and the asymmetry](/img/population-ethics-7.png
 "Person affecting views and the asymmetry")
 
-Clearly, we should prefer world A<sub>1</sub> over A<sub>2</sub>.
+Clearly, we should prefer world A~1~ over A~2~.
 However, the simplest version of the procreative asymmetry implies that
 both worlds are equally good—because they are not good at all.
 
@@ -564,8 +563,8 @@ To help address these problems, we may consider a more complex
 person-affecting view—one analogous to the critical range theory,
 discussed above, but with infinite value blur, yielding the result that
 _all_ (positive) lives are “meh”.[^54] On such a view, it is better to
-create a flourishing life than a mediocre one (so A<sub>1</sub> is
-indeed better than A<sub>2</sub>, at least if they contain the exact
+create a flourishing life than a mediocre one (so A~1~ is
+indeed better than A~2~, at least if they contain the exact
 same number of people), but _either_ choice is merely on a par with
 creating neither.
 
@@ -1004,11 +1003,11 @@ W." >}}
     of the critical range. So, using positive and negative subscripts to
     denote the respective numbers (N), averages (Q), and critical
     boundary points (α) for these two subpopulations, we can write the
-    value function as: <strong>N<sub>+</sub> \* (Q<sub>+</sub> -
-    α<sub>+</sub>) + N<sub>-</sub> \* (Q<sub>-</sub> -
-    α<sub>-</sub>)</strong>.
+    value function as: <strong>N~+~ \* (Q~+~ -
+    α~+~) + N~-~ \* (Q~-~ -
+    α~-~)</strong>.
 
-    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N \* (Q - α<sub>-</sub>) </strong>to <strong>N \* (Q - α<sub>+</sub>)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
+    Alternatively, we might think of the value of the world as itself indeterminate or corresponding to a numerical range, as given by all the possible critical level theories corresponding to the critical range, i.e.: everything from <strong>N \* (Q - α~-~) </strong>to <strong>N \* (Q - α~+~)</strong>. On this approach, the value of the repugnant world Z, for example, would be indeterminate across an immense range of values stemming from _extremely negative_ to _extremely positive_, because <strong>N</strong> is unimaginably huge whereas the sign of <strong>(Q - α)</strong> is indeterminate, given the range of candidate critical levels <strong>α</strong>.
 
 [^45]: On the total view, adding a person with positive well-being is
     always good, all else equal. The same is true for variable value
