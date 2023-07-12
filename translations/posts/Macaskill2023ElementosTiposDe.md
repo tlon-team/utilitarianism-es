@@ -104,8 +104,8 @@ es un tipo de consecuencialismo.[^1] Como argumenta Brad Hooker, el
 principal consecuencialista de las reglas del mundo, no es plausible
 sostener que el consecuencialismo de las reglas esté motivado por el
 compromiso consecuencialista de que los resultados sean lo mejor
-posible: el argumento a favor del consecuencialismo de las reglas es, más
-bien, que justifica imparcialmente reglas morales intuitivamente
+posible: el argumento a favor del consecuencialismo de las reglas es,
+más bien, que justifica imparcialmente reglas morales intuitivamente
 plausibles.[^2] Esto marca una importante diferencia con las teorías
 consecuencialistas fundacionales.
 
@@ -194,7 +194,7 @@ El último elemento común del utilitarismo es el _agregaciónismo_, que
 definimos como sigue:
 
 > **El agregacionismo es la perspectiva de que el valor de un resultado
-> es determinado por la *suma*[^6] del valor de las vidas que
+> está determinado por la *suma*[^6] del valor de las vidas que
 > contiene.**[^7]
 
 Cuando se combina con el bienestarismo y la imparcialidad, el
@@ -210,7 +210,8 @@ personas no pueden compensar los grandes beneficios obtenidos por unas
 pocas personas. Para ilustrar esta creencia, supongamos que nos
 enfrentamos a la disyuntiva de salvar la vida de una persona determinada
 o evitar que un gran grupo de personas sufra dolores de cabeza leves. Un
-[antiagregacionista](/objeciones-al-utilitarismo/separación-de-personas/#intuiciones-antiagrupativas) podría sostener que salvar la vida es moralmente más importante que
+[antiagregacionista](/objeciones-al-utilitarismo/separación-de-personas/#intuiciones-antiagrupativas)
+podría sostener que salvar la vida es moralmente más importante que
 evitar los dolores de cabeza, _sin importar el número de dolores de
 cabeza evitados_. Los utilitaristas razonarían que si hay suficientes
 personas cuyos dolores de cabeza se pueden evitar, entonces el bienestar
@@ -223,13 +224,13 @@ creen que existe _algún_ número de dolores de cabeza tal que justifica
 esta compensación.
 
 En la práctica, muchas personas y políticos responsables parecen avalar
-este tipo de compensaciones. Por ejemplo, permitir que los coches circulen
-rápido por las carreteras aumenta el número de personas que mueren en
-accidentes. Imponer límites de velocidad extremadamente bajos salvaría
-vidas a costa de incomodar a muchos conductores. La mayoría de la gente
-demuestra un compromiso implícito con el agregacionismo cuando juzga que
-es peor imponer estos muchos inconvenientes en aras de salvar unas pocas
-vidas.
+este tipo de compensaciones. Por ejemplo, permitir que los coches
+circulen rápido por las carreteras aumenta el número de personas que
+mueren en accidentes. Imponer límites de velocidad extremadamente bajos
+salvaría vidas a costa de incomodar a muchos conductores. La mayoría de
+la gente demuestra un compromiso implícito con el agregacionismo cuando
+juzga que es peor imponer estos muchos inconvenientes en aras de salvar
+unas pocas vidas.
 
 ## Los dos elementos del utilitarismo clásico
 
@@ -307,7 +308,8 @@ importancia](/utilitarismo-y-etica-practica#largoplacismo) a garantizar
 la prosperidad de la civilización a largo plazo. Dado que el bienestar
 total del que disfrutarán todas las personas futuras es potencialmente
 enorme, la [mitigación de los riesgos
-existenciales](/actuar-conforme-al-utilitarismo#reduccion-de-riesgos-existenciales) —que amenazan con destruir este inmenso valor futuro— es, según la
+existenciales](/actuar-conforme-al-utilitarismo#reduccion-de-riesgos-existenciales)
+—que amenazan con destruir este inmenso valor futuro— es, según la
 perspectiva total, una de las principales cuestiones morales a las que
 se enfrenta la humanidad.
 
@@ -364,13 +366,14 @@ suficiencia](https://plato.stanford.edu/entries/consequentialism/#ConWhoLimDemMo
 sostiene que, entre cualquier conjunto de opciones, una acción es
 correcta si y sólo si produce _suficiente_ bienestar.[^13] Esta
 propuesta tiene sus propios problemas y aún no ha encontrado un amplio
-apoyo.[^14] En el caso expuesto en el párrafo anterior, aún queremos decir que hay buenas razones para salvar a las 1000 personas
-antes que a las 999; calificar ambas acciones de correctas supondría el
-riesgo de ignorar la importante diferencia moral entre estas dos
-opciones. Así que, aunque podemos sentirnos atraídos por una explicación
-de este tipo sobre lo que los agentes están _obligados_ a hacer para
-cumplir con normas morales mínimas,[^15] esta perspectiva también debe
-ser suplementada.
+apoyo.[^14] En el caso expuesto en el párrafo anterior, aún queremos
+decir que hay buenas razones para salvar a las 1000 personas antes que a
+las 999; calificar ambas acciones de correctas supondría el riesgo de
+ignorar la importante diferencia moral entre estas dos opciones. Así
+que, aunque podemos sentirnos atraídos por una explicación de este tipo
+sobre lo que los agentes están _obligados_ a hacer para cumplir con
+normas morales mínimas,[^15] esta perspectiva también debe ser
+suplementada.
 
 En su lugar, es más popular entre los principales utilitaristas de hoy
 apoyar una forma de _utilitarismo escalar_, que se puede definir de la
@@ -403,9 +406,9 @@ instancia, esto es una cuestión de grado, y que el beneficio de salvar a
 
 Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever
 todas las consecuencias de nuestras acciones. Muchos filósofos han
-sostenido que lo que debemos hacer depende de lo que creemos, o más bien deberíamos creer,
-en el momento de la acción. El ejemplo más destacado de este tipo de
-razonamiento es el _utilitarismo de expectativas_.[^19]
+sostenido que lo que debemos hacer depende de lo que creemos, o más bien
+deberíamos creer, en el momento de la acción. El ejemplo más destacado
+de este tipo de razonamiento es el _utilitarismo de expectativas_.[^19]
 
 > **El utilitarismo de expectativas es la perspectiva según la cual
 > deberíamos promover el _bienestar esperado_.**
@@ -448,15 +451,16 @@ administrarle ningún tratamiento. La decisión del médico resultó ser
 inmensamente afortunada, pero fue extremadamente imprudente e irracional
 dada la información de que disponía.
 
-Cuando existe un conflicto de este tipo entre qué acto sería el mejor _de hecho_
-frente a cuál sería el mejor _en términos esperados_, ¿hay algo que pueda indicar qué acto es "realmente" correcto? Muchos filósofos opinan
-que se trata de una disputa meramente verbal. Podemos hablar de la
-mejor opción de hecho como "objetivamente correcta" y de la mejor opción
-en términos esperados como "subjetivamente correcta", y cada uno de estos
-conceptos podría tener un papel teórico legítimo. Por ejemplo,
-deberíamos _preferir_ que se produjera el mejor resultado de hecho. Pero
-también deberíamos reconocer que, dadas nuestras limitaciones
-cognitivas, en la práctica sería más sensato guiarnos por
+Cuando existe un conflicto de este tipo entre qué acto sería el mejor
+_de hecho_ frente a cuál sería el mejor _en términos esperados_, ¿hay
+algo que pueda indicar qué acto es "realmente" correcto? Muchos
+filósofos opinan que se trata de una disputa meramente verbal. Podemos
+hablar de la mejor opción de hecho como "objetivamente correcta" y de la
+mejor opción en términos esperados como "subjetivamente correcta", y
+cada uno de estos conceptos podría tener un papel teórico legítimo. Por
+ejemplo, deberíamos _preferir_ que se produjera el mejor resultado de
+hecho. Pero también deberíamos reconocer que, dadas nuestras
+limitaciones cognitivas, en la práctica sería más sensato guiarnos por
 consideraciones de valor esperado.
 
 
@@ -523,7 +527,8 @@ heurística recomendada por el utilitarismo multinivel produce mejores
 resultados, la teoría tiene éxito.
 
 Una objeción común al utilitarismo multinivel es que _[causa su propia
-desaparición](/objeciones-al-utilitarismo/abusabilidad/#causa-el-utilitarismo-su-propia-desaparicion)_. Se dice que una teoría causa (parcialmente) su propia desaparición si (a
+desaparición](/objeciones-al-utilitarismo/abusabilidad/#causa-el-utilitarismo-su-propia-desaparicion)_.
+Se dice que una teoría causa (parcialmente) su propia desaparición si (a
 veces) exige a sus seguidores que sigan una teoría diferente. El
 utilitarismo multinivel a menudo prohíbe utilizar el criterio
 utilitarista cuando tomamos decisiones, y en su lugar recomienda actuar
@@ -540,12 +545,13 @@ fácil confundirlas. Sin embargo, las dos teorías son distintas y es
 importante entender en qué se diferencian.
 
 El utilitarismo multinivel considera que el utilitarismo es el criterio
-de corrección moral. Esto significa que la justificación ética última de cualquier acción no está determinada por las heurísticas
-recomendadas, sino por la tendencia de la acción a aumentar
-el bienestar. En cambio, para el utilitarismo de las reglas, la
-conformidad con un conjunto de reglas es el criterio de corrección
-moral: la razón por la que una acción es correcta o incorrecta es que se
-ajusta o no al conjunto correcto de reglas.
+de corrección moral. Esto significa que la justificación ética última de
+cualquier acción no depende de las heurísticas recomendadas, sino de la
+tendencia de la acción a aumentar el bienestar. En cambio, para el
+utilitarismo de las reglas, la conformidad con un conjunto de reglas es
+el criterio de corrección moral: la razón por la que una acción es
+correcta o incorrecta es que se ajusta o no al conjunto correcto de
+reglas.
 
 En la medida en que compartamos la preocupación utilitarista fundamental
 por promover el bienestar, y simplemente nos preocupe que la búsqueda
@@ -607,10 +613,10 @@ utilitarista directa de que sería bueno censurar a la gente por realizar
 actos buenos y no por realizar actos malos, ya que así se obtendrían los
 mejores resultados (en el escenario imaginado). Pero una segunda
 afirmación distinta es que sólo los actos malos son realmente
-_dignos_ de censura en el sentido de que _merecen_ intrínsecamente la
+_censurables_ en el sentido de que _merecen_ intrínsecamente la
 desaprobación moral.[^28] Es importante destacar que estas dos
 afirmaciones son compatibles. Podemos sostener _tanto_ que la tortura
-gratuita (por ejemplo) justifica la desaprobación moral, _y_ que sería
+gratuita (por ejemplo) justifica la desaprobación moral _como_ que sería
 una mala idea expresar tal desaprobación si hacerlo sólo empeorara las
 cosas.
 
@@ -619,24 +625,24 @@ híbrido_, que definimos como sigue:
 
 > **El utilitarismo híbrido es la perspectiva según la cual, aunque uno
 > siempre debe promover el bienestar general, la calidad moral de un
-> objetivo o intención puede depender de factores distintos a si
-> promueve el bienestar general.**
+> objetivo o intención puede depender de otros factores no relacionados
+> con el hecho de que promueva el bienestar general.**
 
 En particular, los utilitaristas híbridos pueden entender que la virtud
-y el mérito se refieren a si el agente _intenta_ conseguir buenos
-resultados, en contraste con la evaluación utilitarista global de si las
+y el mérito se refieren a los _intentos_ del agente de conseguir buenos
+resultados, en contraste con el utilitarista global, que evalua si las
 intenciones del agente _producen_ buenos resultados. Cuando los dos
 entran en conflicto, deberíamos preferir conseguir buenos resultados a
-simplemente intentar conseguirlos. En este sentido, pues, el
-utilitarista híbrido está de acuerdo con mucho de lo que quiere decir el
-utilitarista global. Los utilitaristas híbridos sólo sostienen que hay
-que decir algo más.[^29] Por ejemplo, si alguien es involuntariamente
-antifiable en la consecución de sus objetivos (es decir, si consigue con
-fiabilidad lo _opuesto_ a lo que intenta, sin darse cuenta de ello),
-sería claramente _desafortunado_ que intentara sinceramente promover el
-bien general, y deberíamos impedirle tener este objetivo si podemos.
-Pero sus buenas intenciones podrían ser genuinamente _virtuosas_ y
-admirables a pesar de todo.
+simplemente intentar conseguirlos. En este sentido, el utilitarista
+híbrido está de acuerdo con mucho de lo que quiere decir el utilitarista
+global. Los utilitaristas híbridos sólo sostienen que hay que decir algo
+más.[^29] Por ejemplo, si alguien es involuntariamente antisistemático
+en la consecución de sus objetivos (es decir, si consigue
+sistemáticamente lo _opuesto_ a lo que intenta, sin darse cuenta de
+ello), sería claramente _desafortunado_ que intentara sinceramente
+promover el bien general, y deberíamos impedirle tener este objetivo si
+podemos. Pero sus buenas intenciones podrían ser genuinamente
+_virtuosas_ y admirables a pesar de todo.
 
 Los puristas pueden objetar que el utilitarismo híbrido no es
 "realmente" una forma de utilitarismo. Y, de hecho, es un punto de vista
@@ -671,7 +677,7 @@ suficiencia, el utilitarismo de expectativas del utilitarismo objetivo,
 el utilitarismo multinivel del utilitarismo de un solo nivel, y el
 utilitarismo híbrido del utilitarismo global puro. Estas distinciones
 pueden marcar una diferencia significativa en cuanto a la plausibilidad
-de la teoría resultante y a su vulnerable frente a [diversas
+de la teoría resultante y a su vulnerabilidad frente a [diversas
 objeciones](/objeciones-al-utilitarismo/#objeciones-especificas-al-utilitarismo).
 
 En el capítulo siguiente se discuten argumentos a favor del utilitarismo
@@ -683,9 +689,9 @@ url="/arguments-for-utilitarianism" >}}
 {{< how-to-cite authors="MacAskill, W., Meissner, D., y Chappell, R.Y."
 >}}
 
-{{< botón >}}
+{{< button >}}
 
-## Recursos y Más información
+## Recursos y más información
 
 ### Consecuencialismo
 
@@ -761,43 +767,42 @@ url="/arguments-for-utilitarianism" >}}
     es un tipo de flor; y el lémur volador no es un lémur y no vuela.
 [^2]:
     Por ejemplo, Hooker escribe: "La viabilidad de esta defensa del
-    consecuencialismo de reglas contra la objeción de incoherencia puede
-    depender en parte de cuál se supone que es el argumento a favor del
-    consecuencialismo de reglas. La defensa parece menos viable si el
-    argumento a favor del consecuencialismo de las reglas parte de un
-    compromiso con la evaluación consecuencialista. Pues partir de tal
-    compromiso parece muy cercano a partir de un compromiso predominante
-    de maximizar el bien esperado. La defensa contra la objeción de
-    incoherencia parece mucho más sólida, sin embargo, si el argumento a
-    favor del consecuencialismo de reglas es que esta teoría lo hace
-    mejor que cualquier otra teoría moral a la hora de especificar una
-    justificación imparcial para reglas morales intuitivamente
-    plausibles."
+    consecuencialismo de las reglas contra la objeción de incoherencia
+    puede depender en parte de cuál se supone que sea el argumento a
+    favor del consecuencialismo de las reglas. La defensa parece menos
+    viable si el argumento a favor del consecuencialismo de las reglas
+    parte de un compromiso con la evaluación consecuencialista. Pues
+    partir de tal compromiso se asemeja demasiado a partir de un
+    compromiso predominante de maximizar el bien esperado. La defensa
+    contra la objeción de incoherencia parece mucho más sólida, sin
+    embargo, si el argumento a favor del consecuencialismo de las reglas
+    es que esta teoría moral es mejor que cualquier otra para
+    especificar una justificación imparcial de reglas morales
+    intuitivamente plausibles."
 
     [@Hooker1990Ruleconsequentialism].
 
-[^3]: Asignar más valor a las distribuciones del bienestar (por ejemplo,
-    a las más equitativas) va más allá del bienestarismo, pues considera
-    intrínsecamente valioso algo diferente del bienestar mismo.
+[^3]: Asignar valor adicional a las distribuciones del bienestar (por
+    ejemplo, a las más equitativas) va más allá del bienestarismo, ya
+    que implica que hay algo intrínsecamente valioso que es diferente
+    del bienestar mismo.
 [^4]: [@Sidgwick1874MethodsEthics, p. 186].
-[^5]: Véase [La objeción de las obligaciones
-    especiales](/objeciones-al-utilitarismo/obligaciones-especiales/)
-    para una discusión más detallada.
-
+[^5]: Para una discusión más detallada, véase [La objeción de las
+    obligaciones
+    especiales](/objeciones-al-utilitarismo/obligaciones-especiales/).
 [^6]: En principio, otros métodos de agregación (como la multiplicación
     o algo más complejo) son concebibles. Pero aquí nos centramos en la
     forma aditiva del agregacionismo, ya que es, con mucho, el punto de
     vista más común.
 [^7]: Esta definición se aplica a un contexto de población fija, en el
-    que las acciones de uno no afectan al número o la identidad de las
-    personas. Hay teorías agregacionistas que difieren en cómo lidian
-    con los contextos de población variable. Se trata de una cuestión
-    técnica, relevante para el debate sobre la [ética de la
+    que las acciones individuales no afectan al número o la identidad de
+    las personas. Hay teorías agregacionistas que difieren en el modo de
+    lidiar con los contextos de población variable. Se trata de una
+    cuestión técnica, relevante para el debate sobre la [ética de la
     población](/ética-de-la-poblacion) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos
-recomiendan de forma inverosímil elecciones que, cuando se repiten un
-número suficiente de veces en la población, empeoran la situación de
-todos.
+recomiendan elecciones implausibles que, cuando se repiten un número
+suficiente de veces en la población, empeoran la situación de todos.
 
     [@Parfit2003JustifiabilityEachPerson, pp. 368-390].
 
@@ -818,7 +823,7 @@ todos.
     vivida". Puede ser una vida sin valor ni disvalor, o una vida con
     exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida “digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66-68].
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66-68].
 
 [^10]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill
@@ -854,20 +859,20 @@ todos.
 
 [^14]: En particular, los enfoques tradicionales del utilitarismo de
     suficiencia tienen dificultades para ofrecer una especificación no
-    arbitraria del umbral que hay que cruzar para hacer "suficiente"
-    bien, y son vulnerables a la objeción de que permiten la prevención
-    gratuita del bien por encima de este umbral. Ambas objeciones se
-    abordan en [@Chappell2019WillpowerSatisficing].
+    arbitraria del umbral que hay que cruzar para hacer el bien en
+    cantidad "suficiente", y son vulnerables a la objeción de que
+    permiten la obstaculización gratuita del bien por encima de este
+    umbral. Ambas objeciones se abordan en
+    [@Chappell2019WillpowerSatisficing].
 [^15]: Véase, por ejemplo, [@Chappell2020DeonticPluralismAnd].
 [^16]: [@Norcross2020MoralityByDegrees].
 [^17]:
 Neil Sinhababu propone una forma de consecuencialismo escalar que
 considera que lo correcto y lo incorrecto son en sí mismos cuestiones de
-grado, pero el punto límite entre ambos viene determinado por el
-contexto de la conversación y no por algo moralmente fundamental (o, de
-hecho, genuinamente significativo en modo alguno). En consecuencia,
-parece una variante meramente verbal de la definición que utilizamos
-aquí.
+grado, pero el punto límite entre ambos depende del contexto de la
+conversación y no de algo moralmente fundamental (o, de hecho,
+genuinamente significativo en modo alguno). En consecuencia, parece una
+variante meramente verbal de la definición que utilizamos aquí.
 
      [@Sinhababu2018ScalarConsequentialismRight].
 
@@ -915,12 +920,12 @@ consecuencialismo global como un enfoque diferente, véase:
 
     [@Chappell2012FittingnessSoleNormative].
 
-    Este último artículo sostiene que el consecuencialismo global se entiende mejor como una variante meramente verbal del consecuencialismo de acto.
+    Este último artículo sostiene que el consecuencialismo global se entiende mejor como una variante meramente verbal del consecuencialismo de los actos.
 
 [^26]: [@Driver2001ConsequentialistTheoryOf].
 [^27]: [@Hurka2001VirtueViceValue].
-[^28]: Esto refleja la distinción de Parfit entre razones “derivadas del
-    estado" y razones “derivadas del objeto”.
+[^28]: Esto refleja la distinción de Parfit entre razones "derivadas del
+    estado" y razones "derivadas del objeto".
     [@Parfit2011WhatMattersVolume, p. 50].
 [^29]: Para una mayor defensa de este punto de vista, véase
     [@Chappell2024ConsequentialismCoreAnd].
