@@ -52,13 +52,13 @@ basaron en ideas que se remontan a los antiguos griegos. Desde entonces,
 el utilitarismo ha sido ampliamente discutido y ha tenido una influencia
 significativa en la economía y las políticas públicas.
 
-## Trayectoria
+## Historial
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la
-correcta, el razonamiento moral utilitarista tiene una sólida
-trayectoria de contribución al progreso moral colectivo de la humanidad,
-lo que sugiere que al menos puede haber algo moralmente beneficioso en
-estas ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
+correcta, el razonamiento moral utilitarista tiene un sólido historial
+de contribución al progreso moral colectivo de la humanidad, lo que
+sugiere que al menos puede haber algo moralmente saludable en estas
+ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
 actitudes sociales y políticas muy adelantadas a su tiempo: como
 reformador social progresista, [Jeremy
 Bentham](pensador-utilitarista/jeremy-bentham) defendió cuestiones como
@@ -126,15 +126,16 @@ porque en el lenguaje común la palabra "utilitarista" se confunde
 fácilmente con la funcionalidad neutra o incluso con el puro egoísmo.
 
 Todas las teorías éticas de la familia utilitarista comparten cuatro
-elementos definitorios: consecuencialismo, bienestarismo, imparcialidad
-y agregacionismo, que definiremos a continuación:
+elementos definitorios: el consecuencialismo, el bienestarismo, la
+imparcialidad y el agregacionismo, que definiremos a continuación:
 
-1.  **Consecuencialismo:** uno debe siempre promover los buenos resultados.
-2.  **Bienestarismo:** el valor de un resultado está totalmente determinado
-por el bienestar de los individuos que lo integran.
+1.  **Consecuencialismo:** uno debe siempre promover los buenos
+    resultados.
+2.  **Bienestarismo:** el valor de un resultado está totalmente
+determinado por el bienestar de los individuos que lo integran.
 3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente
     valiosa sin importar *de quién* sea el bienestar.
-4.  **Agregacionismo**: el valor de un resultado es determinado por la
+4.  **Agregacionismo**: el valor de un resultado está determinado por la
     *suma* del valor de las vidas que contiene.[^12]
 
 [Los rivales del utilitarismo](/alternativas-casi-utilitaristas) son
@@ -166,12 +167,12 @@ consecuencialista.
 En los capítulos 4 y 5 se analizan, respectivamente, [teorías del
 bienestar](/teorieas-del-bienestar/) y de la [ética de la
 población](/etica-de-la-poblacion/) específicas. Aunque el utilitarismo
-se asocia a menudo con el *hedonismo* del bienestar y la *perspectiva
-total* de la ética de la población (una combinación conocida como
-*utilitarismo clásico*), hay otras opciones que también vale la pena
-considerar. Es útil tener en cuenta, sobre todo, que las objeciones al
-hedonismo o a la perspectiva total pueden dejar intactas otras formas de
-utilitarismo.
+se asocia a menudo con el *hedonismo* sobre el bienestar y la
+*perspectiva total* de la ética de la población (una combinación
+conocida como *utilitarismo clásico*), hay otras opciones que también
+vale la pena considerar. Hay que tener en cuenta, sobre todo, que las
+objeciones al hedonismo o a la perspectiva total pueden dejar intactas
+otras formas de utilitarismo.
 
 El [Capítulo 6](/utilitarismo-y-etica-practica/) y nuestro artículo
 complementario [Actuar conforme al
@@ -215,10 +216,10 @@ Todas las teorías utilitaristas comparten cuatro elementos clave:
 consecuencialismo, bienestarismo, imparcialidad y agregacionismo. El
 utilitarismo clásico incluye otros dos elementos: el hedonismo y el
 totalismo. El hedonismo es la perspectiva según la cual el bienestar de
-una persona es determinado por el saldo de sus experiencias conscientes
-positivas y negativas. La perspectiva total sostiene que el valor de
-añadir una persona más a un estado de cosas es igual al valor del
-bienestar de esa persona a lo largo de su vida.
+una persona está determinado por el saldo de sus experiencias
+conscientes positivas y negativas. La perspectiva total sostiene que el
+valor de añadir una persona más a un estado de cosas es igual al valor
+del bienestar de esa persona a lo largo de su vida.
 
 La ética utilitarista tiene una tradición intelectual que abarca siglos,
 durante los cuales ha suscitado muchos debates encendidos. Los críticos
@@ -312,7 +313,7 @@ trabajos o satisfacen nuestras necesidades."
     individuo](/teorias-del-bienestar/#teorias-del-deseo).
 
 [^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes
-    placenteras. El [Capítulo 4: Teorías del
+    placenteras. [Capítulo 4: Teorías del
     bienestar](/teorias-del-bienestar/) explora si el bienestar puede
     implicar algo más que esto.
 
