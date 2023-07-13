@@ -19,10 +19,10 @@ utilitarismo global del utilitarismo híbrido.
 
 Las teorías utilitaristas comparten cuatro elementos definitorios:
 
-1. el consecuencialismo
-2. el bienestarismo
-3. la imparcialidad
-4. el agregacionismo
+1. consecuencialismo
+2. bienestarismo
+3. imparcialidad
+4. agregacionismo
 
 Combinándolos, podemos definir el utilitarismo de la siguiente manera:
 
@@ -235,13 +235,12 @@ unas pocas vidas.
 ## Los dos elementos del utilitarismo clásico
 
 Acabamos de explicar los cuatro elementos aceptados por todas las
-teorías utilitaristas: el consecuencialismo, el bienestarismo, la
-imparcialidad y el agregacionismo. Aunque esto es útil para distinguir
-las teorías morales utilitaristas de las no utilitaristas, también hay
-distinciones importantes al interior de las teorías utilitaristas.
-Dependiendo de cómo se defina, una teoría utilitarista puede tener
-implicaciones prácticas muy diferentes y puede ser más o menos
-atractiva.
+teorías utilitaristas: consecuencialismo, bienestarismo, imparcialidad y
+agregacionismo. Aunque esto es útil para distinguir las teorías morales
+utilitaristas de las no utilitaristas, también hay distinciones
+importantes al interior de las teorías utilitaristas. Dependiendo de
+cómo se defina, una teoría utilitarista puede tener implicaciones
+prácticas muy diferentes y puede ser más o menos atractiva.
 
 La teoría utilitarista más antigua y prominente es el _utilitarismo
 clásico_, que puede definirse como sigue:
@@ -294,7 +293,7 @@ como la _perspectiva total_, que sostiene que:
 > total.**
 
 La perspectiva total implica que podemos mejorar el mundo de dos
-maneras:[^8] podemos mejorar la calidad de vida de las personas
+maneras:[^8a] podemos mejorar la calidad de vida de las personas
 existentes, o podemos aumentar el número de personas que viven una vida
 positiva.[^9] En la práctica, a menudo hay que elegir entre hacer más
 felices a las personas existentes o crear más personas felices. En un
@@ -555,9 +554,9 @@ reglas.
 
 En la medida en que compartamos la preocupación utilitarista fundamental
 por promover el bienestar, y simplemente nos preocupe que la búsqueda
-deliberada de este objetivo resulte contraproducente, esto debería
-llevarnos a aceptar el utilitarismo multinivel en lugar de algún tipo de
-utilitarismo de las reglas.
+deliberada de este objetivo resulte contraproducente, deberíamos aceptar
+el utilitarismo multinivel en lugar de algún tipo de utilitarismo de las
+reglas.
 
 ### Utilitarismo global y utilitarismo híbrido
 
