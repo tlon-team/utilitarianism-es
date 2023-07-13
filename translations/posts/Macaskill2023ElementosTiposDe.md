@@ -629,7 +629,7 @@ híbrido_, que definimos como sigue:
 
 En particular, los utilitaristas híbridos pueden entender que la virtud
 y el mérito se refieren a los _intentos_ del agente de conseguir buenos
-resultados, en contraste con el utilitarista global, que evalua si las
+resultados, en contraste con el utilitarista global, que evalúa si las
 intenciones del agente _producen_ buenos resultados. Cuando los dos
 entran en conflicto, deberíamos preferir conseguir buenos resultados a
 simplemente intentar conseguirlos. En este sentido, el utilitarista
