@@ -3,7 +3,7 @@
 > esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No
 > beneficia a la gente? Detente.*
 >
-> -- [Mòzǐ](/pensador-utilitarista/mozi/)[^1]
+> — [Mòzǐ](/pensador-utilitarista/mozi/)[^1]
 
 ¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre
 debemos promover el bienestar general. En comparación con otras teorías
