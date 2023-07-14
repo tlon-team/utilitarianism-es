@@ -1,14 +1,12 @@
 ## Introducción
 
-Los utilitaristas están de acuerdo en que si el número de personas que
-van a existir se mantiene constante, debemos promover la _suma total del
+Los utilitaristas están de acuerdo en que si el número de personas existentes se mantiene constante, debemos promover la _suma total del
 bienestar_ en esa población fija.[^1] En el mundo real, sin embargo, la
 población no permanece fija. Tenemos la posibilidad de aumentar la
 población, por ejemplo, teniendo hijos. Si estas personas adicionales
 tienen una buena vida, ¿es esa una forma de mejorar el mundo? Esta
 pregunta pertenece al ámbito de la _ética de la población_, que trata de
-los problemas morales que surgen cuando nuestras acciones afectan
-quiénes nacen, cuántos nacen, y qué calidad de vida tienen.
+los problemas morales que surgen cuando nuestras acciones influyen en la identidad y el número de las personas que nacen, y en la calidad de vida tienen.
 
 La ética de la población no es sólo un ejercicio académico. Es relevante
 para muchas cuestiones prácticas importantes, como cuántos hijos debemos
@@ -41,7 +39,7 @@ Según la _perspectiva total_ de la ética de la población:
 > bienestar total.**[^3]
 
 Una cuestión importante es que una población puede tener mayor bienestar
-total que otra en virtud de tener más habitantes. Una forma de calcular
+total que otra por el hecho de tener más habitantes. Una forma de calcular
 este total es multiplicar el número de personas (N) por su calidad de
 vida media (Q).[^4] Podemos, por tanto, representar la perspectiva total
 mediante la siguiente función de valor:
@@ -63,7 +61,7 @@ hipotéticos. Ilustrados gráficamente, los mundos A y B son igualmente
 valiosos, según la perspectiva total, ya que sus gráficos tienen la
 misma área.
 
-![Perspectiva total](/img/population-ethics-1.png “Perspectiva total")
+![](../media/Macaskill2023EticaDePoblacion/figura-1.png "Perspectiva total")
 
 La perspectiva total implica que podemos mejorar el mundo de dos
 maneras: mejorando la calidad de vida de las personas que ya existen o
@@ -78,33 +76,33 @@ mejor al enriquecer la vida de los demás, sino que tener un hijo es
 bueno en sí mismo. Cuán bueno es hacer que una nueva persona exista
 depende de cuánto mejor o peor es la vida de esa persona en comparación
 con una "vida neutra". Según esta perspectiva, las personas felices son
-buenas y tener más de una cosa buena, *ceteris paribus*, hace que el
+buenas y tener más de algo que sea bueno, siempre que las circunstancias no cambien, hace que el
 resultado sea mejor.
 
 En la práctica, a menudo hay que elegir entre hacer más felices a las
-personas existentes y crear más personas felices. En un planeta con
+personas existentes o crear más personas felices. En un planeta con
 recursos limitados, añadir más gente a una población ya de por sí
-numerosa puede reducir en algún momento la calidad de vida de los demás
+numerosa puede, en algún momento, disminuir la calidad de vida de los demás
 lo suficiente como para que el bienestar total disminuya. Es una
 cuestión empírica abierta si la población de nuestro mundo ha alcanzado
 el tamaño en el que añadir una persona aumenta o disminuye el bienestar
 general.[^7]
 
-La principal implicación práctica de la perspectiva total es dar gran
-importancia a garantizar el florecimiento de la civilización a largo
+La principal implicación práctica de la perspectiva total es que da una gran
+importancia a garantizar la prosperidad de la civilización a largo
 plazo. Esto implica tomarse muy en serio la [reducción del riesgo
 existencial](/actuar-conforme-al-utilitarismo#reduccion-riesgo-existencial)
 como una prioridad moral.[^8] Los riesgos existenciales —como una guerra
 nuclear total, un cambio climático extremo o una pandemia artificial—
 amenazan la supervivencia de la humanidad. Si la humanidad sobrevive, la
-civilización podría florecer durante miles de millones de años, y un
+civilización podría prosperar durante miles de millones de años, y un
 enorme número de personas futuras podrían llegar a disfrutar de vidas
 sumamente valiosas. El bienestar total de todas las generaciones futuras
 puede ser astronómico, y una catástrofe existencial privaría
 irreversiblemente a la humanidad de este futuro potencialmente
 grandioso. Desde la perspectiva total y desde muchas otras perspectivas
 morales, lo que está en juego con los riesgos existenciales es tan
-inmenso que la mitigación de estos riesgos se convierte en una de las
+enorme que la mitigación de estos riesgos se convierte en una de las
 principales cuestiones morales que afronta la humanidad.
 
 ### Objeciones a la perspectiva total: La conclusión repugnante
@@ -114,9 +112,9 @@ repugnante_, formulada originalmente por Derek Parfit.[^9] En su forma
 más simple, la conclusión repugnante es que:[^10]
 
 > **Para cualquier mundo A, hay un mundo mejor Z en el que nadie tiene
-> una vida que es más que apenas digna de ser vivida.**
+> una vida que sea más que apenas digna de ser vivida.**
 
-![La conclusión repugnante](/img/population-ethics-2.png “La conclusión
+![](../media/Macaskill2023EticaDePoblacion/figura-2.png "La conclusión
 repugnante")
 
 Todas las vidas del mundo Z son positivas, pero son solo apenas dignas
@@ -163,20 +161,20 @@ En primer lugar, la conclusión repugnante implica casos con un número
 extremadamente grande de individuos con un bienestar bajo pero positivo.
 Muchos filósofos sostienen que en esta situación nuestras intuiciones no
 son fiables: el cerebro humano tiene dificultades para comprender
-intuitivamente tanto los números muy grandes y como la manera en que la
+intuitivamente tanto los números muy grandes como la manera en que la
 suma de muchos valores pequeños da como resultado un valor muy
 grande.[^12] Por esta razón, es posible que no entendamos intuitivamente
-cómo el gran número de vidas en el mundo Z puede dar lugar a algo más
+cómo el gran número de vidas en el mundo Z puede constituir algo más
 valioso que el mundo A.
 
 En segundo lugar, puede que no apreciemos adecuadamente que las vidas
-“apenas dignas de ser vividas" son buenas en lugar de malas.[^13] Una
-vida “apenas digna de ser vivida positiva” _es_ digna de ser vivida, y
+"apenas dignas de ser vividas" son buenas en lugar de malas.[^13] Una
+vida "apenas digna de ser vivida" _es_ digna de ser vivida, y
 una persona con una vida así tiene motivos para alegrarse de existir. Es
-posible que las descripciones engañosas de vidas “apenas dignas de ser
-vivida" en la bibliografía académica contribuyan a este malentendido.
-Aunque es controvertido cómo determinar qué vidas son dignas de ser
-vividas, se ha argumentado que los ejemplos influyentes en la
+posible que las descripciones engañosas de vidas "apenas dignas de ser
+vividas" en la bibliografía académica contribuyan a este malentendido.
+Aunque cómo determinar qué vidas son dignas de ser
+vividas es tema de controversia, se ha argumentado que los ejemplos influyentes en la
 bibliografía —como las vidas que no contienen más bienes que "muzak y
 patatas"—[^14] no son realmente dignas de ser vividas.[^15]
 
@@ -187,8 +185,8 @@ favorecer las poblaciones con una alta calidad de vida.[^16]
 
 #### Tolerar la intuición
 
-Los defensores de la perspectiva total pueden “tragarse el sapo" y
-aceptar sin más que el mundo Z es mejor que el mundo A. Pueden señalar
+Los defensores de la perspectiva total pueden "tragarse el sapo" y
+simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden señalar
 que, a pesar de ser contraintuitiva inicialmente, esta conclusión se
 basa en el objetivo imperioso de crear un mundo con el mayor bienestar
 total posible. Desde la perspectiva total, las reducciones en el nivel
@@ -842,8 +840,8 @@ url="/utilitarismo-y-etica-practica" >}}
 - [@Ng1989WhatShouldWe]
 
 [^1]: Cuando hablamos de poblaciones, nos referimos a poblaciones
-    totales: no sólo cuántas personas están vivas en un momento
-    específico, sino la consideración de todas las personas a lo largo
+    totales: no sólo a cuántas personas están vivas en un momento
+		específico, sino a todas las personas a lo largo
     de todo el tiempo.
 [^2]: Otros autores, siguiendo a Derek Parfit
     ([@Parfit1984ReasonsPersons]), hablan a veces de una "perspectiva
@@ -852,8 +850,8 @@ url="/utilitarismo-y-etica-practica" >}}
     expresión, en este artículo utilizamos "persona" en el sentido
     _estrecho_ más distintivo que rechaza esta idea.
 [^3]: A lo largo de este artículo, utilizamos los términos "calidad de
-    vida” y "bienestar" indistintamente. Estos términos se utilizan para
-    describir lo bien o mal que transcurre la vida de una persona en su
+    vida" y "bienestar" indistintamente. Estos términos se utilizan para
+    describir cuán buena o mala es la vida de una persona en su
     totalidad, y no sólo su bienestar en un momento determinado. Además,
     conceptos como "unidades de bienestar" y "niveles de bienestar" son
     simplificaciones utilizadas a título ilustrativo y no implican que
@@ -865,7 +863,7 @@ url="/utilitarismo-y-etica-practica" >}}
     tiene sentido en relación con un punto cero en la escala de
     bienestar. Este punto cero es el umbral a partir del cual la vida se
     vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de
-    bienestar, no es ni “digna de ser vivida" ni "no digna de ser
+    bienestar, no es ni "digna de ser vivida" ni "no digna de ser
     vivida". Puede ser una vida sin valor ni disvalor, o una vida con
     exactamente tanto valor como disvalor.
 
@@ -874,13 +872,13 @@ url="/utilitarismo-y-etica-practica" >}}
 [^6]: Más fuerte aún: desde la perspectiva total, sería intrínsecamente
     _mejor_ crear una nueva persona en el nivel de bienestar 100 que
     mejorar el bienestar de una persona existente del nivel 1 al 100.
-[^7]: Para una exploración sobre si el mundo está superpoblado o
+[^7]: Para una análisis de la cuestión de si el mundo está superpoblado o
     subpoblado, véase [@Ord2014OverpopulationUnderpopulation].
 [^8]:
     Reducir el riesgo existencial es una prioridad no sólo para la
     perspectiva total, sino para una amplia variedad de perspectivas
-    morales. Sin embargo, para la perspectiva total, la preservación del
-    florecimiento a largo plazo de la civilización es un valor
+    morales. Sin embargo, para la perspectiva total, preservar la
+    prosperidad a largo plazo de la civilización tiene un valor
     especialmente importante.
 
     [@Ord2020PrecipiceExistentialRisk, chap. 2].
