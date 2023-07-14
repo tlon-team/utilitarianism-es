@@ -1,13 +1,9 @@
 ---
-título: "Argumentos a favor del utilitarismo"
-fecha: 2023-01-29
-borrador: false
-menú: "main"
-peso: 3
-descripción: "Este capítulo explica el equilibrio reflexivo como metodología moral y presenta varios argumentos a favor del utilitarismo respecto de los enfoques morales no consecuencialistas."
-gradientTop: "#012147"
-gradientBottom: "#084BC7"
-—
+título: "Argumentos a favor del utilitarismo" fecha: 2023-01-29
+borrador: false menú: "main" peso: 3 descripción: "Este capítulo explica
+el equilibrio reflexivo como metodología moral y presenta varios
+argumentos a favor del utilitarismo respecto de los enfoques morales no
+consecuencialistas." gradientTop: "#012147" gradientBottom: "#084BC7" —
 
 {{< TOC >}}
 
@@ -34,13 +30,14 @@ de evidencia aplicada a las teorías morales:
    importa moralmente.
 
 Los principios generales pueden cuestionarse presentando presuntos
-_contraejemplos_, o casos en los que los principios arrojan un
-veredicto intuitivamente incorrecto. En respuesta a esos presuntos contraejemplos, debemos comparar la fuerza de la intuición basada en el caso
-con la plausibilidad inherente del principio cuestionado. Esto podría
-llevarnos _o bien_ a revisar el principio para adaptarlo a nuestras
-intuiciones sobre los casos _o bien_ a reconsiderar nuestro veredicto
-sobre el caso concreto, si consideramos que el principio general está
-mejor fundamentado (especialmente si somos capaces de "explicar" que la
+_contraejemplos_, o casos en los que los principios arrojan un veredicto
+intuitivamente incorrecto. En respuesta a esos presuntos contraejemplos,
+debemos comparar la fuerza de la intuición basada en el caso con la
+plausibilidad inherente del principio cuestionado. Esto podría llevarnos
+_o bien_ a revisar el principio para adaptarlo a nuestras intuiciones
+sobre los casos _o bien_ a reconsiderar nuestro veredicto sobre el caso
+concreto, si consideramos que el principio general está mejor
+fundamentado (especialmente si somos capaces de "explicar" que la
 intuición contraria se basa en algún error o confusión implícita).
 
 Como veremos, los argumentos a favor del utilitarismo descansan
@@ -96,16 +93,16 @@ valores](/teorias del bienestar#teorias-de-la-lista-objetiva)).
 
 ¿Podría haber algo _más_ importante? Tal sugerencia puede parecer
 desconcertante. Por ejemplo, robar (normalmente) está mal,[^3] pero es
-plausible que así sea porque robar tiende a ser _perjudicial_, ya que reduce
-el bienestar de las personas.[^4] En cambio, la mayoría de la gente está
-dispuesta a pagar impuestos redistributivos si permiten a los gobiernos
-proporcionar beneficios que aumenten de forma fiable el nivel general de
-bienestar de la sociedad. Por tanto, no es que los individuos tengan un
-derecho natural a no ser molestados pase lo que pase. A la hora de
-juzgar los acuerdos institucionales (como la propiedad y la legislación
-fiscal), reconocemos que lo que importa es llegar a acuerdos que tiendan
-a garantizar _buenos resultados generales_, y que el factor más
-importante para que un resultado sea _bueno_ es que _promueva el
+plausible que así sea porque robar tiende a ser _perjudicial_, ya que
+reduce el bienestar de las personas.[^4] En cambio, la mayoría de la
+gente está dispuesta a pagar impuestos redistributivos si permiten a los
+gobiernos proporcionar beneficios que aumenten de forma fiable el nivel
+general de bienestar de la sociedad. Por tanto, no es que los individuos
+tengan un derecho natural a no ser molestados pase lo que pase. A la
+hora de juzgar los acuerdos institucionales (como la propiedad y la
+legislación fiscal), reconocemos que lo que importa es llegar a acuerdos
+que tiendan a garantizar _buenos resultados generales_, y que el factor
+más importante para que un resultado sea _bueno_ es que _promueva el
 bienestar_.[^5]
 
 Este razonamiento puede justificar que se considere el utilitarismo como
@@ -120,8 +117,9 @@ embargo un claro fundamento utilitarista. Si en general no promovieran
 el bienestar, sino que perjudicaran activamente a la gente, es difícil
 ver qué razón tendríamos para seguir queriendo que se las respete.
 Respetar y hacer cumplir normas morales _perjudiciales_ (como las que
-prohíben las relaciones sentimentales entre personas del mismo sexo) parecería una
-especie de "culto a las normas", y no sería realmente nada ético.[^6]
+prohíben las relaciones sentimentales entre personas del mismo sexo)
+parecería una especie de "culto a las normas", y no sería realmente nada
+ético.[^6]
 
 Juicios similares se aplican a casos hipotéticos en los que, de algún
 modo, se sabe con certeza que una norma generalmente fiable es, en este
@@ -154,34 +152,34 @@ ignorancia](https://plato.stanford.edu/entries/original-position/)".
 Este velo revela los hechos acerca de las circunstancias de cada
 individuo en la sociedad —sus ingresos, su nivel de felicidad, sus
 preferencias, etc.— y los efectos que cada elección tendría sobre cada
-persona, al tiempo que impide conocer _cuál de estos
-individuos uno es_.[^7] Para determinar de forma más justa _lo que
-idealmente debería hacerse_, podemos preguntarnos qué es lo que cada uno
-tendría más razones personales para preferir por detrás de este velo de
-la ignorancia. Si uno tuviera las mismas probabilidades de acabar siendo
+persona, al tiempo que impide conocer _cuál de estos individuos uno
+es_.[^7] Para determinar de forma más justa _lo que idealmente debería
+hacerse_, podemos preguntarnos qué es lo que cada uno tendría más
+razones personales para preferir por detrás de este velo de la
+ignorancia. Si uno tuviera las mismas probabilidades de acabar siendo
 cualquiera en el mundo, parecería prudente maximizar el bienestar
 general, tal y como prescribe el utilitarismo.[^8]
 
-Es una pregunta interesante la de cuánto peso debemos dar a los veredictos que
-se elegirían, por interés personal, por detrás del velo. El experimento
-mental del velo sirve para resaltar cómo el utilitarismo da el mismo peso
-a los intereses de todos, de forma imparcial. Es decir, el utilitarismo
-es precisamente lo que obtenemos cuando somos _benéficos con todos_:
-extendiendo a todo el mundo el tipo de preocupación cuidadosa que la
-gente prudente tiene por sus _propios_ intereses.[^9] Pero puede parecer
-cuestionable para quienes [rechazan el
+Es una pregunta interesante la de cuánto peso debemos dar a los
+veredictos que se elegirían, por interés personal, por detrás del velo.
+El experimento mental del velo sirve para resaltar cómo el utilitarismo
+da el mismo peso a los intereses de todos, de forma imparcial. Es decir,
+el utilitarismo es precisamente lo que obtenemos cuando somos _benéficos
+con todos_: extendiendo a todo el mundo el tipo de preocupación
+cuidadosa que la gente prudente tiene por sus _propios_ intereses.[^9]
+Pero puede parecer cuestionable para quienes [rechazan el
 bienestarismo](/alternativas-casi-utilitaristas/#mas-all-del-bienestarismo),
 y niegan así que los _intereses_ sean lo único que importa. Por ejemplo,
 el experimento del velo claramente no se refiere a la cuestión de si la
 vida no sintiente o la belleza natural tienen valor intrínseco. Está
 restringido al subdominio de la moralidad que concierne a _lo que nos
 debemos los unos a los otros_, el cual incluye sólo a aquellos
-individuos que abarca la incertidumbre sobre nuestra
-identidad inducida por el velo: los seres sintientes que hoy existen,
-quizás.[^10] En consecuencia, cualquier veredicto alcanzado sobre la
-base del velo de la ignorancia tendrá que ser sopesado con lo que
-todavía podríamos deber a cualquier otro factor excluido (como las
-generaciones futuras o los valores no bienestaristas).
+individuos que abarca la incertidumbre sobre nuestra identidad inducida
+por el velo: los seres sintientes que hoy existen, quizás.[^10] En
+consecuencia, cualquier veredicto alcanzado sobre la base del velo de la
+ignorancia tendrá que ser sopesado con lo que todavía podríamos deber a
+cualquier otro factor excluido (como las generaciones futuras o los
+valores no bienestaristas).
 
 Aun así, en muchos contextos estos otros factores no serán relevantes, y
 la cuestión de lo que moralmente debemos hacer se reducirá a la cuestión
@@ -318,9 +316,9 @@ dolor es malo para uno, por ejemplo, no parecería prudente rechazar una
 operación dolorosa ahora si el rechazo le compromete a cinco operaciones
 comparativamente dolorosas en el futuro). Los deontólogos pueden ofrecer
 varias respuestas a esta pregunta, pero en la medida en que nos
-inclinemos a pensar, preteóricamente, que la ética debe formar un continuo con
-otras formas de elección racional, tendremos alguna razón para preferir
-los planteamientos consecuencialistas.
+inclinemos a pensar, preteóricamente, que la ética debe formar un
+continuo con otras formas de elección racional, tendremos alguna razón
+para preferir los planteamientos consecuencialistas.
 
 ### La objeción de esperar lo incorrecto
 
@@ -332,32 +330,33 @@ debería desear y esperar que otros actúen de modo incorrecto.
 
 Supongamos que fuera incorrecto que un desconocido —llamémoslo Jack—
 asesinara a un inocente para evitar otros cinco asesinatos (moralmente
-comparables). Quienes se oponen al consecuencialismo pueden afirmar que _Jack_ tiene la
-responsabilidad especial de asegurarse de no matar a nadie,
-aunque esto provoque que otros cometan más asesinatos. Pero _tú_ no eres
-Jack. Desde tu perspectiva de observador imparcial, que Jack asesine a
-un inocente no es ni más ni menos intrínsecamente malo que cualquiera de
-los otros cinco asesinatos que ese acto evitaría. Tienes más razones
-para esperar un asesinato antes que cinco. Así que tienes
+comparables). Quienes se oponen al consecuencialismo pueden afirmar que
+_Jack_ tiene la responsabilidad especial de asegurarse de no matar a
+nadie, aunque esto provoque que otros cometan más asesinatos. Pero _tú_
+no eres Jack. Desde tu perspectiva de observador imparcial, que Jack
+asesine a un inocente no es ni más ni menos intrínsecamente malo que
+cualquiera de los otros cinco asesinatos que ese acto evitaría. Tienes
+más razones para esperar un asesinato antes que cinco. Así que tienes
 razones para esperar que Jack actúe "incorrectamente" (matando a uno
 para salvar a cinco). Pero eso parece extraño.
 
 Más que parecer extraño, podría incluso considerarse que socava la
 afirmación de que las restricciones deónticas _cuentan_, o que es
-genuinamente _importante_ respetarlas. Al fin y al cabo, "ser importante"
-no es más que "ser tal que debería importarnos". Por ejemplo, debería
-importarnos que otros sufran daños, lo que valida la afirmación de que
-los intereses de los demás son moralmente importantes. Pero si el respeto de Jack por la restricción moral de no matar no debe importarnos más que salvar
-cinco vidas, parece que la restricción de no matar no es
-moralmente más importante que salvar cinco vidas.
+genuinamente _importante_ respetarlas. Al fin y al cabo, "ser
+importante" no es más que "ser tal que debería importarnos". Por
+ejemplo, debería importarnos que otros sufran daños, lo que valida la
+afirmación de que los intereses de los demás son moralmente importantes.
+Pero si el respeto de Jack por la restricción moral de no matar no debe
+importarnos más que salvar cinco vidas, parece que la restricción de no
+matar no es moralmente más importante que salvar cinco vidas.
 
 Por último, puesto que nuestras obligaciones morales deberían estar en
 consonancia con lo que es genuinamente importante desde el punto de
 vista moral, si las restricciones deónticas no son de hecho importantes,
 entonces no podemos estar obligados a respetarlas.[^20] No podemos estar
 obligados a dar prioridad a las restricciones deónticas por encima de la
-vida de los demás, si debemos preocuparnos más por la vida de los
-demás que por las restricciones deónticas. Así que, después de todo, las
+vida de los demás, si debemos preocuparnos más por la vida de los demás
+que por las restricciones deónticas. Así que, después de todo, las
 restricciones deónticas no deben describir con exactitud nuestras
 obligaciones. Jack realmente debería hacer lo que produjera el mayor
 bien total, y nosotros también.
@@ -437,15 +436,15 @@ principio, no debería importar de dónde partimos.[^27]
 Supongamos ahora que el escenario B es mucho mejor para otra persona que
 el A: quizá le salve la vida, a costa del brazo de la primera persona. A
 nadie le parecería bien matar a una persona sólo para salvar el brazo de
-otra (es decir, pasar de B a A). Por tanto, si queremos evitar el
-sesgo del *statu quo*, debemos juzgar, de modo similar, que sería
-incorrecto _oponerse_ al cambio de A a B; es decir, no deberíamos
-oponernos a salvar la vida de alguien a costa del brazo de otro.[^28] No
-deberíamos preocuparnos especialmente por preservar el privilegio de
-quien saliera beneficiado por defecto; ese conservadurismo no es
-realmente equitativo ni justo. En lugar de ello, nuestro objetivo
-debería ser conseguir el mejor resultado _en general_, contando a todos
-por igual, tal y como prescribe el utilitarismo.
+otra (es decir, pasar de B a A). Por tanto, si queremos evitar el sesgo
+del *statu quo*, debemos juzgar, de modo similar, que sería incorrecto
+_oponerse_ al cambio de A a B; es decir, no deberíamos oponernos a
+salvar la vida de alguien a costa del brazo de otro.[^28] No deberíamos
+preocuparnos especialmente por preservar el privilegio de quien saliera
+beneficiado por defecto; ese conservadurismo no es realmente equitativo
+ni justo. En lugar de ello, nuestro objetivo debería ser conseguir el
+mejor resultado _en general_, contando a todos por igual, tal y como
+prescribe el utilitarismo.
 
 ### Argumentos genealógicos evolutivos
 
@@ -472,7 +471,8 @@ proveniente de nuestra ascendencia evolutiva, podemos decidir no darle
 mucha importancia en nuestro razonamiento moral: en esto consisten los
 _argumentos genealógicos evolutivos_.[^29]
 
-Katarzyna de Lazari-Radek y Peter Singer sostienen que los teorías que permiten la parcialidad son especialmente vulnerables a estos
+Katarzyna de Lazari-Radek y Peter Singer sostienen que los teorías que
+permiten la parcialidad son especialmente vulnerables a estos
 argumentos, mientras que las teorías
 [imparciales](/tipos-de-utilitarismo#imparcialidad) como el utilitarismo
 tienen más probabilidades de ser el resultado de un razonamiento no
@@ -507,7 +507,8 @@ el contrario, los principios deontológicos y la parcialidad tienen una
 justificación mucho menos _evidente_, por lo que pueden considerarse más
 vulnerables al argumento genealógico. Una vez que disponemos de una
 explicación para estas intuiciones psicológicas que puede explicar por
-qué las tendríamos aunque carecieran de fundamento racional, parece que hay una mayor justificación para concluir que, en efecto, carecen de
+qué las tendríamos aunque carecieran de fundamento racional, parece que
+hay una mayor justificación para concluir que, en efecto, carecen de
 fundamento racional.
 
 Por ello, es poco probable que los argumentos genealógicos hagan cambiar
@@ -532,8 +533,9 @@ ayudarlos a comprender mejor el atractivo que _otros_ pueden ver en esta
 teoría.
 
 Por muy sólidos que sean los argumentos a favor del utilitarismo, el
-veredicto final sobre la teoría dependerá también de su capacidad para rebatir [las influyentes objeciones que los críticos han
-formulado en su contra](/objeciones-al-utilitarismo/).
+veredicto final sobre la teoría dependerá también de su capacidad para
+rebatir [las influyentes objeciones que los críticos han formulado en su
+contra](/objeciones-al-utilitarismo/).
 
 El siguiente capítulo analiza las teorías del bienestar, es decir, lo
 que se considera bueno para una persona.
@@ -560,9 +562,9 @@ url="/teorias-del-bienestar" >}}
 
 [^1]: [@Daniels2003ReflectiveEquilibrium].
 [^2]: Esto no quiere decir que cualquier respuesta sea de hecho
-    igualmente buena o correcta, sino sólo deberíamos esperar que sea
-    difícil _persuadir_ a quienes responden a los conflictos de un modo
-    diferente a como nosotros lo hacemos.
+    igualmente buena o correcta, sino que sólo deberíamos esperar que
+    sea difícil _persuadir_ a quienes responden a los conflictos de un
+    modo diferente al nuestro.
 [^3]: Por supuesto, puede haber circunstancias excepcionales en las que
     robar sea beneficioso en general y, por tanto, esté justificado, por
     ejemplo, cuando sea necesario robar una barra de pan para salvar la
@@ -573,7 +575,7 @@ url="/teorias-del-bienestar" >}}
 [^5]:
     Compárese nuestra defensa del agregacionismo en el [capítulo
     2](/tipos-de-utilitarismo#agregacionismo), que muestra cómo, en la
-    práctica, casi todo el mundo respalda que se permita un número
+    práctica, casi todo el mundo está a favor de permitir un número
     suficiente de pequeños beneficios para compensar los grandes costos
     de unos pocos: "Por ejemplo, permitir que los coches circulen rápido
     por las carreteras aumenta el número de personas que mueren en
@@ -587,9 +589,10 @@ url="/teorias-del-bienestar" >}}
 
 [^5a]:
     Peter Singer sostiene, en relación con lo anterior, que "llegamos
-    rápidamente a una posición utilitarista inicial una vez que el
-    aspecto universal de la ética es aplicado a decisiones pre-éticas
-    simples." ([@Singer1993PracticalEthics, ch. 1])
+    rápidamente al utilitarismo de las preferencias como posición
+    inicial una vez que el aspecto universal de la ética es aplicado a
+    decisiones pre-éticas simples." ([@Singer1993PracticalEthics, ch.
+    1])
 [^6]: [@Smart1956ExtremeRestrictedUtilitarianism].
 [^7]:
     El experimento mental del "velo de la ignorancia" fue desarrollado
@@ -670,21 +673,22 @@ url="/teorias-del-bienestar" >}}
     que se matara a un inocente para salvar a un millón.
 [^17]:
     Samuel Scheffler señaló que "de cualquier manera, alguien pierde: se
-    viola a alguna persona inviolable. ¿Por qué no es al menos permisible
-    evitar la violación de cinco personas violando a una?".
+    vulnera a alguna persona que no debe ser vulnerada. ¿Por qué no es
+    al menos permisible evitar que se vulnere a cinco personas
+    vulnerando a una?"
     ([@Scheffler1994RejectionConsequentialismPhilosophical, p. 88])
 
 [^18]: [@Scheffler1985AgentcentredRestrictionsRationality].
 [^19]: [@Chappell2011IntuitionSystemAnd]
 [^20]: El deontólogo puede insistir en que debería ser más importante
-    _para Jack_, aunque no lo sea para nadie más. Pero esto viola la
-    idea atractiva de que el punto de vista moral es imparcial,
-    produciendo veredictos sobre los que observadores razonables (y no
-    sólo el propio agente) podrían estar de acuerdo.
+    _para Jack_, aunque no lo sea para nadie más. Pero esto se opone a
+    la idea atractiva de que el punto de vista moral es imparcial y
+    capaz de producir veredictos sobre los que observadores razonables
+    (y no sólo el propio agente) podrían estar de acuerdo.
 [^21]:
-    Por ejemplo, podrías confundir a tu cónyuge permaneciendo oculto en
-    un camuflaje, cuando podría haber jurado que estabas en la
-    habitación él. O, como sugiere Foot
+    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en
+    un camuflaje, cuando hubiera jurado que estabas en la habitación
+    haciéndole compañía. O, como sugiere Foot
     ([@Foot1967ProblemAbortionDoctrine, p. 26]): "Un actor que no se
     presenta a una representación normalmente la arruinará, en lugar de
     permitir que se arruine."
@@ -727,12 +731,13 @@ url="/teorias-del-bienestar" >}}
 
 [^27]: En la práctica, el fenómeno psicológico de la _aversión a la
     pérdida_ significa que alguien puede sentirse _más molesto_ por lo
-    que percibe como una "pérdida" que por la mera "no obtención de un
-    beneficio". Estos sentimientos negativos pueden reducir aún más su
-    bienestar, convirtiendo el juicio de que "la pérdida es peor" en una
-    especie de profecía autocumplida. Pero esto depende de fenómenos
-    psicológicos contingentes que generan daños _adicionales_; no es que
-    la pérdida sea _en sí misma_ peor.
+    que percibe como una "pérdida" que por lo que percibe como el mero
+    "fracaso en obtener un beneficio". Estos sentimientos negativos
+    pueden reducir aún más su bienestar, convirtiendo el juicio de que
+    "la pérdida es peor" en una especie de profecía que acarrea su
+    propio cumplimiento. Pero esto depende de fenómenos psicológicos
+    contingentes que generan daños _adicionales_; no es que la pérdida
+    sea _en sí misma_ peor.
 [^28]: [@Bostrom2006ReversalTestEliminating].
 [^29]: Hay otros tipos de argumentos genealógicos que no se basan en la
     evolución. Consideremos que en la mayoría de las sociedades
