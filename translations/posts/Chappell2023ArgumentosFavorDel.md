@@ -290,7 +290,7 @@ salvara de ser asesinadas a otras cinco personas inocentes. Este
 veredicto puede parecer desconcertante a primera vista.[^17] Después de
 todo, dado lo terrible que es el asesinato, ¿no deberíamos querer que
 hubiera _menos_ asesinatos? En general, la elección racional tiende a
-estar dirigida a un objetivo: tal concepción que encaja mal con las
+estar dirigida a un objetivo: tal concepción encaja mal con las
 restricciones deónticas.[^18] Un deontólogo podría sostener que su
 objetivo es simplemente evitar violar _él mismo_ las restricciones
 morales, lo que puede conseguir mejor no asesinando a nadie, incluso si
@@ -388,7 +388,8 @@ extensamente que no existe una distinción satisfactoria y totalmente
 general entre hacer y permitir, al menos ninguna que reivindique el
 significado moral que los deontólogos quieren atribuir a esa
 distinción.[^23] Si Bennett tiene razón, entonces eso podría obligarnos
-a adoptar alguna forma de consecuencialismo (como el utilitarismo).
+a adoptar en su lugar alguna forma de consecuencialismo (como el
+utilitarismo).
 
 ### Sesgo del *statu quo*
 
