@@ -226,10 +226,10 @@ esta compensación.
 En la práctica, muchas personas y políticos responsables parecen avalar
 este tipo de compensaciones. Por ejemplo, permitir que los coches
 circulen rápido por las carreteras aumenta el número de personas que
-mueren en accidentes. Imponer límites de velocidad extremadamente bajos
+mueren en accidentes. Establecer límites de velocidad excesivamente bajos
 salvaría vidas a costa de incomodar a muchos conductores. La mayoría de
 la gente demuestra un compromiso implícito con el agregacionismo cuando
-juzga que es peor imponer estos muchos inconvenientes en aras de salvar
+juzga que es peor imponer muchas molestias de este tipo en aras de salvar
 unas pocas vidas.
 
 ## Los dos elementos del utilitarismo clásico
