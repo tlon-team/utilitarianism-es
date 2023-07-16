@@ -185,7 +185,7 @@ favorecer las poblaciones con una alta calidad de vida.[^16]
 
 #### Tolerar la intuición
 
-Los defensores de la perspectiva total pueden "tragarse el sapo" y
+Los defensores de la perspectiva total pueden conceder el argumento y
 simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden señalar
 que, a pesar de ser contraintuitiva inicialmente, esta conclusión se
 basa en el objetivo imperioso de crear un mundo con el mayor bienestar
@@ -202,7 +202,7 @@ Parfit,[^17] generan la conclusión repugnante sin partir de la
 perspectiva total. Consideremos la elección entre los siguientes tres
 mundos: A, A+ y B.
 
-![Paradoja de la mera adición](/img/population-ethics-3.png "Paradoja de
+![](../media/Macaskill2023EticaDePoblacion/figura-3.png "Paradoja de
 la mera adición")
 
 En el mundo A, el bienestar de todos es muy alto. El mundo A+ contiene
@@ -233,8 +233,8 @@ menor de vidas extremadamente positivas.[^20] A partir de este
 resultado, concluyen que "la conclusión repugnante no proporciona
 ninguna orientación metodológica para la teoría o la formulación de
 políticas, porque no discrimina entre las diferentes teorías."[^21] Los
-críticos podrían responder que estos nuevos veredictos —que implican
-añadir a las poblaciones existentes— no son tan intuitivamente
+críticos podrían responder que estos nuevos veredictos —que consisten en
+añadir personas a poblaciones existentes— no son tan intuitivamente
 problemáticos como la conclusión repugnante original.
 
 #### Atacar las alternativas
@@ -245,11 +245,11 @@ Varios teoremas de imposibilidad demuestran que es _lógicamente
 imposible_ que cualquier teoría ética de la población satisfaga todos
 los principios y axiomas intuitivamente deseables.[^22] Uno de esos
 axiomas es evitar la conclusión repugnante. Sin embargo, algunos
-filósofos sostienen que evitar la conclusión repugnante no merece los
+filósofos sostienen que evitar la conclusión repugnante no justifica los
 costos teóricos de renunciar a otros axiomas o principios fundamentales.
 Aceptar la conclusión repugnante proporciona una respuesta fácil a los
 teoremas de imposibilidad, ya que la perspectiva total es coherente con
-todos los demás axiomas de estos teoremas.[^23] A la luz de esto, un
+todos los demás axiomas de estos teoremas.[^23] En vista de esto, un
 número creciente de filósofos morales han llegado a aceptar y defender
 la conclusión repugnante y la perspectiva total.[^24]
 
@@ -285,7 +285,7 @@ filósofos morales, ya que adolece de graves problemas.
 
 En primer lugar, consideremos un mundo habitado por una sola persona que
 padece un sufrimiento atroz. La perspectiva promedio implica que
-podríamos mejorar este mundo creando un millón de nuevas personas cuyas
+podríamos mejorar este mundo creando un millón de personas cuyas
 vidas también estuvieran llenas de un sufrimiento insoportable, si el
 sufrimiento de las nuevas personas fuera ligeramente menos malo que el
 sufrimiento de la persona original.[^26]
@@ -293,9 +293,7 @@ sufrimiento de la persona original.[^26]
 En segundo lugar, la perspectiva promedio implica la _conclusión
 sádica_:[^27]
 
-> **A veces puede ser mejor crear vidas con bienestar negativo que crear
-> vidas con bienestar positivo desde el mismo punto de partida, *ceteris
-> paribus*.**
+> **En igualdad de condiciones, a veces puede ser mejor crear vidas con bienestar negativo que crear vidas con bienestar positivo desde el mismo punto de partida.**
 
 Añadir un pequeño número de personas torturadas y miserables a una
 población disminuye el bienestar promedio menos que añadir un número
@@ -305,8 +303,7 @@ siguiente gráfico, en el que el mundo A tiene un bienestar promedio
 inferior al del mundo B. Contrariamente a la intuición, la perspectiva
 promedio implica que deberíamos preferir el mundo B al mundo A.
 
-![Perspectiva promedio y conclusión sádica](/img/population-ethics-4.png
-"Perspectiva promedio y conclusión sádica")
+![](../media/Macaskill2023EticaDePoblacion/figura-4.png "Perspectiva promedio y conclusión sádica")
 
 En tercer lugar, la perspectiva promedio prefiere poblaciones
 arbitrariamente pequeñas a poblaciones muy grandes, siempre que el
@@ -353,7 +350,7 @@ invocar una asimetría según la cual sólo disminuye el valor de las vidas
 positivas, pero no el disvalor de las negativas. Desde este punto de
 vista, añadir vidas negativas a un mundo siempre lo empeora
 intrínsecamente, aunque aumente el promedio. Sin embargo, tal asimetría
-conduce a un análogo de lo que Parfit llama la _conclusión
+conduce a algo análogo a lo que Parfit llama la _conclusión
 absurda_:[^31] que una población considerada buena, con muchas vidas
 felices y pocas miserables, puede convertirse en una población
 considerada mala simplemente aumentando proporcionalmente el número de
@@ -382,8 +379,7 @@ número de individuos N, una calidad de vida media Q y un nivel crítico
 **Valor~nivel crítico~ = N \* (Q - α)**
 
 Si observamos esta función de valor, veremos que la perspectiva total de
-la ética de la población no es más que una teoría del nivel crítico con
-un nivel crítico cero (α = 0). Las teorías del nivel crítico, incluida
+la ética de la población no es más que una teoría del nivel crítico cuyo nivel equivale a cero (α = 0). Las teorías del nivel crítico, incluida
 la perspectiva total, coinciden en que el valor de añadir un individuo
 al mundo sólo depende del nivel de bienestar de ese individuo y —a
 diferencia de la perspectiva promedio y las teorías del valor variable—
@@ -407,7 +403,7 @@ teorías del nivel crítico implican, contrariamente a la intuición, que
 el mundo A (con una población suficientemente grande) es _peor_ que el
 mundo B.
 
-![Teoría del nivel crítico](/img/population-ethics-5.png “Teoría del
+![](../media/Macaskill2023EticaDePoblacion/figura-5.png "Teoría del
 nivel crítico")
 
 Para evitar este resultado inaceptable, podemos pasar a una teoría del
@@ -419,24 +415,23 @@ _rango crítico_,[^36] según la cual:
 > inferior del rango crítico.**
 
 Al establecer el límite inferior del rango crítico de manera que incluya
-todas las vidas neutras que no son ni buenas ni malas para la persona
-que las vive, las teorías del intervalo crítico pueden evitar la
+todas las vidas neutras, es decir, aquellas que no son ni buenas ni malas para la persona que las vive, las teorías del intervalo crítico pueden evitar la
 conclusión sádica. Y al fijar el límite superior del intervalo en el
 punto en el que las vidas pasan a ser claramente dignas de ser vividas,
 estas teorías evitan la conclusión repugnante.
 
 ¿Pero qué ocurre con las vidas que caen dentro del rango crítico? La
-vida dentro de este rango puede parecernos _ni fu ni fa_:[^37] ni buena
+vida dentro de este rango puede parecernos _mediocre_: ni buena
 ni mala, pero tampoco igual a cero en valor. Al fin y al cabo, algunas
-vidas _ni fu ni fa_ (las situadas en el extremo superior del intervalo)
+vidas _mediocres_ (las situadas en el extremo superior del intervalo)
 son mejores que otras (las situadas en el extremo inferior), por lo que
 no puede ser que añadir cualquier vida en este intervalo produzca un
 resultado igual de valioso. Por el contrario, el valor del resultado
 debe ser _incomparable_ al del estado previo o estar _a la par_ de ese
 estado: ni mejor, ni peor, ni exactamente igual en valor.[^38] Obsérvese
-que puede ser mejor añadir al mundo una vida ni fu ni fa en la parte
-superior del rango que añadir una vida ni fu ni fa en la parte inferior,
-aunque añadir _cualquiera_ de las dos vidas sea meramente "ni fu ni fa"
+que puede ser mejor añadir al mundo una vida mediocre en la parte
+superior del rango que añadir una vida mediocre en la parte inferior,
+aunque añadir _cualquiera_ de las dos vidas sea meramente "mediocre"
 o dé lugar a un resultado incomparable con el mundo en el que no se
 añade ninguna de las dos vidas.[^39]
 
@@ -445,24 +440,23 @@ una vida tiene dos dimensiones:[^40] además de la conocida dimensión
 negativo-positivo, existe una segunda dimensión que podríamos denominar
 "borrosidad del valor". Cuando la borrosidad es nula, los valores
 resultantes son perfectamente precisos y comparables: cualquier vida
-positiva, por poco que sea, constituye una mejora intrínseca del mundo.
+positiva, por poco que lo sea, constituye una mejora intrínseca del mundo.
 Pero a medida que aumenta la borrosidad, el valor resultante se vuelve
-cada vez más “ni fu ni fa", o _incomparable_. Si el valor de la vida
-tuviera una borrosidad infinita, entonces _todas_ las vidas serían ni fu
-ni fa. (Alternativamente, si pensamos que el valor de la vida admite
+cada vez más "mediocre", o _incomparable_. Si el valor de la vida
+tuviera una borrosidad infinita, entonces _todas_ las vidas serían mediocres. (Alternativamente, si pensamos que el valor de la vida admite
 sólo una borrosidad moderada, entonces un valor positivo (o negativo)
-suficiente puede superar esta borrosidad para calificar la vida en
-cuestión como una que sería, en sí mismo, bueno (o malo) añadir al
+suficiente puede superar esta borrosidad y calificar la vida en
+cuestión como una que sería, en sí misma, buena (o mala) para añadir al
 mundo.
 
 La implicación clave de esta teoría del rango crítico (con una
 borrosidad del valor moderada) es que una vida intrínsecamente buena
 debe contener _significativamente_ más bienestar que una vida
 intrínsecamente mala, porque entre estos dos niveles hay un rango
-moderado de vidas que son ni fu ni fa, como se ilustra a
+moderado de vidas que son mediocres, como se ilustra a
 continuación:[^41]
 
-![Teoría del rango crítico](/img/population-ethics-6.png “Teoría del
+![](../media/Macaskill2023EticaDePoblacion/figura-6.png "Teoría del
 rango crítico")
 
 El punto de vista resultante, aunque teóricamente complejo, parece menos
@@ -473,7 +467,7 @@ señalar que no puede dar cabida a la fuerte intuición "antirrepugnancia"
 de que el mundo idílico A es estrictamente _mejor_ que el mundo
 repugnante Z.[^42] En su lugar, las teorías críticas del rango
 consideran que los dos mundos son incomparables, debido a la inmensa
-borrosidad del valor introducida por todas esas vidas ni fu ni fa en el
+borrosidad del valor introducida por todas esas vidas mediocres en el
 mundo Z.
 
 ## Las perspectivas centradas en las personas afectadas y la asimetría procreativa
@@ -931,8 +925,7 @@ posible... sino aquel en el que la felicidad alcanza su máximo".
 [^18]: Al menos bajo supuestos normales. Como veremos más adelante, esto
     ya no se sigue si, además de la tricotomía estándar de las
     relaciones de valor (ser _mayor que_, _menor que_ y _precisamente
-    igual_), existe una cuarta relación de estar _a la par_. Porque
-    entonces B podría ser mejor que A+, mientras que _tanto_ A+ como B
+    igual_), existe una cuarta relación de estar _a la par_. La razón es que B podría ser mejor que A+, mientras que _tanto_ A+ como B
     están meramente a la par de A.
 [^19]:
     [@Spears2021RepugnantConclusions]
@@ -942,8 +935,7 @@ posible... sino aquel en el que la felicidad alcanza su máximo".
 [^20]: Para ver cómo se aplica esto a la _perspectiva promedio_, por
     ejemplo, basta con suponer que tenemos una población base que
     contiene un sufrimiento inmenso. Añadir una vasta población de vidas
-    apenas positivas puede entonces hacer más para elevar el promedio de
-    lo que haría un número moderado de vidas excelentes.
+    apenas positivas puede entonces hacer más para elevar el promedio que añadir un número moderado de vidas excelentes.
 [^21]: [@Spears2021RepugnantConclusions, p. 28]
 [^22]:
     [@Arrhenius2000ImpossibilityTheoremWelfarist]
@@ -1005,7 +997,7 @@ adicionales disminuye asintóticamente.
 [^33]: Para un intento de este tipo, véase la sección 7.2.2 de
     [@Chappell2021ParfitEthics].
 [^34]: Generalmente se supone que el nivel crítico no es negativo, es
-    decir, positivo o cero. Un nivel crítico negativo atribuiría
+    decir, es positivo o cero. Un nivel crítico negativo atribuiría
     inverosímilmente un valor positivo a (algunas) vidas negativas.
 [^35]: Cf. [@Broome2004WeighingLives, pp. 213-214].
 [^36]:
@@ -1015,10 +1007,6 @@ adicionales disminuye asintóticamente.
 
     [@Gustafsson2020PopulationAxiologyAnd]
 
-[^37]: Aunque los filósofos no suelen utilizar este término coloquial,
-    puede ser útil imaginar a alguien que, cuando se le pregunta si el
-    mundo mejora añadiendo una vida apenas digna de ser vivida, se
-    encoge de hombros y responde “ni fu ni fa".
 [^38]: Cf. [@Chang2002PossibilityParity].
 [^39]: Uno puede, por ejemplo, obtener este resultado pensando en el
     rango crítico como la representación de un rango dentro del cual es
@@ -1042,7 +1030,7 @@ terminología diferente a la que usamos aquí (por ejemplo, usando
 [^42]:
     Esto puede resultar especialmente problemático si el rango crítico
     es simétrico, de forma que las vidas ligeramente negativas también
-    se califican como ni fu ni fa (en lugar de malas). La mayoría
+    se califican como mediocres (en lugar de malas). La mayoría
     pensaría que el mundo A idílico debería ser estrictamente mejor que
     un mundo "Z-" que contuviera un gran número de vidas ligeramente
     negativas, pero las teorías del rango crítico simétrico tendrán
@@ -1050,7 +1038,7 @@ terminología diferente a la que usamos aquí (por ejemplo, usando
     <cite>[@Gustafsson2020PopulationAxiologyAnd, p. 95]</cite>, que
     afirma que esto no es una implicación muy difícil de tolerar si el
     valor personal/bienestar de tal vida es también borroso, y por lo
-    tanto “ni fu ni fa" (en nuestra terminología) en lugar de malo _para
+    tanto "mediocre" (en nuestra terminología) en lugar de malo _para
     la persona que lo vive_.
 
     [@Gustafsson2020PopulationAxiologyAnd]
