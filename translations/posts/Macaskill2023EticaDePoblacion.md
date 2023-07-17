@@ -1,12 +1,15 @@
 ## Introducción
 
-Los utilitaristas están de acuerdo en que si el número de personas existentes se mantiene constante, debemos promover la _suma total del
+Los utilitaristas están de acuerdo en que si el número de personas
+existentes se mantiene constante, debemos promover la _suma total del
 bienestar_ en esa población fija.[^1] En el mundo real, sin embargo, la
 población no permanece fija. Tenemos la posibilidad de aumentar la
 población, por ejemplo, teniendo hijos. Si estas personas adicionales
 tienen una buena vida, ¿es esa una forma de mejorar el mundo? Esta
 pregunta pertenece al ámbito de la _ética de la población_, que trata de
-los problemas morales que surgen cuando nuestras acciones influyen en la identidad y el número de las personas que nacen, y en la calidad de vida tienen.
+los problemas morales que surgen cuando nuestras acciones influyen en la
+identidad y el número de las personas que nacen, y en la calidad de vida
+tienen.
 
 La ética de la población no es sólo un ejercicio académico. Es relevante
 para muchas cuestiones prácticas importantes, como cuántos hijos debemos
@@ -39,10 +42,10 @@ Según la _perspectiva total_ de la ética de la población:
 > bienestar total.**[^3]
 
 Una cuestión importante es que una población puede tener mayor bienestar
-total que otra por el hecho de tener más habitantes. Una forma de calcular
-este total es multiplicar el número de personas (N) por su calidad de
-vida media (Q).[^4] Podemos, por tanto, representar la perspectiva total
-mediante la siguiente función de valor:
+total que otra por el hecho de tener más habitantes. Una forma de
+calcular este total es multiplicar el número de personas (N) por su
+calidad de vida media (Q).[^4] Podemos, por tanto, representar la
+perspectiva total mediante la siguiente función de valor:
 
 **Valor~perspectiva total~ = N \* Q**
 
@@ -61,7 +64,8 @@ hipotéticos. Ilustrados gráficamente, los mundos A y B son igualmente
 valiosos, según la perspectiva total, ya que sus gráficos tienen la
 misma área.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-1.png "Perspectiva total")
+![](../media/Macaskill2023EticaDePoblacion/figura-1.png "Perspectiva
+total")
 
 La perspectiva total implica que podemos mejorar el mundo de dos
 maneras: mejorando la calidad de vida de las personas que ya existen o
@@ -76,20 +80,20 @@ mejor al enriquecer la vida de los demás, sino que tener un hijo es
 bueno en sí mismo. Cuán bueno es hacer que una nueva persona exista
 depende de cuánto mejor o peor es la vida de esa persona en comparación
 con una "vida neutra". Según esta perspectiva, las personas felices son
-buenas y tener más de algo que sea bueno, siempre que las circunstancias no cambien, hace que el
-resultado sea mejor.
+buenas y tener más de algo que sea bueno, siempre que las circunstancias
+no cambien, hace que el resultado sea mejor.
 
 En la práctica, a menudo hay que elegir entre hacer más felices a las
 personas existentes o crear más personas felices. En un planeta con
 recursos limitados, añadir más gente a una población ya de por sí
-numerosa puede, en algún momento, disminuir la calidad de vida de los demás
-lo suficiente como para que el bienestar total disminuya. Es una
+numerosa puede, en algún momento, disminuir la calidad de vida de los
+demás lo suficiente como para que el bienestar total disminuya. Es una
 cuestión empírica abierta si la población de nuestro mundo ha alcanzado
 el tamaño en el que añadir una persona aumenta o disminuye el bienestar
 general.[^7]
 
-La principal implicación práctica de la perspectiva total es que da una gran
-importancia a garantizar la prosperidad de la civilización a largo
+La principal implicación práctica de la perspectiva total es que da una
+gran importancia a garantizar la prosperidad de la civilización a largo
 plazo. Esto implica tomarse muy en serio la [reducción del riesgo
 existencial](/actuar-conforme-al-utilitarismo#reduccion-riesgo-existencial)
 como una prioridad moral.[^8] Los riesgos existenciales —como una guerra
@@ -169,12 +173,12 @@ valioso que el mundo A.
 
 En segundo lugar, puede que no apreciemos adecuadamente que las vidas
 "apenas dignas de ser vividas" son buenas en lugar de malas.[^13] Una
-vida "apenas digna de ser vivida" _es_ digna de ser vivida, y
-una persona con una vida así tiene motivos para alegrarse de existir. Es
+vida "apenas digna de ser vivida" _es_ digna de ser vivida, y una
+persona con una vida así tiene motivos para alegrarse de existir. Es
 posible que las descripciones engañosas de vidas "apenas dignas de ser
 vividas" en la bibliografía académica contribuyan a este malentendido.
-Aunque cómo determinar qué vidas son dignas de ser
-vividas es tema de controversia, se ha argumentado que los ejemplos influyentes en la
+Aunque cómo determinar qué vidas son dignas de ser vividas es tema de
+controversia, se ha argumentado que los ejemplos influyentes en la
 bibliografía —como las vidas que no contienen más bienes que "muzak y
 patatas"—[^14] no son realmente dignas de ser vividas.[^15]
 
@@ -186,15 +190,15 @@ favorecer las poblaciones con una alta calidad de vida.[^16]
 #### Tolerar la intuición
 
 Los defensores de la perspectiva total pueden conceder el argumento y
-simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden señalar
-que, a pesar de ser contraintuitiva inicialmente, esta conclusión se
-basa en el objetivo imperioso de crear un mundo con el mayor bienestar
-total posible. Desde la perspectiva total, las reducciones en el nivel
-medio de bienestar de una población pueden compensarse con creces
-añadiendo un número suficiente de vidas dignas de ser vividas. Puesto
-que las vidas dignas de ser vividas son (como sería lógico suponer) algo
-inherentemente bueno, parece retóricamente exagerado calificar esta
-implicación de "repugnante".
+simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden
+señalar que, a pesar de ser contraintuitiva inicialmente, esta
+conclusión se basa en el objetivo imperioso de crear un mundo con el
+mayor bienestar total posible. Desde la perspectiva total, las
+reducciones en el nivel medio de bienestar de una población pueden
+compensarse con creces añadiendo un número suficiente de vidas dignas de
+ser vividas. Puesto que las vidas dignas de ser vividas son (como sería
+lógico suponer) algo inherentemente bueno, parece retóricamente
+exagerado calificar esta implicación de "repugnante".
 
 De hecho, resulta muy difícil evitar la conclusión repugnante.
 Argumentos sólidos, como la "paradoja de la mera adición" de
@@ -202,8 +206,8 @@ Parfit,[^17] generan la conclusión repugnante sin partir de la
 perspectiva total. Consideremos la elección entre los siguientes tres
 mundos: A, A+ y B.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-3.png "Paradoja de
-la mera adición")
+![](../media/Macaskill2023EticaDePoblacion/figura-3.png "Paradoja de la
+mera adición")
 
 En el mundo A, el bienestar de todos es muy alto. El mundo A+ contiene
 (i) un grupo de población idéntico al de la población A en cuanto al
@@ -285,15 +289,17 @@ filósofos morales, ya que adolece de graves problemas.
 
 En primer lugar, consideremos un mundo habitado por una sola persona que
 padece un sufrimiento atroz. La perspectiva promedio implica que
-podríamos mejorar este mundo creando un millón de personas cuyas
-vidas también estuvieran llenas de un sufrimiento insoportable, si el
+podríamos mejorar este mundo creando un millón de personas cuyas vidas
+también estuvieran llenas de un sufrimiento insoportable, si el
 sufrimiento de las nuevas personas fuera ligeramente menos malo que el
 sufrimiento de la persona original.[^26]
 
 En segundo lugar, la perspectiva promedio implica la _conclusión
 sádica_:[^27]
 
-> **En igualdad de condiciones, a veces puede ser mejor crear vidas con bienestar negativo que crear vidas con bienestar positivo desde el mismo punto de partida.**
+> **En igualdad de condiciones, a veces puede ser mejor crear vidas con
+> bienestar negativo que crear vidas con bienestar positivo desde el
+> mismo punto de partida.**
 
 Añadir un pequeño número de personas torturadas y miserables a una
 población disminuye el bienestar promedio menos que añadir un número
@@ -303,7 +309,8 @@ siguiente gráfico, en el que el mundo A tiene un bienestar promedio
 inferior al del mundo B. Contrariamente a la intuición, la perspectiva
 promedio implica que deberíamos preferir el mundo B al mundo A.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-4.png "Perspectiva promedio y conclusión sádica")
+![](../media/Macaskill2023EticaDePoblacion/figura-4.png "Perspectiva
+promedio y conclusión sádica")
 
 En tercer lugar, la perspectiva promedio prefiere poblaciones
 arbitrariamente pequeñas a poblaciones muy grandes, siempre que el
@@ -379,7 +386,8 @@ número de individuos N, una calidad de vida media Q y un nivel crítico
 **Valor~nivel crítico~ = N \* (Q - α)**
 
 Si observamos esta función de valor, veremos que la perspectiva total de
-la ética de la población no es más que una teoría del nivel crítico cuyo nivel equivale a cero (α = 0). Las teorías del nivel crítico, incluida
+la ética de la población no es más que una teoría del nivel crítico cuyo
+nivel equivale a cero (α = 0). Las teorías del nivel crítico, incluida
 la perspectiva total, coinciden en que el valor de añadir un individuo
 al mundo sólo depende del nivel de bienestar de ese individuo y —a
 diferencia de la perspectiva promedio y las teorías del valor variable—
@@ -415,39 +423,40 @@ _rango crítico_,[^36] según la cual:
 > inferior del rango crítico.**
 
 Al establecer el límite inferior del rango crítico de manera que incluya
-todas las vidas neutras, es decir, aquellas que no son ni buenas ni malas para la persona que las vive, las teorías del intervalo crítico pueden evitar la
-conclusión sádica. Y al fijar el límite superior del intervalo en el
-punto en el que las vidas pasan a ser claramente dignas de ser vividas,
-estas teorías evitan la conclusión repugnante.
+todas las vidas neutras, es decir, aquellas que no son ni buenas ni
+malas para la persona que las vive, las teorías del intervalo crítico
+pueden evitar la conclusión sádica. Y al fijar el límite superior del
+intervalo en el punto en el que las vidas pasan a ser claramente dignas
+de ser vividas, estas teorías evitan la conclusión repugnante.
 
 ¿Pero qué ocurre con las vidas que caen dentro del rango crítico? La
-vida dentro de este rango puede parecernos _mediocre_: ni buena
-ni mala, pero tampoco igual a cero en valor. Al fin y al cabo, algunas
-vidas _mediocres_ (las situadas en el extremo superior del intervalo)
-son mejores que otras (las situadas en el extremo inferior), por lo que
-no puede ser que añadir cualquier vida en este intervalo produzca un
+vida dentro de este rango puede parecernos _mediocre_: ni buena ni mala,
+pero tampoco igual a cero en valor. Al fin y al cabo, algunas vidas
+_mediocres_ (las situadas en el extremo superior del intervalo) son
+mejores que otras (las situadas en el extremo inferior), por lo que no
+puede ser que añadir cualquier vida en este intervalo produzca un
 resultado igual de valioso. Por el contrario, el valor del resultado
 debe ser _incomparable_ al del estado previo o estar _a la par_ de ese
 estado: ni mejor, ni peor, ni exactamente igual en valor.[^38] Obsérvese
 que puede ser mejor añadir al mundo una vida mediocre en la parte
 superior del rango que añadir una vida mediocre en la parte inferior,
-aunque añadir _cualquiera_ de las dos vidas sea meramente "mediocre"
-o dé lugar a un resultado incomparable con el mundo en el que no se
-añade ninguna de las dos vidas.[^39]
+aunque añadir _cualquiera_ de las dos vidas sea meramente "mediocre" o
+dé lugar a un resultado incomparable con el mundo en el que no se añade
+ninguna de las dos vidas.[^39]
 
 Para profundizar en este punto de vista, podemos pensar que el valor de
 una vida tiene dos dimensiones:[^40] además de la conocida dimensión
 negativo-positivo, existe una segunda dimensión que podríamos denominar
 "borrosidad del valor". Cuando la borrosidad es nula, los valores
 resultantes son perfectamente precisos y comparables: cualquier vida
-positiva, por poco que lo sea, constituye una mejora intrínseca del mundo.
-Pero a medida que aumenta la borrosidad, el valor resultante se vuelve
-cada vez más "mediocre", o _incomparable_. Si el valor de la vida
-tuviera una borrosidad infinita, entonces _todas_ las vidas serían mediocres. (Alternativamente, si pensamos que el valor de la vida admite
+positiva, por poco que lo sea, constituye una mejora intrínseca del
+mundo. Pero a medida que aumenta la borrosidad, el valor resultante se
+vuelve cada vez más "mediocre", o _incomparable_. Si el valor de la vida
+tuviera una borrosidad infinita, entonces _todas_ las vidas serían
+mediocres. (Alternativamente, si pensamos que el valor de la vida admite
 sólo una borrosidad moderada, entonces un valor positivo (o negativo)
-suficiente puede superar esta borrosidad y calificar la vida en
-cuestión como una que sería, en sí misma, buena (o mala) para añadir al
-mundo.
+suficiente puede superar esta borrosidad y calificar la vida en cuestión
+como una que sería, en sí misma, buena (o mala) para añadir al mundo.
 
 La implicación clave de esta teoría del rango crítico (con una
 borrosidad del valor moderada) es que una vida intrínsecamente buena
@@ -567,13 +576,12 @@ diferentes grupos de personas futuras. En el mundo A~1~, todos tienen
 una vida maravillosa. En el mundo A~2~, todas las personas tienen una
 vida mucho peor que en A~1~, aunque positiva.
 
-![Perspectivas centradas en las personas afectadas y la
-asimetría](/img/population-ethics-7.png "Perspectivas centradas en las
-personas afectadas y la asimetría")
+![](../media/Macaskill2023EticaDePoblacion/figura-7.png "Perspectivas
+centradas en las personas afectadas y la asimetría")
 
-Está claro que deberíamos preferir el mundo A~1~ al A~2~. Sin embargo,
-la versión más simple de la asimetría procreativa implica que ambos
-mundos son igual de buenos: porque no son ni buenos ni malos.
+Es claro que deberíamos preferir el mundo A~1~ al A~2~. Sin embargo, la
+versión más simple de la asimetría procreativa implica que ambos mundos
+son igual de buenos: porque no son ni buenos ni malos.
 
 En los casos de comparación con mundos vacíos, la asimetría procreativa
 simple a veces arroja veredictos que parecen aún más equivocados.
@@ -584,12 +592,11 @@ Consideremos la siguiente elección entre el mundo A y el mundo B:[^53]
 > rara que hace que la vida no sea digna de ser vivida. En el mundo B,
 > no existe ninguna persona.**
 
-![Perspectivas centradas en las personas afectadas y la
-asimetría](/img/population-ethics-8.png "Perspectivas centradas en las
-personas afectadas y la asimetría")
+![](../media/Macaskill2023EticaDePoblacion/figura-8.png "Perspectivas
+centradas en las personas afectadas y la asimetría")
 
 La mayoría de la gente preferiría el mundo A a un mundo vacío B. Pero la
-simple asimetría procreativa parecería, perversamente, favorecer al
+simple asimetría procreativa parecería, perversamente, favorecer el
 mundo vacío B, ya que las muchas vidas buenas del mundo A no cuentan
 para nada, mientras que las pocas vidas malas determinan la decisión.
 Desde este punto de vista, no hay intercambios aceptables entre vidas
@@ -598,32 +605,31 @@ buenas y malas. Lo mejor, al parecer, sería que no hubiera ninguna vida.
 Para ayudar a resolver estos problemas, podemos considerar una
 perspectiva centrada en las personas afectadas más compleja, análoga a
 la teoría del rango crítico, pero con una borrosidad del valor infinita,
-lo que da como resultado que _todas_ las vidas (positivas) sean “ni fu
-ni fa".[^54] Según esta perspectiva, es mejor crear una vida floreciente
-que una ni fu ni fa (por lo que A~1~ es mejor que A~2~, al menos si
-contienen exactamente el mismo número de personas), pero _cualquiera_ de
-las dos opciones está simplemente a la par de no crear ninguna.
+lo que da como resultado que _todas_ las vidas (positivas) sean
+"mediocres".[^54] Según esta perspectiva, es mejor crear una vida
+próspera que una mediocre (por lo que A~1~ es mejor que A~2~, al menos
+si contienen exactamente el mismo número de personas), pero _cualquiera_
+de las dos opciones está simplemente a la par de no crear ninguna.
 
 Pero esto nos lleva a un problema más profundo con la asimetría
-procreativa, que es que tiene problemas para dar cuenta de la idea de
-que _deberíamos estar realmente contentos de que el mundo (con todas sus
-vidas dignas de ser vividas) exista_.[^54a] Por supuesto, la inmensa
-incomparabilidad introducida por todas las vidas supuestamente “ni fu ni
-fa" en A al menos bloquea la conclusión repugnante de que debemos
-preferir categóricamente el mundo vacío B. Aún así, sostener que los dos
-mundos son incomparables o que están "a la par" también parece
+procreativa: este principio tiene dificultades para dar cuenta de la
+idea de que _deberíamos estar realmente contentos de que el mundo (con
+todas sus vidas dignas de ser vividas) exista_.[^54a] Por supuesto, la
+inmensa incomparabilidad introducida por todas las vidas supuestamente
+"mediocres" en A al menos bloquea la conclusión repugnante de que
+debemos preferir categóricamente el mundo vacío B. Aún así, sostener que
+los dos mundos son incomparables o que están "a la par" también parece
 equivocado.
 
 Debemos reconocer que A es mejor. Pero para ello, debemos rechazar la
 asimetría procreativa estricta y sostener que hay un límite superior al
-"rango crítico" de vidas que son simplemente ni fu ni fa. Y esto es
+"rango crítico" de vidas que son simplemente mediocres. Y esto es
 independientemente plausible. Después de todo, cuando pensamos en qué
 hace que un universo posible sea _bueno_, la respuesta más obvia es que
-contiene un predominio de vidas maravillosas florecientes. ¿Cómo podría
+contiene un predominio de vidas prósperas y maravillosas. ¿Cómo podría
 eso _no_ ser mejor que una roca estéril? Cualquier punto de vista que
-niegue este veredicto es posiblemente demasiado nihilista y divorciado
-de los valores humanistas como para que merezca la pena ser tomado en
-serio.
+niegue este veredicto es posiblemente demasiado nihilista y ajeno a los
+valores humanistas como para que merezca la pena ser tomado en serio.
 
 También podemos formular objeciones más teóricas a tal punto de vista.
 Por ejemplo, Toby Ord señala en
@@ -650,7 +656,7 @@ La ética de la población es un campo de gran importancia para la toma de
 decisiones en el mundo real. En particular, qué perspectiva en la ética
 de la población adoptemos determina la importancia que debemos asignar a
 preservar y mejorar el futuro a largo plazo de la humanidad. Si la
-civilización humana persiste, y tal vez un día se expande por las
+civilización humana persiste, y acaso un día se expande por las
 estrellas, podría haber un número inconcebiblemente grande de personas
 futuras con vidas valiosas. Su existencia y su bienestar dependen en
 parte de las decisiones que tomemos hoy: especialmente de cuántos
@@ -660,9 +666,9 @@ actuar-conforme-al-utilitarismo#reduccion-del-riesgo-existencial), que
 amenazan la supervivencia y el florecimiento de la humanidad a largo
 plazo.[^56]
 
-El bienestar total del que disfrutarían todas las personas futuras es
-potencialmente enorme. Por consiguiente, desde la perspectiva total, el
-disvalor de perder nuestro futuro es inmenso, y la mitigación de los
+El bienestar total del que podrían disfrutar todas las personas futuras
+es potencialmente enorme. Por consiguiente, desde la perspectiva total,
+el disvalor de perder nuestro futuro es inmenso, y la mitigación de los
 riesgos existenciales adquiere una importancia correspondiente. La misma
 conclusión es válida para las teorías del nivel (o rango) crítico,
 suponiendo que el bienestar medio de las generaciones futuras supere el
@@ -684,20 +690,20 @@ perspectiva promedio para grandes poblaciones.[^59]
 Los defensores de las perspectivas centradas en las personas afectadas
 (con una asimetría procreativa estricta) ven con escepticismo la
 afirmación de que reducir el riesgo existencial es de enorme
-importancia. Seguirían pensando que la reducción de estos riesgos tiene
-algún valor porque así se reduce el riesgo de muerte de las personas que
-hoy viven. Pero no considerarían la ausencia de las generaciones futuras
-como una pérdida moral intrínseca. Sin embargo, aunque estas
-perspectivas asimétricas estrictas pueden no estar preocupadas por la
-posibilidad de la extinción humana, sí pueden preocuparse seriamente por
-la posibilidad de un futuro distópico que contenga muchas vidas
-miserables.[^60] Otros podrían sentirse atraídos por una versión más
-débil (y, en consecuencia, más plausible) de la asimetría, según la cual
-tenemos alguna razón para crear vidas prósperas, pero una razón _más
-fuerte_ para ayudar a las personas existentes o para evitar vidas de
-bienestar negativo. Según estas opiniones moderadas, garantizar que el
-futuro vaya bien seguiría siendo muy importante, ya que hay muchas vidas
-en juego.
+importancia. Aunque se inclinan a pensar que la reducción de estos
+riesgos tiene algún valor, porque así se reduce el riesgo de muerte de
+las personas que viven actualmente, no consideran la ausencia de las
+generaciones futuras como una pérdida moral intrínseca. No obstante, aun
+cuando estas perspectivas asimétricas estrictas pueden no estar
+preocupadas por la posibilidad de la extinción humana, sí pueden
+preocuparse seriamente por la posibilidad de un futuro distópico que
+contenga muchas vidas miserables.[^60] Otros podrían sentirse atraídos
+por una versión más débil (y, en consecuencia, más plausible) de la
+asimetría, según la cual tenemos alguna razón para crear vidas
+prósperas, pero una razón _más fuerte_ para ayudar a las personas
+existentes o para evitar vidas de bienestar negativo. Según estas
+opiniones moderadas, garantizar que el futuro vaya bien seguiría siendo
+muy importante, ya que hay muchas vidas en juego.
 
 Por último, hay un argumento de [incertidumbre
 moral](https://altruismoeficaz.net/tags/incertidumbre-moral): dado lo
@@ -736,7 +742,7 @@ resultado.
 Todas estas perspectivas se enfrentan a objeciones de peso. La
 perspectiva total implica la conclusión repugnante, según la cual para
 cualquier mundo A (por idílico que sea), existe un mundo mejor Z en el
-que nadie tiene una vida que es más que apenas digna de ser vivida. La
+que las personas sólo tienen vidas apenas dignas de ser vivida. La
 perspectiva promedio, las teorías del valor variable y las teorías del
 nivel crítico implican versiones de la conclusión sádica: que a veces
 puede ser mejor crear (pocas) vidas con bienestar negativo que crear
@@ -835,8 +841,7 @@ url="/utilitarismo-y-etica-practica" >}}
 
 [^1]: Cuando hablamos de poblaciones, nos referimos a poblaciones
     totales: no sólo a cuántas personas están vivas en un momento
-		específico, sino a todas las personas a lo largo
-    de todo el tiempo.
+    específico, sino a todas las personas a lo largo de todo el tiempo.
 [^2]: Otros autores, siguiendo a Derek Parfit
     ([@Parfit1984ReasonsPersons]), hablan a veces de una "perspectiva
     centrada en las personas afectadas amplia" que admite razones (no
@@ -866,8 +871,8 @@ url="/utilitarismo-y-etica-practica" >}}
 [^6]: Más fuerte aún: desde la perspectiva total, sería intrínsecamente
     _mejor_ crear una nueva persona en el nivel de bienestar 100 que
     mejorar el bienestar de una persona existente del nivel 1 al 100.
-[^7]: Para una análisis de la cuestión de si el mundo está superpoblado o
-    subpoblado, véase [@Ord2014OverpopulationUnderpopulation].
+[^7]: Para una análisis de la cuestión de si el mundo está superpoblado
+    o subpoblado, véase [@Ord2014OverpopulationUnderpopulation].
 [^8]:
     Reducir el riesgo existencial es una prioridad no sólo para la
     perspectiva total, sino para una amplia variedad de perspectivas
@@ -925,8 +930,9 @@ posible... sino aquel en el que la felicidad alcanza su máximo".
 [^18]: Al menos bajo supuestos normales. Como veremos más adelante, esto
     ya no se sigue si, además de la tricotomía estándar de las
     relaciones de valor (ser _mayor que_, _menor que_ y _precisamente
-    igual_), existe una cuarta relación de estar _a la par_. La razón es que B podría ser mejor que A+, mientras que _tanto_ A+ como B
-    están meramente a la par de A.
+    igual_), existe una cuarta relación de estar _a la par_. La razón es
+    que B podría ser mejor que A+, mientras que _tanto_ A+ como B están
+    meramente a la par de A.
 [^19]:
     [@Spears2021RepugnantConclusions]
 
@@ -935,7 +941,8 @@ posible... sino aquel en el que la felicidad alcanza su máximo".
 [^20]: Para ver cómo se aplica esto a la _perspectiva promedio_, por
     ejemplo, basta con suponer que tenemos una población base que
     contiene un sufrimiento inmenso. Añadir una vasta población de vidas
-    apenas positivas puede entonces hacer más para elevar el promedio que añadir un número moderado de vidas excelentes.
+    apenas positivas puede entonces hacer más para elevar el promedio
+    que añadir un número moderado de vidas excelentes.
 [^21]: [@Spears2021RepugnantConclusions, p. 28]
 [^22]:
     [@Arrhenius2000ImpossibilityTheoremWelfarist]
@@ -1030,27 +1037,27 @@ terminología diferente a la que usamos aquí (por ejemplo, usando
 [^42]:
     Esto puede resultar especialmente problemático si el rango crítico
     es simétrico, de forma que las vidas ligeramente negativas también
-    se califican como mediocres (en lugar de malas). La mayoría
-    pensaría que el mundo A idílico debería ser estrictamente mejor que
-    un mundo "Z-" que contuviera un gran número de vidas ligeramente
-    negativas, pero las teorías del rango crítico simétrico tendrán
-    dificultades para alcanzar este veredicto. Cf.
+    se califican como mediocres (en lugar de malas). La mayoría pensaría
+    que el mundo A idílico debería ser estrictamente mejor que un mundo
+    "Z-" que contuviera un gran número de vidas ligeramente negativas,
+    pero las teorías del rango crítico simétrico tendrán dificultades
+    para alcanzar este veredicto. Cf.
     <cite>[@Gustafsson2020PopulationAxiologyAnd, p. 95]</cite>, que
     afirma que esto no es una implicación muy difícil de tolerar si el
     valor personal/bienestar de tal vida es también borroso, y por lo
-    tanto "mediocre" (en nuestra terminología) en lugar de malo _para
-    la persona que lo vive_.
+    tanto "mediocre" (en nuestra terminología) en lugar de malo _para la
+    persona que lo vive_.
 
     [@Gustafsson2020PopulationAxiologyAnd]
 
 [^43]: Aquí usamos el término "impersonal" simplemente para contrastar
-    con la perspectiva centrada en las personas afectadas estrecha. Por
-    tanto, incluso una teoría impersonal (según nuestro uso) puede
-    considerar que el valor de un estado de cosas se basa en hechos
-    sobre lo que es bueno para determinadas personas, por ejemplo, si
-    uno sostiene que una existencia feliz puede constituir un beneficio
-    no comparativo, de forma paralela a cómo una existencia miserable
-    constituye un daño no comparativo.
+    con la perspectiva centrada en las personas estrecha. Por tanto,
+    incluso una teoría impersonal (según nuestro uso) puede considerar
+    que el valor de un estado de cosas se basa en hechos sobre lo que es
+    bueno para determinadas personas, por ejemplo, si uno sostiene que
+    una existencia feliz puede constituir un beneficio no comparativo,
+    de forma paralela a cómo una existencia miserable constituye un daño
+    no comparativo.
 [^44]: Las teorías del rango crítico que hemos discutido son más
 difíciles de recoger en una fórmula numérica. Pero si dejamos de lado
 las vidas que caen dentro del intervalo crítico, podríamos aproximarnos
@@ -1089,9 +1096,9 @@ niveles críticos candidatos **α**.
 limitado de su análogo de bienestar negativo: "Nos oponemos a hacer
 desgraciada a la gente, pero somos neutrales respecto de hacer gente
 desgraciada". Como se analiza a continuación en esta sección, la
-viabilidad de los enfoques de la ética de la población que afectan a las
-personas depende crucialmente de la validación de una asimetría radical
-entre vidas positivas y negativas.
+viabilidad de los enfoques de la ética de la población centrados en las
+personas afectadas depende crucialmente de la validación de una
+asimetría radical entre vidas positivas y negativas.
 
 [^47]:
     Por ejemplo, véase:
@@ -1119,7 +1126,7 @@ entre vidas positivas y negativas.
 
     [@Mcmahan2009AsymmetriesInMorality]
 [^51]: Aunque uno de los coautores de este capítulo ha argumentado en
-    otro lugar que "se piensa que es ‘intuitiva' principalmente porque
+    otro lugar que "se piensa que es 'intuitivo' principalmente porque
     se ha confundido implícitamente con otras tesis más plausibles."
     Véase [@Chappell2018RethinkingAsymmetry].
 [^52]: [@Mcmahan2009AsymmetriesInMorality].
@@ -1128,7 +1135,7 @@ entre vidas positivas y negativas.
 [^54]: Un desafío importante para tal punto de vista sería explicar cómo
     hacer que esta borrosidad del valor sea compatible con la asimetría,
     de modo que las vidas miserables sean reconocidas apropiadamente
-    como malas (no meramente ni fu ni fa).
+    como malas (no meramente mediocres).
 [^54a]: Al menos bajo el supuesto de que las vidas buenas predominan
     sobre las miserables. Por ejemplo, una persona en el mundo A debería
     alegrarse de que ese mundo exista.
@@ -1139,9 +1146,9 @@ entre vidas positivas y negativas.
     combinara una teoría impersonal con razones adicionales centradas en
     las personas afectadas para dar prioridad a los intereses de los
     individuos existentes. Esto ayudaría a bloquear los problemas de la
-    "remplazabilidad” —es decir, que las perspectivas impersonales hacen
+    "remplazabilidad" —es decir, que las perspectivas impersonales hacen
     que sea demasiado fácil justificar que se (maten y) remplacen las
-    vidas existentes por otras “mejores”— sin las implicaciones extremas
+    vidas existentes por otras "mejores"— sin las implicaciones extremas
     de las perspectivas centradas en las personas afectadas.
 
     Para un debate fascinante sobre algunas de las complejidades de establecer compensaciones entre daños y beneficios ordinarios y el bien no comparativo de crear una nueva vida (feliz), véase:
@@ -1160,8 +1167,8 @@ entre vidas positivas y negativas.
 [^57]: Esta suposición es plausible: con el continuo progreso
     tecnológico, social y moral, la calidad de vida media en el futuro
     probablemente seguirá aumentando, como lo ha hecho durante cientos
-    de años. Sólo un nivel crítico inverosímilmente alto, en el que
-    incluso el valor de la vida media en la generación presente sea
+    de años. Sólo un nivel crítico irrazonablemente alto, según el cual
+    incluso el valor de la vida media en la generación presente fuera
     negativo, podría invalidar la conclusión de que la reducción del
     riesgo existencial debería ser una prioridad.
 
@@ -1175,7 +1182,7 @@ entre vidas positivas y negativas.
     de la cría intensiva de animales un fenómeno temporal.
 [^59]: Si lo que cuenta como población "grande" es mucho mayor que la
     población actual, esto aumenta aún más la importancia que asignan
-    las teorías de valores variables a evitar riesgos existenciales, ya
+    las teorías del valor variable a evitar riesgos existenciales, ya
     que se aproximan a la perspectiva total para poblaciones pequeñas.
 [^60]:
     Por ejemplo, David Althaus y Lukas Gloor argumentan que reducir los
