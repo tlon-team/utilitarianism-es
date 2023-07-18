@@ -706,7 +706,7 @@ opiniones moderadas, garantizar que el futuro vaya bien seguiría siendo
 muy importante, ya que hay muchas vidas en juego.
 
 Por último, hay un argumento de [incertidumbre
-moral](https://altruismoeficaz.net/tags/incertidumbre-moral): dado lo
+moral](https://altruismoeficaz.net/tags/incertidumbre-moral.md): dado lo
 difícil que resulta el terreno de la ética de la población, es posible
 que no estemos totalmente seguros de ningún punto de vista concreto. Por
 lo tanto, deberíamos averiguar qué grado de creencia deberíamos tener en
