@@ -732,11 +732,11 @@ url="/teorias-del-bienestar" >}}
 
 [^27]: En la práctica, el fenómeno psicológico de la _aversión a la
     pérdida_ significa que alguien puede sentirse _más molesto_ por lo
-    que percibe como una "pérdida" que por lo que percibe como el mero
-    "fracaso en obtener un beneficio". Estos sentimientos negativos
-    pueden reducir aún más su bienestar, convirtiendo el juicio de que
-    "la pérdida es peor" en una especie de profecía que acarrea su
-    propio cumplimiento. Pero esto depende de fenómenos psicológicos
+    que percibe como una "pérdida" que por lo que percibe como la mera
+    "no obtención un beneficio". Estos sentimientos negativos pueden
+    reducir aún más su bienestar, convirtiendo el juicio de que "la
+    pérdida es peor" en una especie de profecía que acarrea su propio
+    cumplimiento. Pero esto depende de fenómenos psicológicos
     contingentes que generan daños _adicionales_; no es que la pérdida
     sea _en sí misma_ peor.
 [^28]: [@Bostrom2006ReversalTestEliminating].
