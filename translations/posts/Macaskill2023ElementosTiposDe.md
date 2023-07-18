@@ -18,7 +18,6 @@ utilitarismo global del utilitarismo híbrido.
 ## Definición de utilitarismo
 
 Las teorías utilitaristas comparten cuatro elementos definitorios:
-
 1. consecuencialismo
 2. bienestarismo
 3. imparcialidad
