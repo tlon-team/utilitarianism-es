@@ -58,7 +58,7 @@ Aunque la historia no puede decirnos directamente qué teoría moral es la
 correcta, el razonamiento moral utilitarista tiene un sólido historial
 de contribución al progreso moral colectivo de la humanidad, lo que
 sugiere que al menos puede haber algo moralmente saludable en estas
-ideas. Los utilitaristas clásicos de los siglos XVIII y XIX tenían
+ideas. Los utilitaristas clásicos de los siglos <abbr>XVIII</abbr> y <abbr>XIX</abbr> tenían
 actitudes sociales y políticas muy adelantadas a su tiempo: como
 reformador social progresista, [Jeremy
 Bentham](pensador-utilitarista/jeremy-bentham) defendió cuestiones como
