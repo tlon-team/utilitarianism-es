@@ -92,7 +92,7 @@ El utilitarismo clásico acepta el _hedonismo_ como teoría del bienestar, que d
 
 > **El hedonismo es la perspectiva de que el bienestar consiste en, y sólo en, el saldo de las experiencias conscientes positivas sobre las negativas.**
 
-Los hedonistas éticos creen que las únicas cosas buenas en sí mismas son las experiencias de estados conscientes positivos, como el disfrute y el placer, y que las únicas cosas malas en sí mismas son las experiencias de estados conscientes negativos, como la miseria y el dolor. Los filósofos suelen utilizar _felicidad_ y _sufrimiento_ como abreviaturas de las expresiones _experiencia consciente positiva_ y _experiencia consciente negativa_, respectivamente.
+Los hedonistas éticos creen que las únicas cosas buenas en sí mismas son las experiencias de estados conscientes positivos, como el disfrute y el placer, y que las únicas cosas malas en sí mismas son las experiencias de estados conscientes negativos, como la infelicidad y el dolor. Los filósofos suelen utilizar _felicidad_ y _sufrimiento_ como abreviaturas de las expresiones _experiencia consciente positiva_ y _experiencia consciente negativa_, respectivamente.
 
 Analizamos los argumentos a favor y en contra del hedonismo —y de sus dos principales rivales, las _teorías del deseo_ y las _teorías de la lista objetiva_— en el capítulo [Teorías del bienestar](/teorias-del-bienestar).
 
