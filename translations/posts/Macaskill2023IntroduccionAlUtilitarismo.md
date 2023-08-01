@@ -79,24 +79,24 @@ Descubre cómo poner en práctica el utilitarismo:
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarismoCrashCourse]
-- [@Lazari-Radek2017UtilitarianismVeryShort]
-- [@Bykvist2010UtilitarianismGuidePerplexed]
-- [@2023WhatIsUtilitarianism]
+- [@Crashcourse2016UtilitarismoCrashCourse].
+- [@Lazari-Radek2017UtilitarianismVeryShort].
+- [@Bykvist2010UtilitarianismGuidePerplexed].
+- [@2023WhatIsUtilitarianism].
 
 ### Los Clásicos
 
-- [@Bentham2017IntroductionToPrinciples]
-- [@Mill2005Utilitarianism]
-- [@Sidgwick2011MethodsOfEthics]
+- [@Bentham2017IntroductionToPrinciples].
+- [@Mill2005Utilitarianism].
+- [@Sidgwick2011MethodsOfEthics].
 
 ### Más información
 
-- [@Driver2022HistoriaDelUtilitarismo]
-- [@Schultz2017FelicidadVidaDeLosFilósofos]
-- [@Crimmins2013BloomsburyEncyclopediaUtilitarianism]
-- [@Parfit2011WhatMatters]
-- [@Ng1990WelfarismUtilitarianismRehabilitation]
+- [@Driver2022HistoriaDelUtilitarismo].
+- [@Schultz2017FelicidadVidaDeLosFilósofos].
+- [@Crimmins2013BloomsburyEncyclopediaUtilitarianism].
+- [@Parfit2011WhatMatters].
+- [@Ng1990WelfarismUtilitarianismRehabilitation].
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
@@ -124,7 +124,7 @@ Descubre cómo poner en práctica el utilitarismo:
 
 [^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](/etica-de-la-poblacion/) en el capítulo 5.
 
-[^10]: Sin embargo, cuando los economistas utilizan el término "[utilidad](https://en.wikipedia.org/wiki/Utility)" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/#teorias-del-deseo).
+[^10]: Sin embargo, cuando los economistas utilizan el término "[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/#teorias-del-deseo).
 
 [^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](/teorias-del-bienestar/) explora si el bienestar puede implicar algo más que esto.
 
