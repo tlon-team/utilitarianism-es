@@ -320,7 +320,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^10]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
 
-    [@Bentham1789IntroductionPrinciplesMorals, ch. 1]
+    [@Bentham1789IntroductionPrinciplesMorals, ch. 1].
 
     [@Mill2022Utilitarianism, ch. 1].
 
