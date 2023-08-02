@@ -106,7 +106,7 @@ Frente a estas poderosas objeciones teóricas, la principal consideración que t
 
 La fuerza de las intuiciones deontológicas también puede verse mermada si se demuestra que resultan de un proceso poco confiable. Por ejemplo, los procesos evolutivos pueden habernos dotado de un sesgo emocional que favorezca a quienes se parecen, hablan y comportan como nosotros; sin embargo, esto no ofrece ninguna justificación para discriminar a quienes no se parecen a nosotros. La evolución es un proceso ciego y amoral cuyo único "objetivo" es la propagación de los genes, no la promoción del bienestar o la corrección moral. Nuestras intuiciones morales deben ser sometidas a examen, sobre todo en escenarios que difieren mucho de nuestro entorno evolutivo. Si identificamos una intuición moral como proveniente de nuestra ascendencia evolutiva, podemos decidir no darle mucha importancia en nuestro razonamiento moral: en esto consisten los _argumentos genealógicos evolutivos_.[^29]
 
-Katarzyna de Lazari-Radek y Peter Singer sostienen que los teorías que permiten la parcialidad son especialmente vulnerables a estos argumentos, mientras que las teorías [imparciales](/tipos-de-utilitarismo#imparcialidad) como el utilitarismo tienen más probabilidades de ser el resultado de un razonamiento no distorsionado.[^30] Joshua Greene ofrece un argumento genealógico psicológico diferente. Sostiene que los juicios deontológicos —por ejemplo, en respuesta a los [problemas del tranvía](https://en.wikipedia.org/wiki/Trolley_problem)— suelen derivarse de respuestas emocionales poco fiables e incoherentes, incluido nuestro favoritismo por las víctimas identificables frente a las anónimas y nuestra aversión a dañar a alguien de cerca en lugar de hacerlo de lejos. En cambio, los juicios utilitaristas implican la aplicación más deliberada de principios morales ampliamente respetados.[^31]
+Katarzyna de Lazari-Radek y Peter Singer sostienen que los teorías que permiten la parcialidad son especialmente vulnerables a estos argumentos, mientras que las teorías [imparciales](/tipos-de-utilitarismo#imparcialidad) como el utilitarismo tienen más probabilidades de ser el resultado de un razonamiento no distorsionado.[^30] Joshua Greene ofrece un argumento genealógico psicológico diferente. Sostiene que los juicios deontológicos —por ejemplo, en respuesta a los [problemas del tranvía](https://es.wikipedia.org/wiki/Dilema_del_tranv%C3%ADa)— suelen derivarse de respuestas emocionales poco fiables e incoherentes, incluido nuestro favoritismo por las víctimas identificables frente a las anónimas y nuestra aversión a dañar a alguien de cerca en lugar de hacerlo de lejos. En cambio, los juicios utilitaristas implican la aplicación más deliberada de principios morales ampliamente respetados.[^31]
 
 Estos argumentos genealógicos suscitan la preocupación de si "prueban demasiado": después de todo, el juicio moral fundacional de que _el dolor es malo_ parecería en sí mismo cargado de emociones y susceptible de una explicación evolutiva. ¡Las criaturas físicamente vulnerables tendrían poderosas razones evolutivas para querer evitar el dolor _fuera o no_ objetivamente malo!
 
@@ -131,15 +131,15 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 ## Recursos y Más información
 
-- [@Broome1987UtilitarianismExpectedUtility]
-- [@Broome1991WeighingGoodsEquality]
-- [@Bykvist2010UtilitarianismGuidePerplexed]
-- [@Goodin1995UtilitarianismPublicPhilosophy]
-- [@Hare2016ShouldWeWish]
-- [@Harsanyi1955CardinalWelfareIndividualistic]
-- [@Harsanyi1977RationalBehaviorBargaining]
-- [@Lazari-Radek2017Justification]
-- [@Smart1961OutlineSystemUtilitarian]
+- [@Broome1987UtilitarianismExpectedUtility].
+- [@Broome1991WeighingGoodsEquality].
+- [@Bykvist2010UtilitarianismGuidePerplexed].
+- [@Goodin1995UtilitarianismPublicPhilosophy].
+- [@Hare2016ShouldWeWish].
+- [@Harsanyi1955CardinalWelfareIndividualistic].
+- [@Harsanyi1977RationalBehaviorBargaining].
+- [@Lazari-Radek2017Justification].
+- [@Smart1961OutlineSystemUtilitarian].
 
 [^1]: [@Daniels2003ReflectiveEquilibrium].
 [^2]: Esto no quiere decir que cualquier respuesta sea de hecho igualmente buena o correcta, sino que sólo deberíamos esperar que sea difícil _persuadir_ a quienes responden a los conflictos de un modo diferente al nuestro.
@@ -151,14 +151,14 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
     Véase también [@Goodin1995UtilitarianismPublicPhilosophy].
 
 [^5a]:
-    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ([@Singer1993PracticalEthics, ch. 1])
+    Peter Singer sostiene, en relación con lo anterior, que "llegamos rápidamente al utilitarismo de las preferencias como posición inicial una vez que el aspecto universal de la ética es aplicado a decisiones pre-éticas simples." ([@Singer1993PracticalEthics, ch. 1].)
 [^6]: [@Smart1956ExtremeRestrictedUtilitarianism].
 [^7]:
     El experimento mental del "velo de la ignorancia" fue desarrollado originalmente por Vickrey y Harsanyi, aunque hoy en día se asocia más a menudo con John Rawls, que acuñó el término y modificó el experimento para llegar a conclusiones diferentes. En concreto, Rawls apeló a una versión en la que además se ignoran las probabilidades relativas de acabar en varias posiciones, para bloquear las implicaciones utilitaristas y argumentar en su lugar a favor de una posición "maximin" que da prioridad léxica al aumento del bienestar de los más desfavorecidos.
 
-    [@Vickrey1945MeasuringMarginalUtility, p. 329]
+    [@Vickrey1945MeasuringMarginalUtility, p. 329].
 
-    [@Harsanyi1953CardinalUtilityWelfare, pp. 434–435]
+    [@Harsanyi1953CardinalUtilityWelfare, pp. 434–435].
 
     [@Rawls1971TheoryJustice].
 
@@ -187,10 +187,10 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^15]: Los siguientes argumentos también deberían aplicarse contra los enfoques de la ética de la virtud, si producen veredictos no consecuencialistas sobre qué _actos_ deben realizarse.
 [^16]: Los deontólogos absolutistas sostienen que tales juicios se aplican _sin importar las consecuencias_. Los deontólogos moderados, en cambio, consideran que las acciones identificadas son _presuntamente_ incorrectas y no se compensan _fácilmente_, pero permiten que esto se compense si está en juego una cantidad _suficiente_ de valor. Así, por ejemplo, un deontólogo moderado podría permitir que se mintiera para salvar la vida de alguien, o que se matara a un inocente para salvar a un millón.
 [^17]:
-    Samuel Scheffler señaló que "de cualquier manera, alguien pierde: se vulnera a alguna persona que no debe ser vulnerada. ¿Por qué no es al menos permisible evitar que se vulnere a cinco personas vulnerando a una?" ([@Scheffler1994RejectionConsequentialismPhilosophical, p. 88])
+    Samuel Scheffler señaló que "de cualquier manera, alguien pierde: se vulnera a alguna persona que no debe ser vulnerada. ¿Por qué no es al menos permisible evitar que se vulnere a cinco personas vulnerando a una?" ([@Scheffler1994RejectionConsequentialismPhilosophical, p. 88].)
 
 [^18]: [@Scheffler1985AgentcentredRestrictionsRationality].
-[^19]: [@Chappell2011IntuitionSystemAnd]
+[^19]: [@Chappell2011IntuitionSystemAnd].
 [^20]: El deontólogo puede insistir en que debería ser más importante _para Jack_, aunque no lo sea para nadie más. Pero esto se opone a la idea atractiva de que el punto de vista moral es imparcial y capaz de producir veredictos sobre los que observadores razonables (y no sólo el propio agente) podrían estar de acuerdo.
 [^21]:
     Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot ([@Foot1967ProblemAbortionDoctrine, p. 26]): "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine."
@@ -198,10 +198,10 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^22]: [@Beauchamp2020JustifyingPhysicianAssisted].
 [^23]: [@Bennett1995ActItself].
 [^24]:
-    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ([@Parfit2011WhatMattersVolumec, pp. 436–437]).
+    En una línea similar, Derek Parfit escribió que "Algunos nos preguntamos qué parte de nuestra riqueza debemos dar los ricos a los más pobres. Pero esa pregunta supone erróneamente que nuestra riqueza es nuestra. Esta riqueza es legalmente nuestra. Pero los más pobres tienen derechos morales mucho más fuertes sobre parte de esa riqueza. Deberíamos transferir a estas personas... al menos el diez por ciento de lo que ganamos." ([@Parfit2011WhatMattersVolumec, pp. 436–437].)
 
 [^25]:
-    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ([@Mill2014Utilitarismo, ch. 2])
+    Sobre el tema del sacrificio, John Stuart Mill escribió que "La moral utilitarista sí reconoce en el ser humano el poder de sacrificar su mayor bien por el bien de los demás. Sólo se niega a admitir que el sacrificio sea en sí mismo un bien. Un sacrificio que no aumenta, o tiende a aumentar, la suma total de la felicidad, lo considera un desperdicio". ([@Mill2014Utilitarismo, ch. 2].)
 
 [^26]:
     Sin embargo, esto no significa que el utilitarismo aspire a la igualdad perfecta en los resultados materiales o incluso en el bienestar. Joshua Greene señala que "un mundo en el que todos obtienen el mismo resultado hagan lo que hagan es un mundo ocioso en el que la gente tiene pocos incentivos para hacer algo. Así pues, la forma de maximizar la felicidad no es decretar que todo el mundo sea igual de feliz, sino animar a la gente a comportarse de forma que maximice la felicidad. Cuando medimos nuestro éxito moral, contamos la felicidad de todos por igual, pero tener éxito implica casi con toda seguridad la desigualdad tanto de la riqueza material como de la felicidad. Esa desigualdad no es ideal, pero se justifica porque, sin ella, las cosas serían peores en general.
