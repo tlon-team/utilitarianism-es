@@ -189,7 +189,7 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 
 ### Teorías del deseo
 
-- [@Heathwood2015DesireFulfilmentTheory]
+- [@Heathwood2015DesireFulfilmentTheory].
 - [@Singer1993AboutEthics].
 - [@Heathwood2006DesireSatisfactionismAnd].
 - [@Murphy1999SimpleDesireFulfillment].
@@ -220,7 +220,7 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 [^11]: Por supuesto, uno podría estar de acuerdo con el punto general de Nozick al considerar la vida en la máquina de experiencias como superior al menos a _algunas_ vidas “reales” (por ejemplo, algunas vidas infelices), de modo que “conectarse" podría ser aconsejable en algunas circunstancias.
 [^12]: [@Nozick2003AnarchyStateUtopia, p. 43].
 [^13]:
-    Nozick afirmaba además que queremos vivir "en contacto con la realidad", pero no está claro que haya ninguna pérdida de bienestar por vivir e interactuar con otros en un mundo virtual compartido como el representado en _[The Matrix](https://en.wikipedia.org/wiki/The_Matrix)_. Un mundo virtual compartido podría, a diferencia de la máquina de experiencias, satisfacer muchos de nuestros valores y deseos no hedónicos, como tener amigos y relaciones afectivas.
+    Nozick afirmaba además que queremos vivir "en contacto con la realidad", pero no está claro que haya ninguna pérdida de bienestar por vivir e interactuar con otros en un mundo virtual compartido como el representado en _[The Matrix](https://es.wikipedia.org/wiki/The_Matrix)_. Un mundo virtual compartido podría, a diferencia de la máquina de experiencias, satisfacer muchos de nuestros valores y deseos no hedónicos, como tener amigos y relaciones afectivas.
 
     [@Nozick2003AnarchyStateUtopia, p. 45].
 
@@ -242,7 +242,7 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 [^17]: [@Crisp2001Wellbeing]. Véase también [@Crisp2006HedonismReconsidered, p.  637].
 [^18]: Probablemente también desean su propia felicidad, por supuesto, que cuadra mejor con el escenario (ii). Pero el hecho de que, no obstante, prefieran la perspectiva (i) a la (ii) sugiere que (i) es el resultado que mejor satisface sus deseos _en general_.
 [^19]: Por otro lado, la objeción de los “placeres malvados” que afectaba al hedonismo parecería aplicarse con igual fuerza a las teorías del deseo, ya que estas teorías también implican que el placer sádico puede beneficiar a quien lo experimenta (si es algo que la persona desea).
-[^20]: Esta es la sugerencia de Parfit en [@Parfit1984ReasonsPersons]. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
+[^20]: Esta es la sugerencia de Parfit en <cite>[@Parfit1984ReasonsPersons]</cite>. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
 [^21]: Según argumenta [John Stuart Mill](/pensador-utilitarista/john-stuart-mill) en su libro de 1859, <cite>[@Mill1977Liberty]</cite>.
 [^22]:
     [@Rawls1971TheoryJustice, p. 432].
