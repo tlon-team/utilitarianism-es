@@ -81,7 +81,7 @@ Desde la perspectiva utilitarista, lo que importa _intrínsecamente_ es el biene
 
 El especismo subyace a la actual explotación de miles de millones de animales no humanos por parte de los humanos. Los animales se consideran en general como recursos: se crían y matan para comida, se usan para vestimenta, o se explotan por su trabajo. Estas prácticas [a menudo hacen que los animales experimenten un sufrimiento extremo](https://www.animal-ethics.org/animal-exploitation-introduction/).
 
-Sin embargo, no todo el sufrimiento animal es causado por los humanos. Hay muchos más animales salvajes que viven en la naturaleza que animales domésticos.[^12] En contraste con la visión romántica prevaleciente de la naturaleza, los animales salvajes suelen tener vidas cortas en entornos hostiles y sufren por múltiples causas, como la depredación, las enfermedades, los parásitos, la exposición al calor o frío extremos, el hambre, la sed y la desnutrición. En este contexto, sería un error considerar sólo el bienestar de los animales domésticos que sufren por la actividad humana, ignorando el bienestar de los animales salvaje que sufren simplemente porque los humanos permiten que se les haga daño.[^13] Como se ha señalado antes, para el utilitarista, la distinción entre hacer daño y permitirlo es irrelevante. Por lo tanto, desde el punto de vista utilitarista, deberíamos preocuparnos por igual por el bienestar de los animales domésticos y salvajes. Dicho esto, actualmente sabemos poco sobre cómo mejorar sistemáticamente la vida de los animales salvajes. En cambio, reducir el consumo de carne procedente de la cría intensiva o mejorar las condiciones de vida en las granjas industriales supondría claramente enormes beneficios para los animales.[^14]
+Sin embargo, no todo el sufrimiento animal es causado por los humanos. Hay muchos más animales salvajes que viven en la naturaleza que animales domésticos.[^12] En contraste con una muy difundida idea romántica de la naturaleza, los animales salvajes suelen tener vidas cortas en entornos hostiles y sufren por múltiples causas, como la depredación, las enfermedades, los parásitos, la exposición al calor o frío extremos, el hambre, la sed y la desnutrición. En este contexto, sería un error considerar sólo el bienestar de los animales domésticos que sufren por la actividad humana, ignorando el bienestar de los animales salvaje que sufren simplemente porque los humanos permiten que se les haga daño.[^13] Como ya se ha señalado, para el utilitarista, la distinción entre hacer daño y permitirlo es irrelevante. Por lo tanto, desde el punto de vista utilitarista, deberíamos preocuparnos por igual por el bienestar de los animales domésticos y salvajes. Dicho esto, actualmente sabemos poco sobre cómo mejorar sistemáticamente la vida de los animales salvajes. En cambio, reducir el consumo de carne procedente de la cría intensiva o mejorar las condiciones de vida en las granjas industriales supondría claramente enormes beneficios para los animales.[^14]
 
 Discutimos las implicaciones de rechazar el especismo para la acción ética en el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo#bienestar-animal-en-las-granjas).
 
@@ -137,7 +137,7 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 {{< botón >}}
 
-## Recursos y Más información
+## Recursos y más información
 
 ### ¿Hay alguna diferencia entre hacer daño y permitirlo?
 
