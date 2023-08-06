@@ -305,7 +305,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](/ética-de-la-poblacion) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos recomiendan elecciones implausibles que, cuando se repiten un número suficiente de veces en la población, empeoran la situación de todos.
 
-    [@Parfit2003JustifiabilityEachPerson, pp. 368-390].
+    [@Parfit2003JustifiabilityEachPerson, pp. 368–390].
 
 [^8a]:
     Técnicamente, una tercera posibilidad sería reducir el número de vidas negativas. De hecho, muchos utilitaristas apoyan la eutanasia (voluntaria), basándose en el reconocimiento de que una vida de sufrimiento puede ser peor que ninguna vida.
@@ -315,7 +315,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^9]:
     La noción de vida positiva, crucial para la perspectiva total, solo tiene sentido en relación con un punto cero en la escala del bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66-68].
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66–68].
 
 [^10]:
     Pero nótese que no coincide directamente con lo que Bentham y Mill entendían por utilitarismo. Por ejemplo, Bentham decía que las acciones deben evaluarse "según la tendencia" por la que aumentan o disminuyen el bienestar. Del mismo modo, Mill sostenía que "las acciones son correctas en la medida en que tienden a promover la felicidad, incorrectas en la medida en que tienden a producir lo contrario de la felicidad".
@@ -347,7 +347,7 @@ Neil Sinhababu propone una forma de consecuencialismo escalar que considera que 
 [^21]:
     [@Bales1971ActutilitarianismAccountRightmaking].
 
-    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105-112].
+    Para un análisis del punto de vista multinivel en el contexto del _utilitarismo_ de Mill, véase [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
 
 [^22]:
     [@Hare1981MoralThinkingIts].

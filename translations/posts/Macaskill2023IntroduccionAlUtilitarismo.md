@@ -104,7 +104,7 @@ Descubre cómo poner en práctica el utilitarismo:
 
 [^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 
-    [@Bentham2017IntroductionToPrinciples, pp. 143-4|291]
+    [@Bentham2017IntroductionToPrinciples, pp. 143–4|291]
 
     "¿Por qué la ley habría de negar su protección a un ser sensible? Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo que respira. Hemos comenzado por atender a la condición de los esclavos; terminaremos por aliviar la de todos los animales que asisten nuestros trabajos o satisfacen nuestras necesidades."
 

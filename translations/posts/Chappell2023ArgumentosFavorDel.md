@@ -173,11 +173,11 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 [^H0]: Los intereses _ex post_, por el contrario, se refieren a los resultados reales que se obtienen. Curiosamente, las teorías pueden combinar las evaluaciones _ex post_ del bienestar con un elemento de "expectativa" más amplio. Por ejemplo, el [prioritarismo](/alternativas-casi-utilitaristas/#prioritarismo) _ex post_ asigna un valor social adicional a evitar malos _resultados_ (en lugar de malas _perspectivas_) para los individuos en peor situación, pero puede seguir evaluando las perspectivas por su _valor social esperado_.
 
-[^H1]: [@Harsanyi1955CardinalWelfareIndividualistic, pp. 312–314]; [@Harsanyi1977RationalBehaviorBargaining, pp. 64–68]), reinterpretado por [@Broome1987UtilitarianismExpectedUtility, pp. 410-411]; [@Broome1991WeighingGoodsEquality, pp. 165, 202-209]. Para más información, véase nuestro próximo ensayo invitado sobre los argumentos a favor del utilitarismo, de Johan E. Gustafsson y Kacper Kowalczyk, que aparecerá en <www.utilitarianism.net/guest-essays/>.
+[^H1]: [@Harsanyi1955CardinalWelfareIndividualistic, pp. 312–314]; [@Harsanyi1977RationalBehaviorBargaining, pp. 64–68]), reinterpretado por [@Broome1987UtilitarianismExpectedUtility, pp. 410–411]; [@Broome1991WeighingGoodsEquality, pp. 165, 202–209]. Para más información, véase nuestro próximo ensayo invitado sobre los argumentos a favor del utilitarismo, de Johan E. Gustafsson y Kacper Kowalczyk, que aparecerá en <www.utilitarianism.net/guest-essays/>.
 
 [^H2]: Por ejemplo, [@Hare2016ShouldWeWish].
 
-[^H3]: [@Hare2016ShouldWeWish, pp. 454-455].
+[^H3]: [@Hare2016ShouldWeWish, pp. 454–455].
 
 [^H4]: <cite>[@Hare2016ShouldWeWish]</cite> discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
 

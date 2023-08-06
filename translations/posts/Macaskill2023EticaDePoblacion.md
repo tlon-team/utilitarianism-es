@@ -320,7 +320,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 [^5]:
     La noción de vida positiva, crucial para la perspectiva total, sólo tiene sentido en relación con un punto cero en la escala de bienestar. Este punto cero es el umbral a partir del cual la vida se vuelve "digna de ser vivida". Una "vida neutra", en el nivel 0 de bienestar, no es ni "digna de ser vivida" ni "no digna de ser vivida". Puede ser una vida sin valor ni disvalor, o una vida con exactamente tanto valor como disvalor.
 
-    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66-68].
+    Para más información sobre las sutilezas del concepto de vida "digna de ser vivida", véase [@Broome2004WeighingLives, pp. 66–68].
 
 [^6]: Más fuerte aún: desde la perspectiva total, sería intrínsecamente _mejor_ crear una nueva persona en el nivel de bienestar 100 que mejorar el bienestar de una persona existente del nivel 1 al 100.
 [^7]: Para una análisis de la cuestión de si el mundo está superpoblado o subpoblado, véase [@Ord2014OverpopulationUnderpopulation].
@@ -417,7 +417,7 @@ Pueden evitar la conclusión repugnante ya que el valor total de una población 
 [^32]: Consideremos un mundo bueno con mil millones de personas felices y una sola persona miserable. Imaginemos que aumentamos repetidamente el número de personas felices y miserables de acuerdo con un mismo factor: diez mil millones de personas felices y diez personas miserables, cien mil millones de personas felices y cien personas miserables, etc. Para una población suficientemente grande, cada vez que aumentamos su tamaño de esta manera, el mundo empeora (según estas teorías asimétricas) hasta que finalmente llegamos a un mundo globalmente malo.
 [^33]: Para un intento de este tipo, véase la sección 7.2.2 de [@Chappell2021ParfitEthics].
 [^34]: Generalmente se supone que el nivel crítico no es negativo, es decir, es positivo o cero. Un nivel crítico negativo atribuiría inverosímilmente un valor positivo a (algunas) vidas negativas.
-[^35]: Cf. [@Broome2004WeighingLives, pp. 213-214].
+[^35]: Cf. [@Broome2004WeighingLives, pp. 213–214].
 [^36]:
     [@Blackorby1996QuasiOrderingsAnd].
 

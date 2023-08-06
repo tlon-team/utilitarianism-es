@@ -235,7 +235,7 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
     [@deBrigard2010IfYouIt].
 
 [^16]:
-    Adaptado de [@Crisp2006HedonismReconsidered, pp. 635-636].
+    Adaptado de [@Crisp2006HedonismReconsidered, pp. 635–636].
 
     Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca [@Lin2016HowToUse].
 
