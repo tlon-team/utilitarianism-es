@@ -1,6 +1,6 @@
 ---
 título: "Objeciones al utilitarismo y respuestas"
-fecha: 2023–01-29
+fecha: 2023-01-29
 borrador: false
 menú: ["objeciones", "principal"]
 peso: 100
