@@ -95,5 +95,5 @@ Por último, los defensores del utilitarismo pueden simplemente "morder la bala"
 [^6]: [@Greene2013MoralTribes, p. 284].
 
 <!-- Local Variables: -->
-<!-- jinx-local-words: "and authors correccion false gradientBottom gradientTop how next objection page to" -->
+<!-- jinx-local-words: "Demandingness Impotence Objection and authors correccion false gradientBottom gradientTop how next objection of page peter singer the to" -->
 <!-- End: -->
