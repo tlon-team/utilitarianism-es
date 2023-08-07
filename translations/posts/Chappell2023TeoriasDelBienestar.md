@@ -60,7 +60,7 @@ Nozick sugiere que no deberías conectarte a la máquina de experiencias, a pesa
 
 Si la felicidad fuera el único bien básico del bienestar, no importaría que nuestras experiencias sean reales o generadas por la máquina de experiencias sin nuestra intervención (o la de otros). Por consiguiente, si preferimos no conectarnos a la máquina, eso sugiere que valoramos otras cosas además de la felicidad, como la autonomía y las relaciones.
 
-Una forma en que los hedonistas han intentado resistir este argumento es cuestionar la fiabilidad de las intuiciones evocadas por el experimento mental. En algunos casos, la reticencia a conectarse a la máquina puede deberse a una preocupación pragmática ante la posibilidad de que la tecnología falle;[^14] en otros, puede haber razones morales que nos lleven a permanecer desconectados (por ejemplo, para ayudar a los demás en el mundo real), aunque eso signifique sacrificar nuestra propia felicidad. Por último, muchos han argumentado que nuestras respuestas al experimento mental reflejan un [sesgo del *statu quo*](https://altruismoeficaz.net/tags/sesgo-del-statu-quo): si le dices a la gente que _ya_ está en la máquina de experiencias, es mucho más probable que quiera _permanecer_ conectada.[^15]
+Una forma en que los hedonistas han intentado resistir este argumento es cuestionar la fiabilidad de las intuiciones evocadas por el experimento mental. En algunos casos, la reticencia a conectarse a la máquina puede deberse a una preocupación pragmática ante la posibilidad de que la tecnología falle;[^14] en otros, puede haber razones morales que nos lleven a permanecer desconectados (por ejemplo, para ayudar a los demás en el mundo real), aunque eso signifique sacrificar nuestra propia felicidad. Por último, muchos han argumentado que nuestras respuestas al experimento mental reflejan un [sesgo del *statu quo*](https://altruismoeficaz.net/temas/sesgo-del-statu-quo): si le dices a la gente que _ya_ está en la máquina de experiencias, es mucho más probable que quiera _permanecer_ conectada.[^15]
 
 Sin embargo, incluso después de tener en cuenta estos factores de confusión, muchos rechazarán intuitivamente la sugerencia de que una máquina de experiencias pueda proporcionarles todo lo que realmente quieren de la vida. Imaginemos que la persona A vive una vida feliz y plena en el mundo real, cuya experiencia subjetiva se "graba" de algún modo y luego se "reproduce" en B (que está conectado a una máquina de experiencias desde su nacimiento), con el agregado de un acceso extra de leve placer al final.[^16] El hedonismo implica que B tiene la mejor vida de los dos, pero a muchos esto les parecerá inverosímil. Nótese que esta intuición no puede explicarse tan fácilmente como derivada de confusiones pragmáticas o morales, o del mero sesgo del *statu quo*.
 
@@ -239,11 +239,11 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 
     Las ventajas de los juicios en tercera persona sobre los valores relativos de las vidas dentro y fuera de la máquina de experiencias, para evitar mejor las objeciones, es algo que también destaca [@Lin2016HowToUse].
 
-[^17]: [@Crisp2001Wellbeing]. Véase también [@Crisp2006HedonismReconsidered, p.  637].
+[^17]: [@Crisp2001Wellbeing]. Véase también [@Crisp2006HedonismReconsidered, p. 637].
 [^18]: Probablemente también desean su propia felicidad, por supuesto, que cuadra mejor con el escenario (ii). Pero el hecho de que, no obstante, prefieran la perspectiva (i) a la (ii) sugiere que (i) es el resultado que mejor satisface sus deseos _en general_.
 [^19]: Por otro lado, la objeción de los “placeres malvados” que afectaba al hedonismo parecería aplicarse con igual fuerza a las teorías del deseo, ya que estas teorías también implican que el placer sádico puede beneficiar a quien lo experimenta (si es algo que la persona desea).
 [^20]: Esta es la sugerencia de Parfit en <cite>[@Parfit1984ReasonsPersons]</cite>. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
-[^21]: Según argumenta [John Stuart Mill](/pensador-utilitarista/john-stuart-mill) en su libro de 1859, <cite>[@Mill1977Liberty]</cite>.
+[^21]: Según argumenta [John Stuart Mill](/pensador-utilitarista/john-stuart-mill) en su libro de 1859, <cite>[@Mill1859Liberty]</cite>.
 [^22]:
     [@Rawls1971TheoryJustice, p. 432].
 
