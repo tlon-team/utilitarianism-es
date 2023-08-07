@@ -1,3 +1,8 @@
+---
+title: "Elementos y tipos de utilitarismo" date: 2023-01-29 draft: false menu: "main" weight: 2 description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas." gradientTop: "#236d9f" gradientBottom: "#012147" —
+
+{{< TOC >}}
+
 ## Introducción
 
 Como se explica en [Capitulo 1: Introducción al utilitarismo](/introduccion-al-utilitarismo), la idea central del utilitarismo es que debemos querer mejorar el bienestar de todos tanto como sea posible. Las teorías utilitaristas comparten cuatro elementos: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo. El utilitarismo clásico se distingue porque acepta dos elementos adicionales: en primer lugar, el hedonismo como [teoría del bienestar](/theories-of-wellbeing); en segundo lugar, la perspectiva total como [ética de la población](/population-ethics). Existen otras distinciones importantes entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador o de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo global del utilitarismo híbrido.
@@ -204,7 +209,6 @@ En particular, los utilitaristas híbridos pueden entender que la virtud y el m�
 
 Los puristas pueden objetar que el utilitarismo híbrido no es "realmente" una forma de utilitarismo. Y, de hecho, es un punto de vista híbrido, que combina afirmaciones utilitaristas (sobre lo que importa y lo que debe hacerse) con afirmaciones sobre la virtud, el mérito y la culpabilidad que van más allá de la evaluación utilitarista directa. Pero mientras estas afirmaciones adicionales no entren en conflicto con ninguna de las afirmaciones utilitaristas centrales sobre lo que importa y lo que debe hacerse, no parece haber ningún obstáculo para combinar ambos tipos de afirmaciones en una visión unificada. Esto puede suponer un alivio para aquellos que se sienten atraídos por el utilitarismo, pero que consideran que las afirmaciones utilitaristas globales puras sobre la virtud y la culpabilidad son intuitivamente inverosímiles o incompletas.
 
-
 ## Conclusión
 
 Todas las teorías éticas pertenecientes a la familia utilitarista comparten cuatro características definitorias: son consecuencialistas, bienestaristas, imparciales y agregacionistas. Como resultado, asignan una importancia moral suprema a la promoción del bienestar general.
@@ -301,6 +305,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 [^3]: Asignar valor adicional a las distribuciones del bienestar (por ejemplo, a las más equitativas) va más allá del bienestarismo, ya que implica que hay algo intrínsecamente valioso que es diferente del bienestar mismo.
 [^4]: [@Sidgwick1874MethodsEthics, p. 186].
 [^5]: Para una discusión más detallada, véase [La objeción de las obligaciones especiales](/objeciones-al-utilitarismo/obligaciones-especiales/).
+
 [^6]: En principio, otros métodos de agregación (como la multiplicación o algo más complejo) son concebibles. Pero aquí nos centramos en la forma aditiva del agregacionismo, ya que es, con mucho, el punto de vista más común.
 [^7]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no afectan al número o la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con los contextos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre la [ética de la población](/ética-de-la-poblacion) del capítulo 5.
 [^8]: Derek Parfit argumenta además que los principios antiagregativos recomiendan elecciones implausibles que, cuando se repiten un número suficiente de veces en la población, empeoran la situación de todos.
