@@ -115,8 +115,8 @@ En resumen, el utilitarismo _no_ nos dice que calculemos constantemente las util
 
 Como primera aproximación, un procedimiento de decisión utilitarista plausible podría llevarnos a[^26]
 
-1.  Buscar cualquier "oportunidad al alcance de la mano" para [ayudar eficazmente a los demás](/actuar-conforme-al-utilitarismo) sin causar daño,
-2. Inculcar [virtudes para los utilitaristas del mundo real](https://www.utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians/) (incluido el respeto por las normas morales de sentido común), y
+1.  Buscar cualquier "oportunidad al alcance de la mano" para [ayudar eficazmente a los demás](/actuar-conforme-al-utilitarismo) sin causar daño a terceros,
+2. Inculcar [virtudes para los utilitaristas del mundo real](https://www.utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians/) (incluyendo el respeto por las normas morales de sentido común), y
 3. En un momento de calma, reflexionar sobre cómo podríamos priorizar y dirigir mejor nuestros esfuerzos morales, por ejemplo, buscando análisis de costo-beneficio de expertos y otros tipos de evidencia para fundamentar mejor nuestros juicios generales de valor esperado.[^27]
 
 ## Conclusión
