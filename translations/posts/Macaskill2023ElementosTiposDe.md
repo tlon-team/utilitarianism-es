@@ -7,7 +7,7 @@ title: "Elementos y tipos de utilitarismo" date: 2023-01-29 draft: false menu: "
 
 Como se explica en [Capitulo 1: Introducción al utilitarismo](/introduccion-al-utilitarismo), la idea central del utilitarismo es que debemos querer mejorar el bienestar de todos tanto como sea posible. Las teorías utilitaristas comparten cuatro elementos: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo. El utilitarismo clásico se distingue porque acepta dos elementos adicionales: en primer lugar, el hedonismo como [teoría del bienestar](/theories-of-wellbeing); en segundo lugar, la perspectiva total como [ética de la población](/population-ethics). Existen otras distinciones importantes entre las teorías utilitaristas: podemos distinguir el utilitarismo escalar del utilitarismo maximizador o de suficiencia, el utilitarismo de expectativas del utilitarismo objetivo, el utilitarismo multinivel del utilitarismo de un solo nivel, y el utilitarismo global del utilitarismo híbrido.
 
-## Definición de utilitarismo
+## La definición de utilitarismo
 
 Las teorías utilitaristas comparten cuatro elementos definitorios:
 1. consecuencialismo
