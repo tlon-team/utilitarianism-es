@@ -17,7 +17,7 @@ gradientBottom: "#260380"
 
 Algunos argumentan que el utilitarismo entra en conflicto con el ideal de igualdad. Supongamos, por ejemplo, que se puede elegir entre dos posibles distribuciones de bienestar, _igualdad_ y _desigualdad_: en _igualdad_ hay 1000 personas con un nivel de bienestar de 45, mientras que en _desigualdad_ hay 500 personas con un nivel de bienestar de 80 y otras 500 personas con un nivel de bienestar de 20.
 
-![](../media/Macaskill2023ObjecionDeIgualdad/figura-1.png "Utilitarismo e igualdad - objeciones al utilitarismo")
+![](../media/Macaskill2023ObjecionDeIgualdad/figura-1.png "Utilitarismo e igualdad — objeciones al utilitarismo")
 
 Desde el punto de vista del utilitarismo, sólo la suma total de bienestar determina el valor de un resultado: no importa cómo se distribuya ese bienestar entre las personas. Dado que la suma total del bienestar es mayor en _desigualdad_ que en _igualdad_, el resultado desigual es preferible según el utilitarismo.
 
@@ -41,11 +41,11 @@ Además, un utilitarista podría argumentar que nuestras intuiciones en la elecc
 
 > Estamos acostumbrados a cuantificar cosas, como los objetos en el mundo o las características de esos objetos. ¿Cuántas manzanas? ¿Cuánta agua? ¿Cuánto dinero? Pero no solemos cuantificar la calidad de nuestras experiencias. Por lo tanto, cuando imaginamos posibles distribuciones de [bienestar]... es muy difícil no pensar en distribuciones de cosas, en lugar de distribuciones de calidad de experiencias.[^1]
 
-Esta confusión que describe Greene puede introducir errores en nuestras intuiciones al  tener que elegir entre _igualdad_ y _desigualdad_ porque estamos acostumbrados intuitivamente a pensar en los bienes como si tuvieran utilidad marginal decreciente. Si los números en la hipotética elección entre _igualdad_ y _desigualdad_ representaran niveles de bienes y no de bienestar, el utilitarista elegiría el resultado igualitarista. Sin embargo, sería un error aplicar este razonamiento al comparar distribuciones de bienestar, ya que el bienestar no presenta una utilidad marginal decreciente. Por definición, una unidad de bienestar es igual de valiosa para la persona que la recibe, independientemente de su nivel de bienestar. Así que debemos tener esto en cuenta en nuestras intuiciones.
+Esta confusión que describe Greene puede introducir errores en nuestras intuiciones al tener que elegir entre _igualdad_ y _desigualdad_ porque estamos acostumbrados intuitivamente a pensar en los bienes como si tuvieran utilidad marginal decreciente. Si los números en la hipotética elección entre _igualdad_ y _desigualdad_ representaran niveles de bienes y no de bienestar, el utilitarista elegiría el resultado igualitarista. Sin embargo, sería un error aplicar este razonamiento al comparar distribuciones de bienestar, ya que el bienestar no presenta una utilidad marginal decreciente. Por definición, una unidad de bienestar es igual de valiosa para la persona que la recibe, independientemente de su nivel de bienestar. Así que debemos tener esto en cuenta en nuestras intuiciones.
 
 Si especificamos el ejemplo original en términos de dinero y utilizamos la medida económica estándar de la tasa de rendimientos decrecientes del dinero,[^2] deberíamos representar la elección entre _igualdad_ y _desigualdad_ de la siguiente manera: en _igualdad_, 1000 personas obtienen $13.500, mientras que en _desigualdad_, 500 personas obtienen $10.000 y 500 personas obtienen $50.000.
 
-![](../media/Macaskill2023ObjecionDeIgualdad/figura-2.png "Utilitarismo e igualdad - objeciones al utilitarismo")
+![](../media/Macaskill2023ObjecionDeIgualdad/figura-2.png "Utilitarismo e igualdad — objeciones al utilitarismo")
 
 Pensamos que, expresada en estos términos, ya no es intuitivamente obvio que la opción utilitarista, que favorece _desigualdad_ frente a _igualdad_, sea la equivocada. Todo el mundo estaría de acuerdo en que un cierto nivel de desigualdad puede estar justificado en aras de un mayor bienestar total; la comparación de estos casos es algo complicado, y no es obvio que el utilitarismo ofrezca una respuesta equivocada.
 
@@ -57,7 +57,7 @@ También podemos demostrar que las alternativas a la distribución utilitarista 
 
 Para ver esto, supongamos que se puede elegir entre una de dos opciones de distribución del bienestar, _apuesta segura_ y _apuesta arriesgada_: En _apuesta segura_, tanto Abel como Betina tienen garantizado un nivel 45 de bienestar. En _apuesta arriesgada_, se lanza una moneda al aire. Si sale cara, Abel recibe 80 de bienestar y Betina 20 de bienestar. Si sale cruz, Betina recibe 80 de bienestar y Abel 20 de bienestar.
 
-![](../media/Macaskill2023ObjecionDeIgualdad/figure-3.png "Utilitarismo e igualdad - objeciones al utilitarismo")
+![](../media/Macaskill2023ObjecionDeIgualdad/figure-3.png "Utilitarismo e igualdad — objeciones al utilitarismo")
 
 Podemos estipular que tanto Abel como Betina preferirían racionalmente _apuesta arriesgada_ frente a _apuesta segura_. Esto se debe a que su expectativa de bienestar en la apuesta arriesgada es de 50 ($(80+20) \times 50\percent$), que es mayor que la expectativa de bienestar en la apuesta segura de 45.[^5] Por lo tanto, si seguimos el modelo de Pareto _ex ante_, deberíamos preferir la apuesta arriesgada a la apuesta segura. Sin embargo, la apuesta arriesgada produce un resultado desigual. Los que prefirieron _igualdad_ frente a _desigualdad_ también deben preferir _apuesta segura_ frente _apuesta arriesgada_. Y deben hacerlo aunque ello vaya en contra de los intereses de todas las partes implicadas.
 
