@@ -1,14 +1,15 @@
 ---
-título: "La objeción de la incertidumbre radical"
-fecha: 2023-03-08
-tipo: "página"
-borrador: false
-menú: ["objeciones"]
-peso: 8
-página 8
-descripción: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
+title: "La objeción de la incertidumbre radical"
+date: 2023-03-08
+type: "page"
+draft: false
+menu: ["objeciones"]
+weight: 8
+page: 8
+description: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
 gradientTop: "#260380"
 gradientBottom: "#6F4BC9"
+---
 
 {{< TOC >}}
 
