@@ -42,7 +42,7 @@ Algunas intuiciones favorables a la parcialidad también pueden deberse a la con
 
 ## Atacar las alternativas
 
-Los críticos de la imparcialidad utilitarista podrían preferir una forma [parcialista](/alternativas-casi-utilitaristas#egoismo-y-parcialismo) de consecuencialismo bienestarista, que asigne un peso extra a los intereses de los más cercanos y queridos, en lugar de contar a todos por igual. Pero este punto de vista alternativo puede parecer sumamente arbitario, como podemos apreciar de varias maneras.
+Los críticos de la imparcialidad utilitarista podrían preferir una forma [parcialista](/alternativas-casi-utilitaristas#egoismo-y-parcialismo) de consecuencialismo bienestarista, que asigne un peso extra a los intereses de los más cercanos y queridos, en lugar de contar a todos por igual. Pero este punto de vista alternativo puede parecer sumamente arbitrario, como podemos apreciar de varias maneras.
 
 En primer lugar, consideremos que a menudo se piensa que la moral consiste esencialmente en esforzarse por lograr una perspectiva neutral, justificable imparcialmente o no sesgada que pueda resolver pacíficamente los conflictos entre intereses contrapuestos. Pero el parcialismo no resuelve totalmente nuestros conflictos interpersonales. Ofrece diferentes objetivos a diferentes personas y ninguna orientación sobre cómo reconciliarlos cuando entran en conflicto (más allá del resultado por defecto de “la ley del más fuerte”, que es claramente amoral).
 
@@ -94,5 +94,5 @@ Además, puede haber costos de reputación para los utilitaristas que no dan pri
 [^10]: Suponiendo, para simplificar, que todas las vidas tienen expectativas similares de bienestar futuro.
 
 <!-- Local Variables: -->
-<!-- jinx-local-words: "authors false gradientBottom gradientTop how inescrupulosa next objection page to" -->
+<!-- jinx-local-words: "authors description draft false gradientBottom gradientTop how inescrupulosa menu next objection page title to type weight" -->
 <!-- End: -->
