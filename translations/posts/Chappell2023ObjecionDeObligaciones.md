@@ -58,7 +58,7 @@ Por último, vale la pena señalar que la historia de la parcialidad incluye muc
 
 Hemos visto que el utilitarismo apoya muchas formas de parcialidad en la práctica, incluidas las prácticas sociales de paternidad, amistad y otras relaciones estrechas que son vitales para nosotros como seres humanos. Pero es una teoría fundamentalmente imparcial. Sólo apoya estas prácticas de parcialidad en la medida en que sirven para promover el bienestar _general_ en la práctica.
 
-Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, los utilitaristas pueden responder que sus intuiciones están mal fundadas, y que la perspectiva resultante es sumamente arbitraria (e incluso contraproducente). Si empezamos a pensar en la imparcialidad (fundamental) como el valor moral por defecto, y en la parcialidad como algo que necesita una justificación especial, entonces el utilitarismo parece tener una base mucho más sólida.
+Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, los utilitaristas pueden responder que sus intuiciones están mal fundadas, y que la perspectiva resultante es sumamente inescrupulosa (e incluso contraproducente). Si empezamos a pensar en la imparcialidad (fundamental) como el valor moral por defecto, y en la parcialidad como algo que necesita una justificación especial, entonces el utilitarismo parece tener una base mucho más sólida.
 
 {{< next-page-objection >}}
 
@@ -94,5 +94,5 @@ Además, puede haber costos de reputación para los utilitaristas que no dan pri
 [^10]: Suponiendo, para simplificar, que todas las vidas tienen expectativas similares de bienestar futuro.
 
 <!-- Local Variables: -->
-<!-- jinx-local-words: "authors false gradientBottom gradientTop how next objection page to" -->
+<!-- jinx-local-words: "authors false gradientBottom gradientTop how inescrupulosa next objection page to" -->
 <!-- End: -->
