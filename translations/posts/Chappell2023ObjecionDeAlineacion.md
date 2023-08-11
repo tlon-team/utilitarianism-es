@@ -85,7 +85,3 @@ Sería profundamente alienante para una teoría moral invalidar la abrumadora ma
 [^9]: En términos más generales, la estrategia de subsunción puede extenderse a cualquier bien de bienestar que el utilitarista reconozca como de valor intrínseco. Dependiendo de su [teoría del bienestar](/teorias-del-bienestar), esto podría incluir sólo la felicidad, sólo la satisfacción del deseo, o cualquier número de bienes supuestamente objetivos como la amistad, el conocimiento, etc.
 [^10]: [@Railton1984AlienationConsequentialismDemands, p. 144]. Obsérvese que Railton utiliza el ejemplo del tenista en un contexto diferente (y con un contraste de motivación diferente) a cómo lo empleamos aquí.
 [^11]: [@Pettit1986RestrictiveConsequentialism].
-
-<!-- Local Variables: -->
-<!-- jinx-local-words: "authors description draft false gradientBottom gradientTop how menu next objection page title to type weight" -->
-<!-- End: -->

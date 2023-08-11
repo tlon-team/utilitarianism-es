@@ -93,7 +93,3 @@ Por último, los defensores del utilitarismo pueden simplemente conceder el argu
 [^5]: [@Singer1972FamineAffluenceMorality, p. 231].
 
 [^6]: [@Greene2013MoralTribes, p. 284].
-
-<!-- Local Variables: -->
-<!-- jinx-local-words: "Demandingness Impotence Objection and authors correccion false gradientBottom gradientTop how next objection of page peter singer the to" -->
-<!-- End: -->
