@@ -140,7 +140,7 @@ El hedonismo, las teorías del deseo y las teorías de la lista objetiva del bie
 
 ![](../media/Chappell2023TeoriasDelBienestar/figura-1.png )
 
-Aun así, recurriendo a experimentos mentales estilizados (con máquinas de experiencias, preferencias cambiantes, etc.), podemos desgranar cuidadosamente las implicaciones de las distintas teorías del bienestar y formarnos un juicio ponderado sobre qué teoría nos parece más plausible.
+Aun así, recurriendo a experimentos mentales simplificados (con máquinas de experiencias, preferencias cambiantes, etc.), podemos desgranar cuidadosamente las implicaciones de las distintas teorías del bienestar y formarnos un juicio ponderado sobre qué teoría nos parece más plausible.
 
 E incluso si las teorías _actualmente_ coinciden en la práctica, sus diferencias podrían ser más significativas a medida que avanza la tecnología y, con ella, nuestra capacidad de manipular nuestras propias mentes. Si algún día nos enfrentamos a la posibilidad de diseñar a nuestros descendientes para que experimenten estados de felicidad sublimes en total pasividad, será importante determinar si con ello les estaríamos haciendo un favor o los estaríamos privando de gran parte de lo que constituye una vida verdaderamente próspera.
 
