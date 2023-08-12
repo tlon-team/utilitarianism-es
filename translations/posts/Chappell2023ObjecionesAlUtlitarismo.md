@@ -22,7 +22,7 @@ Aunque nuestra presentación se centra en el utilitarismo, vale la pena señalar
 
 Muchas objeciones se basan en la idea de que el utilitarismo tiene implicaciones contraintuitivas. Podemos ver estas implicaciones considerando ejemplos concretos o _experimentos mentales_. Por ejemplo, en nuestro artículo sobre la [objeción de los derechos](/objeciones-al-utilitarismo/derechos), consideramos el caso del _trasplante_:
 
-> **Trasplante:** Imaginemos un escenario hipotético en el que hay cinco pacientes, cada uno de los cuales morirá pronto a menos que reciba un órgano de trasplante apropiado: un corazón, dos riñones, un hígado y pulmones. Un paciente sano, Chuck, acude al hospital para una revisión de rutina y el médico descubre que Chuck es un donante perfecto para los cinco pacientes. ¿Debe el médico matar a Chuck y utilizar sus órganos para salvar a los otros cinco?
+> **Trasplante:** imaginemos un escenario hipotético en el que hay cinco pacientes, cada uno de los cuales morirá pronto a menos que reciba un órgano de trasplante apropiado: un corazón, dos riñones, un hígado y pulmones. Un paciente sano, Chuck, acude al hospital para una revisión de rutina y el médico descubre que Chuck es un donante perfecto para los cinco pacientes. ¿Debe el médico matar a Chuck y utilizar sus órganos para salvar a los otros cinco?
 
 A primera vista, parece que el utilitarismo tiene que responder afirmativamente a la pregunta. Es mejor que sobrevivan cinco personas a que lo haga una sola. Pero matar a Chuck les parece a muchos moralmente monstruoso. Esta aparente implicación del utilitarismo se toma como un argumento en contra de que sea la teoría moral correcta.
 
