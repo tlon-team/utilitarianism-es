@@ -65,7 +65,7 @@ Esta objeción ha sido desarrollada formalmente por el economista John Harsanyi,
 
 ## Tolerar la intuición
 
-Por último, los defensores del utilitarismo pueden, una vez más, conceder el argumento y aceptar sin más que el utilitarismo a veces entra en conflicto con nuestras intuiciones sobre la igualdad. Estos conflictos se producen porque los resultados favorecidos por el utilitarismo son aquellos con los niveles más altos posibles de bienestar general, que no siempre coinciden con los resultados más igualitarios. Los utilitaristas insistirán en que es preferible que la gente en general esté mejor (aunque estos beneficios no se distribuyan por igual) a que todos compartan por igual un menor nivel de bienestar.
+Por último, los defensores del utilitarismo pueden, una vez más, aceptar que el utilitarismo a veces entra en conflicto con nuestras intuiciones sobre la igualdad. Estos conflictos se producen porque los resultados favorecidos por el utilitarismo son aquellos con los niveles más altos posibles de bienestar general, que no siempre coinciden con los resultados más igualitarios. Los utilitaristas insistirán en que es preferible que la gente en general esté mejor (aunque estos beneficios no se distribuyan por igual) a que todos compartan por igual un menor nivel de bienestar.
 
 {{< next-page-objection >}}
 

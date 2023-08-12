@@ -64,7 +64,7 @@ Además, los defensores del utilitarismo pueden señalar que las perspectivas no
 
 ## Tolerar la intuición
 
-Por último, los defensores del utilitarismo pueden simplemente conceder el argumento y aceptar que la moral es muy exigente. Pueden señalar que las exigencias utilitaristas se basan en el objetivo imperioso de crear un mundo floreciente con el mayor bienestar posible para todos. Siempre que el utilitarismo nos exige renunciar a algo que valoramos para beneficiar a otros, al menos sabemos que este beneficio es mayor, a menudo mucho mayor, que el costo para nosotros.
+Por último, los defensores del utilitarismo pueden simplemente aceptar que la moral es muy exigente. Pueden señalar que las exigencias utilitaristas se basan en el objetivo imperioso de crear un mundo floreciente con el mayor bienestar posible para todos. Siempre que el utilitarismo nos exige renunciar a algo que valoramos para beneficiar a otros, al menos sabemos que este beneficio es mayor, a menudo mucho mayor, que el costo para nosotros.
 
 {{< next-page-objection >}}
 

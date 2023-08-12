@@ -62,7 +62,7 @@ En tercer lugar, podemos imaginarnos erróneamente que nosotros mismos formamos 
 
 #### Tolerar la intuición
 
-Los defensores de la perspectiva total pueden conceder el argumento y simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden señalar que, a pesar de ser contraintuitiva inicialmente, esta conclusión se basa en el objetivo imperioso de crear un mundo con el mayor bienestar total posible. Desde la perspectiva total, las reducciones en el nivel medio de bienestar de una población pueden compensarse con creces añadiendo un número suficiente de vidas dignas de ser vividas. Puesto que las vidas dignas de ser vividas son (como sería lógico suponer) algo inherentemente bueno, parece retóricamente exagerado calificar esta implicación de "repugnante".
+Los defensores de la perspectiva total pueden simplemente aceptar que el mundo Z es mejor que el mundo A. Pueden señalar que, a pesar de ser contraintuitiva inicialmente, esta conclusión se basa en el objetivo imperioso de crear un mundo con el mayor bienestar total posible. Desde la perspectiva total, las reducciones en el nivel medio de bienestar de una población pueden compensarse con creces añadiendo un número suficiente de vidas dignas de ser vividas. Puesto que las vidas dignas de ser vividas son (como sería lógico suponer) algo inherentemente bueno, parece retóricamente exagerado calificar esta implicación de "repugnante".
 
 De hecho, resulta muy difícil evitar la conclusión repugnante. Argumentos sólidos, como la "paradoja de la mera adición" de Parfit,[^17] generan la conclusión repugnante sin partir de la perspectiva total. Consideremos la elección entre los siguientes tres mundos: A, A+ y B.
 
