@@ -1,10 +1,10 @@
 ---
-título: "Alternativas casi utilitaristas"
+título: "Alternativas cercanas al utilitarismo"
 fecha: 2023-01-29
 borrador: false
 menú "principal"
 peso: 7
-descripción: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías casi utilitaristas para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
+descripción: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías cercanas al utilitarismo para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
 
