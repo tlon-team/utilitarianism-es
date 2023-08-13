@@ -178,7 +178,7 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
     [@Graham2020AvoidableHarm].
 
 [^15]:
-    [Jeremy Bentham](/pensador-utilitarista/jeremy-bentham), por el contrario, asignó el mismo valor _intrínseco_ incluso "al placer más abominable que el más vil de los malhechores haya cosechado de su crimen."
+    [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham), por el contrario, asignó el mismo valor _intrínseco_ incluso "al placer más abominable que el más vil de los malhechores haya cosechado de su crimen."
 
     [@Bennett2017Chapter2Principles].
 [^16]: Un punto de vista alternativo que permitiría cierto descuento de los animales no humanos sería sopesar los intereses en proporción al estatus moral del individuo (y además sostener que los animales no humanos tienen un estatus moral inferior). Mientras que [los utilitaristas ya admiten]( /utilitarismo-y-etica-practica#especismo) que algunos animales pueden tener una mayor capacidad para las experiencias conscientes que otros, este punto de vista alternativo afirmaría que incluso dolores iguales importan menos si los experimenta un animal "inferior". Pero incluso con un descuento moderado, es improbable que los graves daños causados por la cría intensiva de animales resulten justificables. Porque seguramente no deberíamos descontar tanto a los animales como para permitirnos torturarlos por diversión.
