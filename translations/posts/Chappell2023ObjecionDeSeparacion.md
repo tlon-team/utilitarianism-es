@@ -122,7 +122,7 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 
 [^1]: [@Rawls1971TheoryJustice, p. 27].
 [^2]:
-[R.M. Hare](/pensador-utilitarista/richard-hare) insiste en el desafío: "Preocuparse por alguien es buscar su bien, o tratar de promover sus intereses; y preocuparse por igual por todas las personas es buscar igualmente su bien, o dar la misma importancia a sus intereses, que es exactamente lo que exige el utilitarismo. Hacer esto es tratar los intereses de los demás de la misma manera que una persona prudente trata sus propios intereses, presentes y futuros… Hacer esto no es dejar de 'insistir en la separación de las personas'". Véase:
+R.M. Hare insiste en el desafío: "Preocuparse por alguien es buscar su bien, o tratar de promover sus intereses; y preocuparse por igual por todas las personas es buscar igualmente su bien, o dar la misma importancia a sus intereses, que es exactamente lo que exige el utilitarismo. Hacer esto es tratar los intereses de los demás de la misma manera que una persona prudente trata sus propios intereses, presentes y futuros… Hacer esto no es dejar de 'insistir en la separación de las personas'". Véase:
     [@Hare1984RightsUtilityAnd, p. 107].
 
 [^3]: [@Brink2020ConsequentialismSeparatenessOf].

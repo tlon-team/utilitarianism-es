@@ -243,7 +243,7 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 [^18]: Probablemente también desean su propia felicidad, por supuesto, que cuadra mejor con el escenario (ii). Pero el hecho de que, no obstante, prefieran la perspectiva (i) a la (ii) sugiere que (i) es el resultado que mejor satisface sus deseos _en general_.
 [^19]: Por otro lado, la objeción de los “placeres malvados” que afectaba al hedonismo parecería aplicarse con igual fuerza a las teorías del deseo, ya que estas teorías también implican que el placer sádico puede beneficiar a quien lo experimenta (si es algo que la persona desea).
 [^20]: Esta es la sugerencia de Parfit en <cite>[@Parfit1984ReasonsPersons]</cite>. Para una restricción alternativa basada en la _atracción genuina_, véase [@Heathwood2019WhichDesiresAre].
-[^21]: Según argumenta [John Stuart Mill](/pensador-utilitarista/john-stuart-mill) en su libro de 1859, <cite>[@Mill1859Liberty]</cite>.
+[^21]: Según argumenta [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en su libro de 1859, <cite>[@Mill1859Liberty]</cite>.
 [^22]:
     [@Rawls1971TheoryJustice, p. 432].
 

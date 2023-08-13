@@ -95,7 +95,7 @@ Es decir, [puntos de vista menos exigentes](/objeciones-al-utilitarismo/exigenci
 [^4]:
 Aunque, de nuevo, es interesante considerar cómo se enfrentan a esta objeción las distintas teorías. Muchas son tan vagas que dejan mucho espacio para interpretaciones al servicio del interés propio, por lo que también parecerían fácilmente explotables por actores malintencionados.
 
-[^4a]: Como escribe [John Stuart Mill](/pensador-utilitarista/john-stuart-mill/) en el [capítulo 2 de <cite>[@Mill2014Utilitarismo]</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
+[^4a]: Como escribe [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) en el [capítulo 2 de <cite>[@Mill2014Utilitarismo]</cite>, "No hay dificultad en demostrar que cualquier norma ética funciona mal, si suponemos que la idiotez universal va unida a ella."
 
 [^5]:
      O tal vez como una “[mentira para los niños](https://es.wikipedia.org/wiki/Mentira_para_los_ni%C3%B1os)” simplificada.
