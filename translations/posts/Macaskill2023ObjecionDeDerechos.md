@@ -15,7 +15,7 @@ gradientBottom: "#371E87"
 
 ## Introducción
 
-Según la moral de sentido común y muchas teorías no utilitaristas, hay ciertas _restricciones morales_ que nunca se deben transgredir. Estas restricciones se expresan en reglas morales como "¡no mientas!" y "¡no mates!", que son intuitivamente muy plausibles. Esto supone un problema para el utilitarismo. La razón es que el utilitarismo no sólo especifica cuáles son los mejores resultados —aquellos que tienen en general el mayor nivel de bienestar—, sino que también nos ordena producir estos resultados.
+Según la moral de sentido común y muchas teorías no utilitaristas, hay ciertas _restricciones morales_ que nunca se deben transgredir. Estas restricciones se expresan en reglas morales como "¡no mientas!" y "¡no mates!", que son intuitivamente muy plausibles. Esto supone un problema para el utilitarismo. La razón es que el utilitarismo no sólo especifica cuáles son los mejores resultados —aquellos que tienen el mayor nivel de bienestar total—, sino que también nos ordena producir estos resultados.
 
 A veces, producir el mejor resultado exige vulnerar restricciones morales que prohíben dañar a otros, es decir, vulnerar sus derechos. No hay garantía de que las normas morales de sentido común coincidan siempre con las mejores formas de actuar según el utilitarismo; a veces entran en conflicto. Un ejemplo de tal conflicto es el experimento mental del _trasplante_:[^1]
 
