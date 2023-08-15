@@ -167,7 +167,7 @@ Los utilitaristas creen que su teoría moral es el verdadero criterio de lo corr
 
 El punto de vista que trata el utilitarismo como un criterio de corrección tanto como un procedimiento de decisión se conoce como _utilitarismo de un solo nivel_. Su alternativa es el _utilitarismo multinivel_, que sólo considera el utilitarismo como un criterio de corrección, no como un procedimiento de decisión. Se define como sigue:
 
-> **El utilitarismo multinivel es la perspectiva según la cual las personas deberían seguir reglas empíricas probadas, o _heurísticas_, en lugar de intentar calcular qué acción producirá el máximo bienestar.**
+> **El utilitarismo multinivel es la perspectiva según la cual las personas deberían seguir reglas generales avaladas por la experiencia, o _heurísticas_, en lugar de intentar calcular qué acción producirá el máximo bienestar.**
 
 Según el utilitarismo multinivel, en la mayoría de las circunstancias deberíamos seguir una serie de heurísticas morales sencillas: no mentir, no robar, no matar, etc., con la expectativa de que ello conduzca a los mejores resultados generales. A menudo, deberíamos utilizar las normas de la moral de sentido común y las leyes de nuestra sociedad como reglas empíricas para guiar nuestras acciones. Seguir estas normas y leyes suele conducir a buenos resultados, porque se basan en la experiencia de la sociedad sobre lo que promueve el bienestar general. El hecho de que la honradez, la integridad, el cumplimiento de las promesas y el apego a la ley tengan generalmente buenas consecuencias explica por qué en la práctica [los utilitaristas valoran mucho esas cosas](/utilitarismo-y-etica-practica/#respeto-a-las-normas-morales-del-sentido-común), y las utilizan para guiar sus acciones cotidianas.[^22]
 
