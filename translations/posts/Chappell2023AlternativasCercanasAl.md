@@ -1,12 +1,13 @@
 ---
-título: "Alternativas cercanas al utilitarismo"
-fecha: 2023-01-29
-borrador: false
-menú "principal"
-peso: 7
-descripción: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías cercanas al utilitarismo para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
+title: "Alternativas cercanas al utilitarismo"
+date: 2023-01-29
+draft: false
+menu: "main"
+weight: 7
+description: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías cercanas al utilitarismo para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
+---
 
 {{< TOC >}}
 
@@ -20,13 +21,13 @@ Este capítulo examina una serie de perspectivas consecuencialistas afines, con 
 
 ## Más allá del bienestarismo
 
-La mayoría estaría de acuerdo en que el bienestar es un valor importante. El sufrimiento es malo, mientras que la felicidad y la prosperidad humano son buenas. Pero ¿es el bienestar, como afirma el utilitarismo, el [_único_ valor intrínseco](/tipos-de-utilitarismo#bienestarismo)? Esto parece más cuestionable. Hay margen para que personas razonables juzguen que hay otras cosas que importan además del bienestar. Esta sección explora tres posibles ejemplos de otros posibles bienes: el valor ambiental, el valor estético y la justicia distributiva.
+La mayoría estaría de acuerdo en que el bienestar es un valor importante. El sufrimiento es malo, mientras que la felicidad y la prosperidad humanas son buenas. Pero ¿es el bienestar, como afirma el utilitarismo, el [_único_ valor intrínseco](/tipos-de-utilitarismo#bienestarismo)? Esto parece más cuestionable. Hay margen para que personas razonables juzguen que hay otras cosas que importan además del bienestar. Esta sección explora tres posibles ejemplos de otros posibles bienes: el valor ambiental, el valor estético y la justicia distributiva.
 
 ### Valor ambiental
 
 Existe un debate activo en la ética ambiental sobre si la naturaleza no sintiente —por ejemplo, las plantas, las especies y los ecosistemas enteros— tiene valor intrínseco o meramente instrumental. Esto es difícil de resolver, ya que nuestras intuiciones nos empujan en diferentes direcciones.
 
-Por un lado, muchos consideran que los principios bienestaristas son intuitivos en sí mismos. Por ejemplo la tesis de que el valor de un resultado depende enteramente del bienestar de los individuos que existen en él. O que nada puede ser bueno o malo si no hay nadie que lo experimente o se preocupe por ello.
+Por un lado, muchos consideran que los principios bienestaristas son intuitivos en sí mismos. Por ejemplo, la tesis de que el valor de un resultado depende enteramente del bienestar de los individuos que existen en él. O que nada puede ser bueno o malo si no hay nadie que lo experimente o se preocupe por ello.
 
 Por otro lado, podemos sentirnos atraídos por ciertos juicios que parecen atribuir valor intrínseco a la naturaleza. Por ejemplo, imaginemos que alguna catástrofe acabara con todos los seres sintientes (incluidos todos los animales) con la excepción de una sola persona. Cuando esta última persona está en su lecho de muerte, contempla un paisaje glorioso y se enfrenta a la disyuntiva de activar o no un dispositivo del día del juicio final que haría explotar el planeta, destruyendo toda la vida vegetal (no sintiente) que queda.[^1] Incluso si estipulamos que, de algún modo, no hay ninguna posibilidad de que la vida sintiente vuelva a evolucionar en la Tierra, podríamos juzgar incorrecto acabar con la vida vegetal (no sintiente) que queda sin una buena razón. Pero ya no tiene (por estipulación) ningún valor instrumental para los seres sintientes, así que cualquier valor que posea debe ser intrínseco.
 
@@ -64,7 +65,7 @@ Se puede aceptar el bienestarismo y, sin embargo, rechazar el utilitarismo por c
 
 ### Prioritarismo
 
-Según el prioritarismo, "beneficiar a una persona es tanto más importante cuanto peor es su situación."[^7] Al igual que el igualitarismo, el prioritarismo implica que es mejor proporcionar un beneficio determinado equivalente —por ejemplo, un aumento extra de felicidad— a los más desfavorecidos que a los más acomodados. Pero mientras que el igualitarismo implica que hay _algo_ bueno en "igualar hacia abajo", o en reducir la desigualdad sólo perjudicando a los que están en una mejor situación, el prioritarismo (al igual que el utilitarismo) evita afirmar que haya algo bueno en perjudicar a algunos en ausencia de beneficios compensatorios para los demás.
+Según el prioritarismo, "beneficiar a una persona es tanto más importante cuanto peor es su situación."[^7] Al igual que el igualitarismo, el prioritarismo implica que es mejor proporcionar un beneficio determinado —por ejemplo, un aumento extra de felicidad— a los más desfavorecidos que a los más acomodados. Pero mientras que el igualitarismo implica que hay _algo_ bueno en "igualar hacia abajo", o en reducir la desigualdad sólo perjudicando a los que están en una mejor situación, el prioritarismo (al igual que el utilitarismo) evita afirmar que haya algo bueno en perjudicar a algunos en ausencia de beneficios compensatorios para los demás.
 
 Se trata de una diferencia teórica sutil pero importante. Los igualitaristas valoran la _igualdad per se_, que podría promoverse _reduciendo_ el bienestar. Los prioritaristas defienden el bienestarismo: valoran sólo el bienestar, pero se apartan del utilitarismo al dar más peso a los intereses de los más desfavorecidos.
 
@@ -118,7 +119,7 @@ Pero se trata de un abanico de opiniones bastante reducido. Por el contrario, es
 
 El siguiente capítulo analiza varias de las objeciones más importantes al utilitarismo y las respuestas a estas objeciones.
 
-{{< next-page-textbook title="Objeciones al utilitarismo y respuestas" url="/objeciones-al-utilitarismo" >}}
+{{< next-page-textbook title="Objeciones al utilitarismo y respuestas" mp="/objeciones-al-utilitarismo" >}}
 
 {{< how-to-cite authors="Chappell, R.Y. and Meissner, D." >}}
 
