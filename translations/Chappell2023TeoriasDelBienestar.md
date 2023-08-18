@@ -1,5 +1,13 @@
 ---
-título: "Teorías del bienestar" date: 2023-01-29 draft: false menu: "main" weight: 4 description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva." gradientTop: "#084BC7" gradientBottom: "#1B7CCC" -
+título: "Teorías del bienestar"
+date: 2023-01-29
+draft: false
+menu: "main"
+weight: 4
+description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
+gradientTop: "#084BC7"
+gradientBottom: "#1B7CCC"
+---
 
 > _"¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?"_ <br> \- [Jeremy Bentham](/utilitarismo/jeremy-bentham)[^1]
 

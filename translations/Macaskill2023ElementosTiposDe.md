@@ -1,5 +1,13 @@
 ---
-title: "Elementos y tipos de utilitarismo" date: 2023-01-29 draft: false menu: "main" weight: 2 description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas." gradientTop: "#236d9f" gradientBottom: "#012147" —
+title: "Elementos y tipos de utilitarismo"
+date: 2023-01-29
+draft: false
+menu: "main"
+weight: 2
+description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
+gradientTop: "#236d9f"
+gradientBottom: "#012147"
+---
 
 {{< TOC >}}
 

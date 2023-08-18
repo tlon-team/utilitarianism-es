@@ -1,4 +1,4 @@
---
+---
 title: "La objeción de la separación de las personas"
 date: 2023-01-29
 type: "página"
@@ -10,6 +10,7 @@ description: "La idea de que el utilitarismo ignora la 'separación de las perso
 gradientTop: "#571B9E"
 gradientBottom: "#430A4A"
 ---
+
 
 {{< TOC >}}
 

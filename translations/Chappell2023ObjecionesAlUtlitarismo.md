@@ -8,6 +8,7 @@ página 0
 descripción: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
+---
 
 > _"Bernard Williams... concluyó un largo ataque al utilitarismo con la siguiente observación: 'No puede estar muy lejos el día en que no oigamos hablar más de esta teoría.' Han pasado más de cuarenta años desde que Williams hizo ese comentario, pero seguimos oyendo hablar mucho del utilitarismo."_
 > Katarzyna de Lazari-Radek & [Peter Singer](https://altruismoeficaz.net/autores/peter-singer)[^1]
