@@ -1,12 +1,12 @@
 ---
-title: "La objeción de los meros medios"
-date: 2023-01-29
-type: "página"
-draft: false
+titulo: "La objeción de los meros medios"
+fecha: 2023-01-29
+tipo: "página"
+borrador: false
 menu: ["objeciones"]
-weight: 2
-page: 2
-description: "Los críticos a menudo alegan que el utilitarismo instrumentaliza a la gente de forma objetable: nos trata como meros medios para un bien mayor, en lugar de valorar adecuadamente a las personas como fines en sí mismas. En este artículo, evaluamos si se trata de una objeción razonable."
+peso: 2
+pagina: 2
+descripcion: "Los críticos a menudo alegan que el utilitarismo instrumentaliza a la gente de forma objetable: nos trata como meros medios para un bien mayor, en lugar de valorar adecuadamente a las personas como fines en sí mismas. En este artículo, evaluamos si se trata de una objeción razonable."
 gradientTop: "#371E87"
 gradientBottom: "#571B9E"
 ---

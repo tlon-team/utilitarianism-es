@@ -1,10 +1,10 @@
 ---
-title: "Introducción al utilitarismo"
-date: 2023-01-29
-draft: false
+titulo: "Introducción al utilitarismo"
+fecha: 2023-01-29
+borrador: false
 menu: "main"
-weight: 1
-description: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
+peso: 1
+descripcion: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---

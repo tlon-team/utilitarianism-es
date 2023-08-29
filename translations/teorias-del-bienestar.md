@@ -1,10 +1,10 @@
 ---
-título: "Teorías del bienestar"
-date: 2023-01-29
-draft: false
+titulo: "Teorías del bienestar"
+fecha: 2023-01-29
+borrador: false
 menu: "main"
-weight: 4
-description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
+peso: 4
+descripcion: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---

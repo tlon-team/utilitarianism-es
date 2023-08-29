@@ -1,12 +1,12 @@
 ---
-título: "La objeción de la abusabilidad"
+titulo: "La objeción de la abusabilidad"
 fecha: 2023-03-08
 tipo: "página"
 borrador: false
-menú: ["objeciones"]
+menu: ["objeciones"]
 peso: 9
-página 9
-descripción: "Algunas personas argumentan que el utilitarismo recomienda su propia desaparición, es decir, desaconseja que se lo acepte, debido al riesgo de que las apelaciones erróneas al 'bien mayor' en la practica conduzcan a que se realicen acciones terriblemente nocivas. Este artículo explora la mejor manera de protegerse contra tales riesgos, y cuestiona si es una objeción a una teoría la posibilidad de que cause su propia desaparición."
+página: 9
+descripcion: "Algunas personas argumentan que el utilitarismo recomienda su propia desaparición, es decir, desaconseja que se lo acepte, debido al riesgo de que las apelaciones erróneas al 'bien mayor' en la practica conduzcan a que se realicen acciones terriblemente nocivas. Este artículo explora la mejor manera de protegerse contra tales riesgos, y cuestiona si es una objeción a una teoría la posibilidad de que cause su propia desaparición."
 gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"
 ---

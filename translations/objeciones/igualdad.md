@@ -1,12 +1,12 @@
 ---
-título: "La objeción de la igualdad"
+titulo: "La objeción de la igualdad"
 fecha: 2023-01-29
 tipo: "página"
 borrador: false
-menú: ["objeciones"]
+menu: ["objeciones"]
 peso: 7
-página 7
-descripción: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
+página: 7
+descripcion: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
 gradientTop: "#531694"
 gradientBottom: "#260380"
 ---

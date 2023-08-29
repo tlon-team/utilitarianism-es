@@ -1,12 +1,12 @@
 ---
-título: "La objeción de la exigencia"
+titulo: "La objeción de la exigencia"
 fecha: 2023-01-29
-tipo: "página"
+borrador: "página"
 borrador: false
-menú: ["objeciones"]
+menu: ["objeciones"]
 peso: 4
-página 4
-descripción: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
+pagina: 4
+descripcion: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
 gradientTop: "#430A4A"
 gradientBottom: "#5F3091"
 ---

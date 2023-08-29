@@ -1,11 +1,11 @@
 ---
-título: "Objeciones al utilitarismo y respuestas"
+titulo: "Objeciones al utilitarismo y respuestas"
 fecha: 2023-01-29
-borrador: false
-menú: ["objeciones", "principal"]
+tipo: false
+menu: ["objeciones", "principal"]
 peso: 100
-página 0
-descripción: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
+pagina: 0
+descripcion: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---
