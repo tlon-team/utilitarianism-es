@@ -37,7 +37,7 @@ En cambio, el utilitarismo _trata_ las [cosas no sintientes](/alternativas-casi-
 
 Supongamos que te enfrentas a una emergencia médica, pero sólo tienes medicamentos suficientes para salvar a un adulto o a dos niños. Dos niños y una farmacéutica adulta están al borde de la muerte, y otros tres niños están gravemente enfermos y morirían antes de que nadie pudiera acudir en su ayuda. Si salvas a la farmacéutica, podrá fabricar más medicamentos a tiempo para salvar a los otros tres niños gravemente enfermos (aunque no a tiempo para salvar a los dos que ya están a punto de morir). Si salvas a los dos niños, todos los demás morirán. ¿Qué debes hacer?
 
-![](../media/Chappell2023ObjecionDeMeros/figura-1.png "Favoritismo instrumental")
+![Favoritismo instrumental](../media/Chappell2023ObjecionDeMeros/figura-1.png)
 
 Desde un punto de vista utilitarista, la respuesta es sencilla: hay que salvar a la farmacéutica, y así salvar a _cuatro_ individuos (incluidos tres niños), en lugar de salvar sólo a dos niños. No importa si se salva a una persona _directamente_ (dándole la medicina tú mismo) o _indirectamente_ (permitiendo que la farmacéutica le dé la medicina); lo único que importa es que se salva.
 
