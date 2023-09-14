@@ -79,7 +79,11 @@ Los defensores de la perspectiva total pueden simplemente aceptar que el mundo Z
 
 De hecho, resulta muy difícil evitar la conclusión repugnante. Argumentos sólidos, como la "paradoja de la mera adición" de Parfit,[^17] generan la conclusión repugnante sin partir de la perspectiva total. Consideremos la elección entre los siguientes tres mundos: A, A+ y B.
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-3.png "Paradoja de la mera adición")
+=======
+![Paradoja de la mera adición](../media/Macaskill2023EticaDePoblacion/figura-3.png)
+>>>>>>> origin/main
 
 En el mundo A, el bienestar de todos es muy alto. El mundo A+ contiene (i) un grupo de población idéntico al de la población A en cuanto al tamaño de la población y al bienestar promedio y (ii) un segundo grupo del mismo tamaño pero con un bienestar ligeramente inferior. La mayoría de la gente estaría de acuerdo en que A+ no es peor que A (e incluso podría ser mejor), ya que, intuitivamente, añadir meramente personas con vidas dignas de ser vividas (sin perjudicar con ello a ningún otro) no puede empeorar un resultado. Consideremos ahora el mundo B, con la misma población total que A+. El bienestar medio en B es ligeramente superior al de A+, pero inferior al de A. Si comparamos los mundos A+ y B, parece que B debe ser mejor. No sólo el bienestar medio _y_ total en B son mayores que en A+, sino que además el bienestar está distribuido de forma más equitativa. Sin embargo, si B es mejor que A+, y A+ no es peor que A, se deduce que B debe ser mejor que A.[^18] La repetición de este proceso —comparando el mundo B con B+ y C, etc.— conduce al mundo Z con un enorme número de personas con vidas apenas dignas de ser vividas. Siguiendo el razonamiento anterior, el mundo Z debe ser mejor que el mundo A: la conclusión repugnante.
 
@@ -113,7 +117,11 @@ En segundo lugar, la perspectiva promedio implica la _conclusión sádica_:[^27]
 
 Añadir un pequeño número de personas torturadas y miserables a una población disminuye el bienestar promedio menos que añadir un número suficientemente grande de personas cuyas vidas son bastante buenas, pero inferiores a la media existente. Para comprobarlo, consideremos el siguiente gráfico, en el que el mundo A tiene un bienestar promedio inferior al del mundo B. Contrariamente a la intuición, la perspectiva promedio implica que deberíamos preferir el mundo B al mundo A.
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-4.png "Perspectiva promedio y conclusión sádica")
+=======
+![Perspectiva promedio y conclusión sádica](../media/Macaskill2023EticaDePoblacion/figura-4.png)
+>>>>>>> origin/main
 
 En tercer lugar, la perspectiva promedio prefiere poblaciones arbitrariamente pequeñas a poblaciones muy grandes, siempre que el bienestar medio sea mayor. Por ejemplo, un mundo con un único individuo extremadamente feliz sería preferible a un mundo con diez mil millones de personas, todas ellas extremadamente felices pero ligeramente menos felices que esa única persona.
 
@@ -151,7 +159,11 @@ Las teorías del nivel crítico evitan la conclusión repugnante si su nivel cr�
 
 Sin embargo, un nivel crítico positivo implica una versión particularmente espantosa de la conclusión sádica, que empeora cuanto más alto es el nivel crítico elegido,[^35] porque implica que es preferible que en un mundo haya personas con un bienestar negativo —vidas que no son dignas de ser vividas, como vidas que sufren torturas constantes— a que haya muchas más personas con vidas dignas de ser vividas pero por debajo del nivel crítico. Ilustradas gráficamente, las teorías del nivel crítico implican, contrariamente a la intuición, que el mundo A (con una población suficientemente grande) es _peor_ que el mundo B.
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-5.png "Teoría del nivel crítico")
+=======
+![Teoría del nivel crítico](../media/Macaskill2023EticaDePoblacion/figura-5.png)
+>>>>>>> origin/main
 
 Para evitar este resultado inaceptable, podemos pasar a una teoría del _rango crítico_,[^36] según la cual:
 
@@ -165,7 +177,11 @@ Para profundizar en este punto de vista, podemos pensar que el valor de una vida
 
 La implicación clave de esta teoría del rango crítico (con una borrosidad del valor moderada) es que una vida intrínsecamente buena debe contener _significativamente_ más bienestar que una vida intrínsecamente mala, porque entre estos dos niveles hay un rango moderado de vidas que son mediocres, como se ilustra a continuación:[^41]
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-6.png "Teoría del rango crítico")
+=======
+![Teoría del rango crítico](../media/Macaskill2023EticaDePoblacion/figura-6.png)
+>>>>>>> origin/main
 
 El punto de vista resultante, aunque teóricamente complejo, parece menos susceptible de objeciones severas que los otros puntos de vista que hemos estudiado. En particular, puede evitar simultáneamente tanto la conclusión repugnante como la conclusión sádica. Pero vale la pena señalar que no puede dar cabida a la fuerte intuición "antirrepugnancia" de que el mundo idílico A es estrictamente _mejor_ que el mundo repugnante Z.[^42] En su lugar, las teorías críticas del rango consideran que los dos mundos son incomparables, debido a la inmensa borrosidad del valor introducida por todas esas vidas mediocres en el mundo Z.
 
@@ -206,7 +222,11 @@ Aunque muchos consideran que se trata de un principio intuitivo,[^51] es notoria
 
 La asimetría procreativa más simple sostiene que las vidas positivas _no suman ni restan valor_ al resultado. Pero esto implica falsamente que crear vidas con un bienestar positivo bajo es tan bueno como crear un número igual de vidas con un nivel de bienestar alto. Por ejemplo, consideremos la posibilidad de elegir entre dos mundos habitados por diferentes grupos de personas futuras. En el mundo A~1~, todos tienen una vida maravillosa. En el mundo A~2~, todas las personas tienen una vida mucho peor que en A~1~, aunque positiva.
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-7.png "Perspectivas centradas en las personas afectadas y la asimetría")
+=======
+![Perspectivas centradas en las personas afectadas y la asimetría](../media/Macaskill2023EticaDePoblacion/figura-7.png)
+>>>>>>> origin/main
 
 Es claro que deberíamos preferir el mundo A~1~ al A~2~. Sin embargo, la versión más simple de la asimetría procreativa implica que ambos mundos son igual de buenos: porque no son ni buenos ni malos.
 
@@ -214,7 +234,11 @@ En los casos de comparación con mundos vacíos, la asimetría procreativa simpl
 
 > **En el mundo A, todas las personas, salvo unas pocas, tienen una vida excelente. Pero algunas personas padecen una enfermedad extremadamente rara que hace que la vida no sea digna de ser vivida. En el mundo B, no existe ninguna persona.**
 
+<<<<<<< HEAD
 ![](./imagenes/etica-de-la-poblacion/figura-8.png "Perspectivas centradas en las personas afectadas y la asimetría")
+=======
+![Perspectivas centradas en las personas afectadas y la asimetría](../media/Macaskill2023EticaDePoblacion/figura-8.png)
+>>>>>>> origin/main
 
 La mayoría de la gente preferiría el mundo A a un mundo vacío B. Pero la simple asimetría procreativa parecería, perversamente, favorecer el mundo vacío B, ya que las muchas vidas buenas del mundo A no cuentan para nada, mientras que las pocas vidas malas determinan la decisión. Desde este punto de vista, no hay intercambios aceptables entre vidas buenas y malas. Lo mejor, al parecer, sería que no hubiera ninguna vida.
 
