@@ -7,6 +7,8 @@ peso: 5
 descripcion: "La ética de la población aborda cuestiones como el peso de las nuevas vidas en relación con el de las ya existentes, y el modo de equilibrar la cantidad y la calidad de vida (cuando se comparan poblaciones de distinto tamaño). En este capítulo se analizan cinco grandes enfoques de la ética de la población: la perspectiva total, la perspectiva promedio, las teorías del valor variable, las teorías del nivel crítico (y del rango crítico) y las perspectivas centradas en las personas afectadas."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
+key_traduccion: Macaskill2023EticaDePoblacion
+key_original: MacAskill2022PopulationEthicsTotal
 ---
 
 ## Introducción
@@ -37,13 +39,13 @@ Consideremos un mundo hipotético A de 100 habitantes (N~A~) con un nivel de bie
 
 Cuando se hacen estas comparaciones entre mundos hipotéticos en ética de la población, estos mundos suelen ilustrarse gráficamente. El ancho de los gráficos que siguen representa el número de personas y el alto, su nivel medio de bienestar. Por consiguiente, el área de los gráficos —ancho por alto— representa el bienestar total en los mundos hipotéticos. Ilustrados gráficamente, los mundos A y B son igualmente valiosos, según la perspectiva total, ya que sus gráficos tienen la misma área.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-1.png "Perspectiva total")
+![](./imagenes/etica-de-la-poblacion/figura-1.png "Perspectiva total")
 
 La perspectiva total implica que podemos mejorar el mundo de dos maneras: mejorando la calidad de vida de las personas que ya existen o aumentando el número de personas que viven una vida positiva.[^5] La perspectiva total no distingue si el bienestar adicional lo obtendrían personas que ya existen o personas totalmente nuevas. Por ejemplo, la perspectiva total considera que tener un hijo que vive una vida feliz y plena es algo que hace que el mundo sea mejor, en igualdad de condiciones, ya que aumenta el bienestar total.[^6] Es importante destacar que la afirmación no es que tener un hijo haga que el mundo sea mejor al enriquecer la vida de los demás, sino que tener un hijo es bueno en sí mismo. Cuán bueno es hacer que una nueva persona exista depende de cuánto mejor o peor es la vida de esa persona en comparación con una "vida neutra". Según esta perspectiva, las personas felices son buenas y tener más de algo que sea bueno, siempre que las circunstancias no cambien, hace que el resultado sea mejor.
 
 En la práctica, a menudo hay que elegir entre hacer más felices a las personas existentes o crear más personas felices. En un planeta con recursos limitados, añadir más gente a una población ya de por sí numerosa puede, en algún momento, disminuir la calidad de vida de los demás lo suficiente como para que el bienestar total disminuya. Es una cuestión empírica abierta si la población de nuestro mundo ha alcanzado el tamaño en el que añadir una persona aumenta o disminuye el bienestar general.[^7]
 
-La principal implicación práctica de la perspectiva total es que da una gran importancia a garantizar la prosperidad de la civilización a largo plazo. Esto implica tomarse muy en serio la [reducción del riesgo existencial](/actuar-conforme-al-utilitarismo#reduccion-riesgo-existencial) como una prioridad moral.[^8] Los riesgos existenciales —como una guerra nuclear total, un cambio climático extremo o una pandemia artificial— amenazan la supervivencia de la humanidad. Si la humanidad sobrevive, la civilización podría prosperar durante miles de millones de años, y un enorme número de personas futuras podrían llegar a disfrutar de vidas sumamente valiosas. El bienestar total de todas las generaciones futuras puede ser astronómico, y una catástrofe existencial privaría irreversiblemente a la humanidad de este futuro potencialmente grandioso. Desde la perspectiva total y desde muchas otras perspectivas morales, lo que está en juego con los riesgos existenciales es tan enorme que la mitigación de estos riesgos se convierte en una de las principales cuestiones morales que afronta la humanidad.
+La principal implicación práctica de la perspectiva total es que da una gran importancia a garantizar la prosperidad de la civilización a largo plazo. Esto implica tomarse muy en serio la [reducción del riesgo existencial](./actuar-conforme-al-utilitarismo.md#reduccion-riesgo-existencial) como una prioridad moral.[^8] Los riesgos existenciales —como una guerra nuclear total, un cambio climático extremo o una pandemia artificial— amenazan la supervivencia de la humanidad. Si la humanidad sobrevive, la civilización podría prosperar durante miles de millones de años, y un enorme número de personas futuras podrían llegar a disfrutar de vidas sumamente valiosas. El bienestar total de todas las generaciones futuras puede ser astronómico, y una catástrofe existencial privaría irreversiblemente a la humanidad de este futuro potencialmente grandioso. Desde la perspectiva total y desde muchas otras perspectivas morales, lo que está en juego con los riesgos existenciales es tan enorme que la mitigación de estos riesgos se convierte en una de las principales cuestiones morales que afronta la humanidad.
 
 ### Objeciones a la perspectiva total: La conclusión repugnante
 
@@ -51,7 +53,7 @@ La objeción más prominente a la perspectiva total es la _conclusión repugnant
 
 > **Para cualquier mundo A, hay un mundo mejor Z en el que nadie tiene una vida que sea más que apenas digna de ser vivida.**
 
-![](../media/Macaskill2023EticaDePoblacion/figura-2.png "La conclusión repugnante")
+![](./imagenes/etica-de-la-poblacion/figura-2.png "La conclusión repugnante")
 
 Todas las vidas del mundo Z son positivas, pero son solo apenas dignas de ser vividas. Si la población de Z es lo suficientemente grande, el bienestar total de Z —representado por el área del gráfico— es mayor que el de A. Por consiguiente, la perspectiva total implica que el mundo Z es mejor que el mundo A: la conclusión repugnante.
 
@@ -77,11 +79,11 @@ Los defensores de la perspectiva total pueden simplemente aceptar que el mundo Z
 
 De hecho, resulta muy difícil evitar la conclusión repugnante. Argumentos sólidos, como la "paradoja de la mera adición" de Parfit,[^17] generan la conclusión repugnante sin partir de la perspectiva total. Consideremos la elección entre los siguientes tres mundos: A, A+ y B.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-3.png "Paradoja de la mera adición")
+![](./imagenes/etica-de-la-poblacion/figura-3.png "Paradoja de la mera adición")
 
 En el mundo A, el bienestar de todos es muy alto. El mundo A+ contiene (i) un grupo de población idéntico al de la población A en cuanto al tamaño de la población y al bienestar promedio y (ii) un segundo grupo del mismo tamaño pero con un bienestar ligeramente inferior. La mayoría de la gente estaría de acuerdo en que A+ no es peor que A (e incluso podría ser mejor), ya que, intuitivamente, añadir meramente personas con vidas dignas de ser vividas (sin perjudicar con ello a ningún otro) no puede empeorar un resultado. Consideremos ahora el mundo B, con la misma población total que A+. El bienestar medio en B es ligeramente superior al de A+, pero inferior al de A. Si comparamos los mundos A+ y B, parece que B debe ser mejor. No sólo el bienestar medio _y_ total en B son mayores que en A+, sino que además el bienestar está distribuido de forma más equitativa. Sin embargo, si B es mejor que A+, y A+ no es peor que A, se deduce que B debe ser mejor que A.[^18] La repetición de este proceso —comparando el mundo B con B+ y C, etc.— conduce al mundo Z con un enorme número de personas con vidas apenas dignas de ser vividas. Siguiendo el razonamiento anterior, el mundo Z debe ser mejor que el mundo A: la conclusión repugnante.
 
-Los artículos recientes de Dean Spears y Mark Budolfson defienden de forma diferente que una versión ampliada de la conclusión repugnante es ineludible:[^19] los autores sostienen que _todas_ las teorías plausibles implican que a veces es mejor añadir un gran número de vidas ligeramente positivas a una población existente que añadir un número menor de vidas extremadamente positivas.[^20] A partir de este resultado, concluyen que "la conclusión repugnante no proporciona ninguna orientación metodológica para la teoría o la formulación de políticas, porque no discrimina entre las diferentes teorías."[^21] Los críticos podrían responder que estos nuevos veredictos —que consisten en añadir personas a poblaciones existentes— no son tan intuitivamente problemáticos como la conclusión repugnante original.
+Los artículos recientes de Dean Spears y Mark Budolfson defienden de forma diferente que una versión ampliada de la conclusión repugnante es ineludible:[^19] los autores sostienen que _todas_ las teorías plausibles implican que a veces es mejor añadir un gran número de vidas ligeramente positivas a una población existente que añadir un número menor de vidas extremadamente positivas.[^20] A partir de este resultado, concluyen que "la conclusión repugnante no proporciona ninguna orientación metodológica para la teoría o la formulación de políticas, porque no discrimina entre las diferentes teorías.“[^21] Los críticos podrían responder que estos nuevos veredictos —que consisten en añadir personas a poblaciones existentes— no son tan intuitivamente problemáticos como la conclusión repugnante original.
 
 #### Atacar las alternativas
 
@@ -111,7 +113,7 @@ En segundo lugar, la perspectiva promedio implica la _conclusión sádica_:[^27]
 
 Añadir un pequeño número de personas torturadas y miserables a una población disminuye el bienestar promedio menos que añadir un número suficientemente grande de personas cuyas vidas son bastante buenas, pero inferiores a la media existente. Para comprobarlo, consideremos el siguiente gráfico, en el que el mundo A tiene un bienestar promedio inferior al del mundo B. Contrariamente a la intuición, la perspectiva promedio implica que deberíamos preferir el mundo B al mundo A.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-4.png "Perspectiva promedio y conclusión sádica")
+![](./imagenes/etica-de-la-poblacion/figura-4.png "Perspectiva promedio y conclusión sádica")
 
 En tercer lugar, la perspectiva promedio prefiere poblaciones arbitrariamente pequeñas a poblaciones muy grandes, siempre que el bienestar medio sea mayor. Por ejemplo, un mundo con un único individuo extremadamente feliz sería preferible a un mundo con diez mil millones de personas, todas ellas extremadamente felices pero ligeramente menos felices que esa única persona.
 
@@ -149,7 +151,7 @@ Las teorías del nivel crítico evitan la conclusión repugnante si su nivel cr�
 
 Sin embargo, un nivel crítico positivo implica una versión particularmente espantosa de la conclusión sádica, que empeora cuanto más alto es el nivel crítico elegido,[^35] porque implica que es preferible que en un mundo haya personas con un bienestar negativo —vidas que no son dignas de ser vividas, como vidas que sufren torturas constantes— a que haya muchas más personas con vidas dignas de ser vividas pero por debajo del nivel crítico. Ilustradas gráficamente, las teorías del nivel crítico implican, contrariamente a la intuición, que el mundo A (con una población suficientemente grande) es _peor_ que el mundo B.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-5.png "Teoría del nivel crítico")
+![](./imagenes/etica-de-la-poblacion/figura-5.png "Teoría del nivel crítico")
 
 Para evitar este resultado inaceptable, podemos pasar a una teoría del _rango crítico_,[^36] según la cual:
 
@@ -163,7 +165,7 @@ Para profundizar en este punto de vista, podemos pensar que el valor de una vida
 
 La implicación clave de esta teoría del rango crítico (con una borrosidad del valor moderada) es que una vida intrínsecamente buena debe contener _significativamente_ más bienestar que una vida intrínsecamente mala, porque entre estos dos niveles hay un rango moderado de vidas que son mediocres, como se ilustra a continuación:[^41]
 
-![](../media/Macaskill2023EticaDePoblacion/figura-6.png "Teoría del rango crítico")
+![](./imagenes/etica-de-la-poblacion/figura-6.png "Teoría del rango crítico")
 
 El punto de vista resultante, aunque teóricamente complejo, parece menos susceptible de objeciones severas que los otros puntos de vista que hemos estudiado. En particular, puede evitar simultáneamente tanto la conclusión repugnante como la conclusión sádica. Pero vale la pena señalar que no puede dar cabida a la fuerte intuición "antirrepugnancia" de que el mundo idílico A es estrictamente _mejor_ que el mundo repugnante Z.[^42] En su lugar, las teorías críticas del rango consideran que los dos mundos son incomparables, debido a la inmensa borrosidad del valor introducida por todas esas vidas mediocres en el mundo Z.
 
@@ -180,13 +182,13 @@ Todas las teorías discutidas más arriba —la perspectiva total, la perspectiv
 
 > **N** = número de personas; **Q** = nivel promedio de bienestar; **α** = nivel crítico; **f()** = función estrictamente creciente y estrictamente cóncava con asíntota horizontal
 
-Las teorías impersonales implican que crear una persona más con una vida (suficientemente) buena hace que el mundo sea mejor, en igualdad de condiciones.[^45] Sin embargo, algunas personas rechazan esta implicación. Afirman que no hay razones morales para crear más personas, al menos no razones basadas en el bienestar que estas personas disfrutarían si fueran creadas. Jan Narveson expresó esta idea en forma de eslogan: "Estamos a favor de hacer feliz a la gente, pero somos neutrales respecto de hacer gente feliz."[^46] Las perspectivas centradas en las personas afectadas intentan recoger esta intuición de neutralidad y son especialmente comunes entre los no consecuencialistas.[^47]
+Las teorías impersonales implican que crear una persona más con una vida (suficientemente) buena hace que el mundo sea mejor, en igualdad de condiciones.[^45] Sin embargo, algunas personas rechazan esta implicación. Afirman que no hay razones morales para crear más personas, al menos no razones basadas en el bienestar que estas personas disfrutarían si fueran creadas. Jan Narveson expresó esta idea en forma de eslogan: "Estamos a favor de hacer feliz a la gente, pero somos neutrales respecto de hacer gente feliz.“[^46] Las perspectivas centradas en las personas afectadas intentan recoger esta intuición de neutralidad y son especialmente comunes entre los no consecuencialistas.[^47]
 
 Con este fin, las perspectivas centradas en las personas afectadas aceptan la _restricción de las personas afectadas_:
 
 > **Un resultado no puede ser mejor (o peor) que otro a menos que sea mejor (o peor) _para_ alguien.**[^48]
 
-A primera vista, este principio parece eminentemente plausible. Cuando sólo se consideran los casos de población fija, equivale a una expresión del _[bienestarismo](/tipos-de-utilitarismo#bienestarismo)_: la perspectiva de que el bienestar es el único valor. Pero surgen problemas cuando se comparan resultados en los que existen diferentes personas, especialmente si se combina con el principio de _incomparabilidad de la existencia_:[^49]
+A primera vista, este principio parece eminentemente plausible. Cuando sólo se consideran los casos de población fija, equivale a una expresión del _[bienestarismo](./elementos-y-tipos-de-utilitarismo.md#bienestarismo)_: la perspectiva de que el bienestar es el único valor. Pero surgen problemas cuando se comparan resultados en los que existen diferentes personas, especialmente si se combina con el principio de _incomparabilidad de la existencia_:[^49]
 
 > **Si una persona existe en un resultado pero no en otro, no es posible comparar su bienestar entre estos resultados.**
 
@@ -204,7 +206,7 @@ Aunque muchos consideran que se trata de un principio intuitivo,[^51] es notoria
 
 La asimetría procreativa más simple sostiene que las vidas positivas _no suman ni restan valor_ al resultado. Pero esto implica falsamente que crear vidas con un bienestar positivo bajo es tan bueno como crear un número igual de vidas con un nivel de bienestar alto. Por ejemplo, consideremos la posibilidad de elegir entre dos mundos habitados por diferentes grupos de personas futuras. En el mundo A~1~, todos tienen una vida maravillosa. En el mundo A~2~, todas las personas tienen una vida mucho peor que en A~1~, aunque positiva.
 
-![](../media/Macaskill2023EticaDePoblacion/figura-7.png "Perspectivas centradas en las personas afectadas y la asimetría")
+![](./imagenes/etica-de-la-poblacion/figura-7.png "Perspectivas centradas en las personas afectadas y la asimetría")
 
 Es claro que deberíamos preferir el mundo A~1~ al A~2~. Sin embargo, la versión más simple de la asimetría procreativa implica que ambos mundos son igual de buenos: porque no son ni buenos ni malos.
 
@@ -212,7 +214,7 @@ En los casos de comparación con mundos vacíos, la asimetría procreativa simpl
 
 > **En el mundo A, todas las personas, salvo unas pocas, tienen una vida excelente. Pero algunas personas padecen una enfermedad extremadamente rara que hace que la vida no sea digna de ser vivida. En el mundo B, no existe ninguna persona.**
 
-![](../media/Macaskill2023EticaDePoblacion/figura-8.png "Perspectivas centradas en las personas afectadas y la asimetría")
+![](./imagenes/etica-de-la-poblacion/figura-8.png "Perspectivas centradas en las personas afectadas y la asimetría")
 
 La mayoría de la gente preferiría el mundo A a un mundo vacío B. Pero la simple asimetría procreativa parecería, perversamente, favorecer el mundo vacío B, ya que las muchas vidas buenas del mundo A no cuentan para nada, mientras que las pocas vidas malas determinan la decisión. Desde este punto de vista, no hay intercambios aceptables entre vidas buenas y malas. Lo mejor, al parecer, sería que no hubiera ninguna vida.
 
@@ -232,7 +234,7 @@ Por todas estas razones, los utilitaristas rechazan en gran medida las perspecti
 
 ## Implicaciones prácticas de las teorías éticas de la población
 
-La ética de la población es un campo de gran importancia para la toma de decisiones en el mundo real. En particular, qué perspectiva en la ética de la población adoptemos determina la importancia que debemos asignar a preservar y mejorar el futuro a largo plazo de la humanidad. Si la civilización humana persiste, y acaso un día se expande por las estrellas, podría haber un número inconcebiblemente grande de personas futuras con vidas valiosas. Su existencia y su bienestar dependen en parte de las decisiones que tomemos hoy: especialmente de cuántos recursos invirtamos nosotros, la generación actual, en [prevenir los riesgos existenciales](/ actuar-conforme-al-utilitarismo#reduccion-del-riesgo-existencial), que amenazan la supervivencia y el florecimiento de la humanidad a largo plazo.[^56]
+La ética de la población es un campo de gran importancia para la toma de decisiones en el mundo real. En particular, qué perspectiva en la ética de la población adoptemos determina la importancia que debemos asignar a preservar y mejorar el futuro a largo plazo de la humanidad. Si la civilización humana persiste, y acaso un día se expande por las estrellas, podría haber un número inconcebiblemente grande de personas futuras con vidas valiosas. Su existencia y su bienestar dependen en parte de las decisiones que tomemos hoy: especialmente de cuántos recursos invirtamos nosotros, la generación actual, en [prevenir los riesgos existenciales](./actuar-conforme-al-utilitarismo.md#reduccion-del-riesgo-existencial), que amenazan la supervivencia y el florecimiento de la humanidad a largo plazo.[^56]
 
 El bienestar total del que podrían disfrutar todas las personas futuras es potencialmente enorme. Por consiguiente, desde la perspectiva total, el disvalor de perder nuestro futuro es inmenso, y la mitigación de los riesgos existenciales adquiere una importancia correspondiente. La misma conclusión es válida para las teorías del nivel (o rango) crítico, suponiendo que el bienestar medio de las generaciones futuras supere el nivel (o rango) crítico.[^57]
 
@@ -250,7 +252,7 @@ Según la perspectiva total de la ética de la población, la bondad de un resul
 
 Todas estas perspectivas se enfrentan a objeciones de peso. La perspectiva total implica la conclusión repugnante, según la cual para cualquier mundo A (por idílico que sea), existe un mundo mejor Z en el que las personas sólo tienen vidas apenas dignas de ser vivida. La perspectiva promedio, las teorías del valor variable y las teorías del nivel crítico implican versiones de la conclusión sádica: que a veces puede ser mejor crear (pocas) vidas con bienestar negativo que crear (más) vidas con bienestar positivo. Las perspectivas centradas en las personas afectadas se basan en una asimetría sin fundamento y tienen dificultades para explicar el valor de la existencia (incluso en los casos más idílicos). Las teorías de rango crítico pueden tener mejores resultados, pero ni siquiera ellas pueden respaldar la intuición antirrepugnante de que un mundo idílico A es estrictamente mejor que el mundo repugnante Z. Lo extendido de estos problemas no es una coincidencia: los teoremas de imposibilidad demuestran que ninguna teoría ética de la población puede satisfacer todos los principios intuitivos o axiomas que cabría esperar.
 
-Las implicaciones prácticas más importantes de la ética de la población tienen que ver con el valor que debemos asignar a preservar y mejorar el futuro de la humanidad a largo plazo y, por tanto, con la importancia de [reducir los riesgos existenciales](/actuar-en-conformidad-con-el-utilitarismo#reduccion-de-riesgo-existencial).
+Las implicaciones prácticas más importantes de la ética de la población tienen que ver con el valor que debemos asignar a preservar y mejorar el futuro de la humanidad a largo plazo y, por tanto, con la importancia de [reducir los riesgos existenciales](./actuar-conforme-al-utilitarismo.md#reduccion-de-riesgo-existencial).
 
 En el siguiente capítulo se analizan las implicaciones más importantes del utilitarismo para la forma en que debemos pensar en llevar una vida ética.
 

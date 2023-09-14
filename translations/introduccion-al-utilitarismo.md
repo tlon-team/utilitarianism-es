@@ -13,7 +13,7 @@ gradientBottom: "#236d9f"
 >
 > — Mòzǐ[^1]
 
-¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](/argumentos-a-favor-del-utilitarismo/) y sus [críticos](/objeciones-al-utilitarismo/).
+¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](./argumentos-a-favor-del-utilitarismo.md) y sus [críticos](./objeciones-al-utilitarismo).
 
 ## ¿Por qué necesitamos teorías morales?
 
@@ -29,7 +29,7 @@ Uno de los intentos más destacados e influyentes de crear una teoría de este t
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la correcta, el razonamiento moral utilitarista tiene un sólido historial de contribución al progreso moral colectivo de la humanidad, lo que sugiere que al menos puede haber algo moralmente saludable en estas ideas. Los utilitaristas clásicos de los siglos <abbr>XVIII</abbr> y <abbr>XIX</abbr> tenían actitudes sociales y políticas muy adelantadas a su tiempo: como reformador social progresista, [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) defendió cuestiones como la separación de la Iglesia y el Estado; la abolición de la esclavitud y de la pena de muerte; regulaciones jurídicas para proteger a los criminales y a los animales no humanos del trato cruel;[^3] y la despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre la homosexualidad eran tan liberales que su editor los ocultó al público tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
 
-[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo *[The Subjection of Women](/libros/el-sometimiento-de-la-mujer-john-stuart-mill/1)*,[^6] Mill sostenía que
+[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo <cite>[@Mill1869SubjectionOfWomen]</cite>,[^6] Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los dos sexos —la subordinación jurídica de un sexo al otro— es moralmente incorrecto en sí mismo, y actualmente uno de los principales obstáculos para el mejoramiento humano; y que debería ser sustituido por un principio de perfecta igualdad, que no admita ningún poder o privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
@@ -54,21 +54,21 @@ Todas las teorías éticas de la familia utilitarista comparten cuatro elementos
 3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
 4.  **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
 
-[Los rivales del utilitarismo](/alternativas-casi-utilitaristas) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
+[Los rivales del utilitarismo](./alternativas-cercanas-al-utilitarismo.md) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
 
 ## Hoja de ruta
 
-Examinamos los cuatro elementos del utilitarismo en mayor profundidad, junto con otras distinciones teóricas, en el [Capítulo 2: Elementos y tipos de utilitarismo](/tipos-de-utilitarismo).
+Examinamos los cuatro elementos del utilitarismo en mayor profundidad, junto con otras distinciones teóricas, en el [Capítulo 2: Elementos y tipos de utilitarismo](./elementos-y-tipos-de-utilitarismo.md).
 
-En el [Capítulo 3](/argumentos-a-favor-del-utilitarismo/) se explica el equilibrio reflexivo como metodología moral y se presentan varios argumentos a favor del utilitarismo (y otras teorías consecuencialistas similares) frente a perspectivas morales alternativas. Esto incluye una discusión sobre el velo de la ignorancia, la expansión del círculo moral y el argumento de que el utilitarismo ofrece una explicación especialmente convincente de *lo que fundamentalmente importa*. Este capítulo también explica la paradoja de la deontología, los argumentos genealógicos evolutivos y otras objeciones a la ética no consecuencialista.
+En el [Capítulo 3](./argumentos-a-favor-del-utilitarismo.md) se explica el equilibrio reflexivo como metodología moral y se presentan varios argumentos a favor del utilitarismo (y otras teorías consecuencialistas similares) frente a perspectivas morales alternativas. Esto incluye una discusión sobre el velo de la ignorancia, la expansión del círculo moral y el argumento de que el utilitarismo ofrece una explicación especialmente convincente de *lo que fundamentalmente importa*. Este capítulo también explica la paradoja de la deontología, los argumentos genealógicos evolutivos y otras objeciones a la ética no consecuencialista.
 
-En los capítulos 4 y 5 se analizan, respectivamente, [teorías del bienestar](/teorieas-del-bienestar/) y de la [ética de la población](/etica-de-la-poblacion/) específicas. Aunque el utilitarismo se asocia a menudo con el *hedonismo* sobre el bienestar y la *perspectiva total* de la ética de la población (una combinación conocida como *utilitarismo clásico*), hay otras opciones que también vale la pena considerar. Hay que tener en cuenta, sobre todo, que las objeciones al hedonismo o a la perspectiva total pueden dejar intactas otras formas de utilitarismo.
+En los capítulos 4 y 5 se analizan, respectivamente, [teorías del bienestar](./teorias-del-bienestar.md) y de la [ética de la población](./etica-de-la-poblacion.md) específicas. Aunque el utilitarismo se asocia a menudo con el *hedonismo* sobre el bienestar y la *perspectiva total* de la ética de la población (una combinación conocida como *utilitarismo clásico*), hay otras opciones que también vale la pena considerar. Hay que tener en cuenta, sobre todo, que las objeciones al hedonismo o a la perspectiva total pueden dejar intactas otras formas de utilitarismo.
 
-El [Capítulo 6](/utilitarismo-y-etica-practica/) y nuestro artículo complementario [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo/) exploran las aplicaciones prácticas del utilitarismo y sus implicaciones para la forma en que debemos vivir nuestras vidas. Argumentamos que, en la práctica, un utilitarista debería intentar hacer el mayor bien posible sin dejar de respetar virtudes morales de sentido común como la integridad, la fiabilidad y el cumplimiento de la ley, con el fin de fomentar la cooperación social y mitigar el riesgo de cometer errores de cálculo.
+El [Capítulo 6](./utilitarismo-y-etica-practica.md) y nuestro artículo complementario [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md) exploran las aplicaciones prácticas del utilitarismo y sus implicaciones para la forma en que debemos vivir nuestras vidas. Argumentamos que, en la práctica, un utilitarista debería intentar hacer el mayor bien posible sin dejar de respetar virtudes morales de sentido común como la integridad, la fiabilidad y el cumplimiento de la ley, con el fin de fomentar la cooperación social y mitigar el riesgo de cometer errores de cálculo.
 
-[El capítulo 7](/alternativas-casi-utilitaristas) examina hasta qué punto estas recomendaciones prácticas resisten diversas desviaciones de la teoría utilitarista estricta. Aunque algunas teorías alternativas pueden tener implicaciones prácticas radicalmente divergentes, sostenemos que una amplia gama de puntos de vista razonables convergen en última instancia en la recomendación práctica central de la ética utilitarista, a saber, utilizar una fracción significativa del propio tiempo y/o dinero para ayudar a los demás, y tratar de hacerlo de la manera más eficaz posible, sin violar las restricciones morales de sentido común.
+[El capítulo 7](./alternativas-cercanas-al-utilitarismo.md) examina hasta qué punto estas recomendaciones prácticas resisten diversas desviaciones de la teoría utilitarista estricta. Aunque algunas teorías alternativas pueden tener implicaciones prácticas radicalmente divergentes, sostenemos que una amplia gama de puntos de vista razonables convergen en última instancia en la recomendación práctica central de la ética utilitarista, a saber, utilizar una fracción significativa del propio tiempo y/o dinero para ayudar a los demás, y tratar de hacerlo de la manera más eficaz posible, sin violar las restricciones morales de sentido común.
 
-Las principales [objeciones al utilitarismo](/objeciones-al-utilitarismo/) se abordan en el capítulo 8. Presentamos una "[caja de herramientas](/objeciones-al-utilitarismo/#caja-de-herramientas-utilitarista)" con maniobras generales a disposición de los utilitaristas para hacer frente a una amplia gama de objeciones, y luego mostramos cómo esta caja de herramientas se puede utilizar para responder a inquietudes relativas a los derechos, las exigencias de la moral, la incertidumbre radical, y más.
+Las principales [objeciones al utilitarismo](./objeciones-al-utilitarismo) se abordan en el capítulo 8. Presentamos una "[caja de herramientas](./objeciones-al-utilitarismo-y-respuestas.md~#caja-de-herramientas-utilitarista)" con maniobras generales a disposición de los utilitaristas para hacer frente a una amplia gama de objeciones, y luego mostramos cómo esta caja de herramientas se puede utilizar para responder a inquietudes relativas a los derechos, las exigencias de la moral, la incertidumbre radical, y más.
 
 ## Conclusión
 
@@ -79,12 +79,6 @@ Todas las teorías utilitaristas comparten cuatro elementos clave: consecuencial
 La ética utilitarista tiene una tradición intelectual que abarca siglos, durante los cuales ha suscitado muchos debates encendidos. Los críticos del utilitarismo acusan a la teoría de no tener en cuenta los derechos y de ser excesivamente exigente, entre otras objeciones. Sus defensores responden que la teoría tiene virtudes teóricas atractivas y ofrece una explicación convincente de lo que importa fundamentalmente. Si los dilemas morales se resolvieran tras un velo de ignorancia para minimizar el riesgo de sesgos, sería racional que todos los implicados apoyaran las recomendaciones utilitaristas. Es necesario examinar de cerca estos argumentos enfrentados para llegar a una opinión informada sobre esta polémica teoría moral.
 
 En el capítulo siguiente se analizan más a fondo los cuatro elementos de las teorías utilitaristas y se presentan diversas variantes del utilitarismo.
-
-## ¿Quieres hacer del mundo un lugar mejor?
-
-Descubre cómo poner en práctica el utilitarismo:
-
-[](https://utilitarianismo.net/actuar-conforme-al-utilitarismo)
 
 ## Recursos y más información
 
@@ -127,16 +121,16 @@ Descubre cómo poner en práctica el utilitarismo:
 
 [^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, Harriet Taylor Mill. Véase [@Mill2016Autobiography, p. 166].
 
-[^7]: [@Mill2009SubjectionOfWomen, p. 1].
+[^7]: [@Mill1869SubjectionOfWomen, p. 1].
 
 [^8]: Sobre la pobreza extrema véase [@Singer2009LifeYouCan].
 
     Sobre la cría intensiva de animales véase [@Singer2023AnimalLiberationNow].
 
-[^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](/etica-de-la-poblacion/) en el capítulo 5.
+[^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](./etica-de-la-poblacion.md) en el capítulo 5.
 
-[^10]: Sin embargo, cuando los economistas utilizan el término "[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/#teorias-del-deseo).
+[^10]: Sin embargo, cuando los economistas utilizan el término “[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](./teorias-del-bienestar.md).
 
-[^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](/teorias-del-bienestar/) explora si el bienestar puede implicar algo más que esto.
+[^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](./teorias-del-bienestar.md) explora si el bienestar puede implicar algo más que esto.
 
-[^12]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no alteran el número ni la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con entornos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre [ética de la población](/etica-de-la-poblacion/) del capítulo 5. Obsérvese además que quienes no son bienestaristas podrían considerar que otras cosas, además de las vidas, aportan valor al mundo, lo cual debería incluirse en la suma. Ponemos entre paréntesis esta posibilidad para facilitar la exposición.
+[^12]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no alteran el número ni la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con entornos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre [ética de la población](./etica-de-la-poblacion.md) del capítulo 5. Obsérvese además que quienes no son bienestaristas podrían considerar que otras cosas, además de las vidas, aportan valor al mundo, lo cual debería incluirse en la suma. Ponemos entre paréntesis esta posibilidad para facilitar la exposición.
