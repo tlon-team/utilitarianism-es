@@ -7,7 +7,7 @@ peso: 6
 descripcion: "El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en llevar una vida ética. A pesar de no dar ningún peso intrínseco a las restricciones deónticas, en la práctica apoya muchas prohibiciones y virtudes de sentido común. Su principal diferencia práctica radica en su énfasis en hacer el bien positivamente, de forma más amplia y eficiente de lo que la gente suele priorizar."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
-key_original: MacAskill2020UtilitarianismPracticalEthics
+key_original: MacAskill2023UtilitarianismPracticalEthics
 key_translation: Macaskill2023UtilitarismoEticaPractica
 ---
 
