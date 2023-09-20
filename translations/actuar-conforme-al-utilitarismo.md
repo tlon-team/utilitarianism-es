@@ -12,25 +12,25 @@ peso: 5
 
 ## Introducción
 
-Hasta ahora hemos examinado el utilitarismo desde un punto de vista teórico. Pero, ¿qué significa realmente el utilitarismo en la práctica? ¿Qué acciones concretas dice que debemos realizar? Este artículo explica qué significa vivir una vida ética desde la perspectiva del utilitarismo.
+Hasta ahora hemos examinado el utilitarismo desde un punto de vista teórico. Pero, ¿qué significa realmente el utilitarismo en la práctica? ¿Qué acciones concretas dice que debemos realizar? Este artículo explica la significación de vivir una vida ética desde la perspectiva del utilitarismo.
 
-Hay muchos problemas en el mundo de hoy, algunos de los cuales son de enorme importancia. Según el utilitarismo, cada persona tiene la obligación de trabajar en estos problemas y tratar de mejorar el mundo en la medida de lo posible, asignando la misma importancia al bienestar de todos. Por desgracia, nuestros recursos son escasos, así que como individuos e incluso como sociedad global no podemos resolver todos los problemas del mundo a la vez. Esto significa que debemos tomar decisiones sobre cómo priorizar los recursos de que disponemos. Dado que no todas las formas de ayudar a los demás son igual de eficaces, el utilitarismo implica que debemos elegir cuidadosamente en qué problemas trabajar y con qué medios.
+Hay muchos problemas en el mundo de hoy, algunos de los cuales son de enorme importancia. Según el utilitarismo, cada persona tiene la obligación de trabajar en estos problemas y tratar de mejorar el mundo en la medida de lo posible, asignando la misma importancia al bienestar de todos. Por desgracia, nuestros recursos son escasos, así que como individuos e incluso como sociedad global no podemos resolver todos los problemas del mundo a la vez. Esto significa que debemos tomar decisiones sobre el modo de priorizar los recursos de que disponemos. Dado que no todas las formas de ayudar a los demás son igual de eficaces, el utilitarismo implica que debemos elegir cuidadosamente en qué problemas trabajar y con qué medios.
 
-Para hacer el mayor bien posible, en la práctica muchos utilitaristas donan una parte significativa de sus ingresos para contribuir a resolver los problemas del mundo más apremiantes, dedican su carrera profesional a hacer el bien y aspiran a altos grados de cooperación, integridad personal y honradez.
+Para hacer el mayor bien posible en la práctica, muchos utilitaristas donan una parte significativa de sus ingresos para contribuir a resolver los problemas del mundo más apremiantes, dedican su carrera profesional a hacer el bien y aspiran a altos grados de cooperación, integridad personal y honradez.
 
-A lo largo de este artículo, utilizamos expresiones como "hacer el bien" y "tener un impacto" para referirnos, de forma abreviada, a aumentar el bienestar de los demás, en particular mediante la promoción de la felicidad y la prevención del sufrimiento.
+A lo largo de este artículo, utilizamos expresiones como "hacer el bien" y "tener un impacto" para referirnos, de forma abreviada, a aumentar el bienestar de los demás, en particular mediante el fomento de la felicidad y la prevención del sufrimiento.
 
 ## Oportunidades para ayudar a los demás
 
-La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE.UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5% más rico de la población mundial.[^2] Esta disparidad en la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
+La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo. Los miembros de la clase media de países ricos como EE.UU. y el Reino Unido ganan 50 veces más que los 750 millones de personas más pobres del mundo, lo que los ubica en el 5% más rico de la población mundial.[^2] Esta disparidad de la riqueza significa que los ciudadanos acomodados de las naciones prósperas tienen grandes oportunidades de beneficiar a los demás.
 
-[Distribución mundial de la renta](/img/World-Income-Distribution.png "Distribución mundial de la renta")
+![Distribución mundial de la renta](/img/World-Income-Distribution.png)
 
-> _Ganar más de $29.000 al año te sitúa en el 5% más rico de la población mundial._ Cf. Giving What We Can (2019). [¿Cuán rico soy?](https://howrichami.givingwhatwecan.org/?income=29000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0)
+> _Ganar más de $29.000 al año te sitúa en el 5% más rico de la población mundial._ Cf. [@GivingWhatWeCan2019HowRichAm].
 
 La riqueza y la renta exhiben lo que los economistas llaman _utilidad marginal decreciente_.[^3] La idea es simple: el grado en que aumenta el bienestar de una persona que recibe mayores ingresos depende de sus ingresos actuales. Aunque las personas más ricas dicen estar más satisfechas con su vida en general, cuanto más rico se es, menos bienestar se obtiene con una misma cantidad adicional de dinero. Un agricultor pobre de Kenia se beneficiará mucho más de recibir un dólar extra que un miembro de la clase media de un país rico.
 
-La utilidad marginal decreciente del dinero implica que, en general, podemos aumentar el bienestar general redistribuyendo de los ricos a los pobres. Como ciudadanos de países ricos, el bienestar al que renunciamos al donar $100 es pequeño comparado con el beneficio que este dinero proporcionará a alguien que vive en la pobreza extrema. En lugar de comprarle unas zapatillas nuevas, su donación podría darle a alguien el equivalente a un año o más de vida saludable.[^4]
+La utilidad marginal decreciente del dinero implica que, en general, podemos aumentar el bienestar general redistribuyendo de los ricos a los pobres. Como ciudadanos de países ricos, el bienestar al que renunciamos al donar $100 es pequeño comparado con el beneficio que este dinero proporcionará a alguien que vive en la pobreza extrema. En lugar de comprarte unos zapatos nuevos, tu donación podría proporcionarle a alguien el equivalente a un año o más de vida saludable.[^4]
 
 Dada la utilidad marginal decreciente del dinero, el flagelo de la desigualdad mundial extrema implica que podemos hacer un bien asombroso donando a los pobres del mundo o a otros grupos desfavorecidos. Por unos pocos dólares —el precio de un café— podríamos pagar una mosquitera tratada con insecticida que durante dos años protegería de la malaria a dos niños de un país en desarrollo.[^5] Y este dinero puede llegar aún más lejos si se gasta en programas eficaces en otras áreas de trabajo.
 
