@@ -119,7 +119,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 	
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
-[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, Harriet Taylor Mill. Véase [@Mill2016Autobiography, p. 166].
+[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase [@Mill2016Autobiography, p. 166].
 
 [^7]: [@Mill1869SubjectionOfWomen, p. 1].
 
