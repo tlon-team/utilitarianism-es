@@ -40,7 +40,7 @@ El utilitarismo implica que ayudar a los demás debe ser una parte central de nu
 
 ## El altruismo eficaz
 
-Muchos utilitaristas realizan sacrificios personales considerables debido a su creencia en el utilitarismo. Pero recientemente algunos han argumentado que _cuánto_ se sacrifica no es más importante como _qué_ se intenta hacer. Ésta es una idea clave del _[altruismo eficaz](https://altruismoeficaz.net/)_, una filosofía y un movimiento social respaldado por muchos utilitaristas, como [Peter Singer](https://altruismoeficaz.net/autores/peter-singer).[^6]
+Muchos utilitaristas realizan sacrificios personales considerables debido a su creencia en el utilitarismo. Pero recientemente algunos han argumentado que _cuánto_ se sacrifica no es tan importante como _qué_ se intenta hacer. Ésta es una idea clave del _[altruismo eficaz](https://altruismoeficaz.net/)_, una filosofía y un movimiento social respaldado por muchos utilitaristas, como [Peter Singer](https://altruismoeficaz.net/autores/peter-singer).[^6]
 
 Los partidarios del altruismo eficaz intentan averiguar, de entre todos los usos posibles de nuestros recursos, cuáles son los más beneficiosos, considerados imparcialmente, y actúan en consecuencia. Así definido, el altruismo eficaz es tanto un proyecto de investigación que busca cómo hacer el mayor bien como un proyecto práctico que intenta aplicar las mejores conjeturas que tenemos sobre cómo hacer el mayor bien.[^7]
 
@@ -48,9 +48,9 @@ Aunque el utilitarismo y el altruismo eficaz comparten ciertas similitudes,[^8] 
 
 A pesar de estas diferencias, los utilitaristas suelen mostrar entusiasmo por el altruismo eficaz. La razón principal es que, de todas las comunidades, el movimiento del altruismo eficaz es el que más se acerca a la aplicación de las ideas y valores utilitaristas fundamentales al mundo real.
 
-Además, unirse a una comunidad de personas con objetivos compartidos como el altruismo eficaz puede ser una de las mejores formas de que sus miembros aumenten su impacto. Una comunidad de este tipo permite a un grupo de personas prestarse apoyo mutuo y coordinarse de forma más eficaz, consiguiendo así más de lo que podrían conseguir a título individual.
+Además, unirse a una comunidad de personas con objetivos compartidos como el altruismo eficaz puede ser una de las mejores formas de que sus miembros aumenten su impacto. Una comunidad de este tipo permite a un grupo de personas prestarse apoyo mutuo y coordinarse de forma más eficaz, consiguiendo así más de lo que podrían lograr a título individual.
 
-Los miembros del movimiento del altruismo eficaz suelen descomponer el problema de cómo hacer el mayor bien posible en dos partes. En primer lugar, ¿en qué problema ("causa") debo centrarme? En segundo lugar, ¿qué medios debo adoptar para abordar esos problemas? Analizaremos estas dos cuestiones en el resto de este artículo.
+Los miembros del movimiento del altruismo eficaz suelen descomponer el problema de cómo hacer el mayor bien posible en dos partes. En primer lugar, ¿en qué problema (o "causa") debo centrarme? En segundo lugar, ¿qué medios debo adoptar para abordar esos problemas? Analizaremos estas dos cuestiones en el resto de este artículo.
 
 ## Priorización de causas
 
@@ -64,7 +64,7 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 
 Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
 
-Sobre esta base, se puede considerar la salud y el desarrollo como una causa especialmente prioritaria para los utilitaristas.[^12] Los esfuerzos en este ámbito tienen un gran historial de mejoras en la vida de la gente, lo que hace que esta causa parezca especialmente tratable. Durante la mayor parte de la historia de la humanidad, lo normal era que aproximadamente dos de cada cinco niños murieran antes de cumplir los cinco años, en gran parte por causas evitables. Gracias a la mejora de las condiciones de salubridad y al acceso a la atención médica, desde entonces hemos avanzado enormemente en la lucha contra la mortalidad infantil, y las tasas mundiales descendieron a solo el 4,5% en 2015.[^13]
+Sobre esta base, se puede considerar la salud y el desarrollo globales como una causa especialmente prioritaria para los utilitaristas.[^12] Los esfuerzos en este ámbito tienen un gran historial de mejoras en la vida de la gente, lo que hace que esta causa parezca especialmente tratable. Durante la mayor parte de la historia de la humanidad, lo normal era que aproximadamente dos de cada cinco niños murieran antes de cumplir los cinco años, en gran parte por causas evitables. Gracias a la mejora de las condiciones de salubridad y al acceso a la atención médica, desde entonces hemos avanzado enormemente en la lucha contra la mortalidad infantil, y las tasas mundiales descendieron a solo el 4,5% en 2015.[^13]
 
 <iframe src="https://ourworldindata.org/grapher/global-child-mortality-timeseries" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -80,7 +80,7 @@ Mejorar el bienestar de los animales de granja debería ser una alta prioridad m
 
 En primer lugar, como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#especismo), los utilitaristas rechazan el especismo: la discriminación contra quienes no pertenecen a una determinada especie. Desde la óptica del utilitarismo, debemos dar la misma consideración moral al bienestar de todos los individuos, independientemente de la especie a la que pertenezcan.[^18]
 
-En segundo lugar, nos encontramos en una situación sin precedentes históricos, en la que cada año los seres humanos matan alrededor de 70.000 millones de animales terrestres para alimentarse.[^19] La gran mayoría de ellos pasan su vida en criaderos intensivos en condiciones horrendas,[^20] hacinados0., sin luz natural ni estímulos, y en riesgo constante de desarrollar dolencias como huesos debilitados o rotos, infecciones y fallo de órganos. La vida de la mayoría termina prematuramente cuando son sacrificados como alimento. Estos animales que sufren se encuentran probablemente entre las criaturas en peor situación de este planeta.
+En segundo lugar, nos encontramos en una situación sin precedentes históricos, en la que cada año los seres humanos matan alrededor de 70.000 millones de animales terrestres para alimentarse.[^19] La gran mayoría de ellos pasan su vida en criaderos intensivos en condiciones horrendas,[^20] hacinados, sin luz natural ni estímulos, y en riesgo constante de desarrollar dolencias como huesos debilitados o rotos, infecciones y fallo de órganos. La vida de la mayoría termina prematuramente cuando son sacrificados como alimento. Estos animales que sufren se encuentran probablemente entre las criaturas en peor situación de este planeta.
 
 En tercer lugar, podemos mejorar significativamente la vida de los animales de granja por sólo unos centavos por animal. En los últimos años, los activistas han hecho campaña para que muchos supermercados y cadenas de comida rápida eliminen los huevos de jaula de sus cadenas de suministro. Las investigaciones sugieren que estas campañas corporativas para el bienestar animal han mejorado significativamente la vida de entre 9 y 120 gallinas por dólar gastado, evitándoles un año de confinamiento en jaulas.[^21] Debido a la enorme cantidad de seres sintientes involucrados, avanzar en la mejora del bienestar animal en las granjas podría evitar una enorme cantidad de sufrimiento.
 
@@ -118,9 +118,9 @@ Como se señala en el capítulo [Utilitarismo y ética práctica](./utilitarismo
 
 ### Donaciones a organizaciones benéficas
 
-En forma de eslogan, la recomendación utilitarista para ayudar a los demás con nuestro dinero es "donar más y mejor". Donar más se explica por sí mismo. Donar mejor significa donar a las organizaciones que hacen el mejor uso de nuestras donaciones.
+En forma de eslogan, la recomendación utilitarista para ayudar a los demás con nuestro dinero es "donar más y mejor". Donar más se explica por sí mismo. Donar mejor significa encontrar las organizaciones que hacen el mejor uso de nuestras donaciones y donarles nuestro dinero.
 
-Ya hemos visto que los ciudadanos de los países prósperos forman parte del pequeño porcentaje más rico de la población del planeta. Haciendo pequeños sacrificios, los ricos tienen el poder de mejorar radicalmente la vida de los demás. Debido a las desigualdades extremas en riqueza e ingreso, podemos hacer mucho más bien donando dinero a los más necesitados que gastándolo en nosotros.[^30] Afortunadamente, cada vez más personas ricas reconocen la posición única en la que se encuentran y deciden donar una mayor parte de sus recursos en beneficio de los demás. Por ejemplo, [Giving What We Can](https://www.givingwhatwecan.org/) es una creciente comunidad de personas que se han [comprometido a donar al menos el 10% de sus ingresos](https://www.givingwhatwecan.org/pledge/) durante el resto de sus vidas a donde consideren que el dinero tendrá el mayor impacto.[^31] Más de 9.000 personas han firmado el compromiso, que se traduce en donaciones colectivas de miles de millones de dólares a lo largo de sus vidas.
+Ya hemos visto que los ciudadanos de los países prósperos forman parte del pequeño porcentaje más rico de la población del planeta. Haciendo pequeños sacrificios, los ricos tienen el poder de mejorar radicalmente la vida de los demás. Debido a las desigualdades extremas en riqueza e ingreso, podemos hacer mucho más bien donando dinero a los más necesitados que gastándolo en nosotros.[^30] Afortunadamente, cada vez más personas ricas reconocen la posición única en la que se encuentran y deciden donar una mayor parte de sus recursos en beneficio de los demás. Por ejemplo, [Giving What We Can](https://www.givingwhatwecan.org/) es una creciente comunidad de personas que se han [comprometido a donar al menos el 10% de sus ingresos](https://www.givingwhatwecan.org/pledge/) durante el resto de sus vidas a donde consideren que el dinero tendrá el mayor impacto.[^31] Más de 9.000 personas han firmado el compromiso, lo que se traduce en donaciones colectivas de miles de millones de dólares a lo largo de sus vidas.
 
 Sin embargo, donar más no sirve de mucho si el dinero no se gasta bien. Algunas formas de ayudar tienen un impacto mucho mayor que otras. La mayoría de la gente cree que la eficacia de las mejores organizaciones benéficas difiere de la media sólo en un 50 % aproximadamente.[^32] Sin embargo, contrariamente a lo que podría parecer, las organizaciones benéficas más costo-eficaces son decenas o incluso cientos de veces más eficaces que las organizaciones benéficas típicas.[^33] Debido a estas enormes diferencias entre organizaciones benéficas, decidir dónde donar es sumamente importante; hacer el mayor bien posible requiere que tomemos esta decisión con mucho cuidado.
 
@@ -199,7 +199,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^2]:
     Se estima que 734 millones de personas vivían en la pobreza extrema en 2015, lo que significa que ganaban menos de 1,90 dólares al día (a precios de 2011). Así, unos ingresos anuales de 35.000 dólares corresponden a 50 veces los ingresos anuales de una persona que vive justo por debajo del umbral de la pobreza extrema.
 
-    The World Bank, Poverty & Inequality Indicators. [Agregación regional que usa la paridad del poder adquisitivo (PPA) del 2011 y una línea de pobreza de $1.9/día](https://pip.worldbank.org/poverty-calculator).
+    The World Bank, *Poverty & Inequality Indicators**. [Agregación regional que usa la paridad del poder adquisitivo (PPA) del 2011 y una línea de pobreza de $1.9/día](https://pip.worldbank.org/poverty-calculator).
 
 [^3]: Cf. [@Drupp2018DiscountingDisentangled].
 [^4]: [@GiveWell2010YourDonationCan].
@@ -241,7 +241,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 [^25]:
     [@Ord2020PrecipiceExistentialRisk, p. 37].
 
-    Nos centraremos en el riesgo de extinción como ejemplo más sencillo, pero también se pueden imaginar situaciones en las que la humanidad sobreviva, pero con su potencial a largo plazo permanentemente mermado.
+    Nos centraremos en el riesgo de extinción como el ejemplo más sencillo, pero también se pueden imaginar situaciones en las que la humanidad sobreviva, pero con su potencial a largo plazo permanentemente mermado.
 
 [^26]: Cf. [@Bostrom2003AstronomicalWasteOpportunity].
 [^27]: Cf. [@Beckstead2013OverwhelmingImportanceShaping, sec. 3: The case for shaping the far future].
