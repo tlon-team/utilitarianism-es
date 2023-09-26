@@ -166,7 +166,6 @@ La acción del médico, por pura casualidad y contra todo pronóstico, ha tenido
 
 Cuando existe un conflicto de este tipo entre qué acto sería el mejor _de hecho_ frente a cuál sería el mejor _en términos esperados_, ¿hay algo que pueda indicar qué acto es "realmente" correcto? Muchos filósofos opinan que se trata de una disputa meramente verbal. Podemos hablar de la mejor opción de hecho como "objetivamente correcta" y de la mejor opción en términos esperados como "subjetivamente correcta", y cada uno de estos conceptos podría tener un papel teórico legítimo. Por ejemplo, deberíamos _preferir_ que se produjera el mejor resultado de hecho. Pero también deberíamos reconocer que, dadas nuestras limitaciones cognitivas, en la práctica sería más sensato guiarnos por consideraciones de valor esperado.
 
-
 ### Utilitarismo multinivel y utilitarismo de un solo nivel
 
 En la bibliografía sobre utilitarismo, se traza una distinción útil entre un _criterio de corrección_ y un _procedimiento de decisión_. Un criterio de corrección nos dice qué hace falta para que una acción (o norma, política, etc.) sea correcta o incorrecta. Un procedimiento de decisión es algo que utilizamos cuando pensamos sobre cómo actuar.[^21]
