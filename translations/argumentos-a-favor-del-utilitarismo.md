@@ -51,7 +51,7 @@ Aun así, en muchos contextos estos otros factores no serán relevantes, y la cu
 
 ### Pareto *ex ante*
 
-Una mejora *Pareto* es mejor para algunas personas y peor para ninguna. Cuando los resultados son inciertos, podemos evaluar la _perspectiva_ asociada a una acción: el abanico de posibles resultados, ponderados por la probabilidad de cada uno. Se puede considerar que una perspectiva es mejor para una persona cuando le ofrece un mayor bienestar [en términos esperados](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-expectacional-versus-utilitarismo-objetivo), o *ex ante*.[^H0] Uniendo estos conceptos, podemos formular el siguiente principio:
+Una mejora Pareto es mejor para algunas personas y peor para ninguna. Cuando los resultados son inciertos, podemos evaluar la _perspectiva_ asociada a una acción: el abanico de posibles resultados, ponderados por la probabilidad de cada uno. Se puede considerar que una perspectiva es mejor para una persona cuando le ofrece un mayor bienestar [en términos esperados](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-expectacional-versus-utilitarismo-objetivo), o *ex ante*.[^H0] Uniendo estos conceptos, podemos formular el siguiente principio:
 
 > **Pareto *ex ante*:** en una elección entre dos perspectivas, una es moralmente preferible a otra si constituye una perspectiva mejor para algunas personas y una perspectiva peor para ninguna.
 
