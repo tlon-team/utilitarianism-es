@@ -1,4 +1,4 @@
-# utilitarismo-es
+# utilitarianism-es
 
 Spanish translation of `utilitarianism.net`.
 
