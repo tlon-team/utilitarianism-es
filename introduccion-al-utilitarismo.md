@@ -1,9 +1,9 @@
 ---
-titulo: "Introducción al utilitarismo"
-fecha: 2023-01-29
-borrador: false
+title: "Introducción al utilitarismo"
+date: 2023-01-29
+draft: false
 menu: "main"
-peso: 1
+weight: 1
 descripcion: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
@@ -19,7 +19,7 @@ gradientBottom: "#236d9f"
 
 Cuando realizamos juicios morales en la vida cotidiana, a menudo nos basamos en nuestra intuición. Si nos preguntamos si está mal o no comer carne, mentir a un amigo o comprar productos procedentes de fábricas donde se explota a los trabajadores, probablemente tengamos una fuerte intuición moral sobre el tema. Pero confiar únicamente en nuestra intuición moral tiene sus problemas.
 
-Históricamente, la gente tenía creencias que ahora consideramos moralmente horribles. En las sociedades occidentales, antes se creía firmemente que era intuitivamente obvio que las personas de color y las mujeres tenían menos derechos que los hombres blancos, que la homosexualidad era mala y que era permisible poseer esclavos. Ahora vemos que estas intuiciones morales estaban muy equivocadas. Esta trayectoria histórica nos da motivos para preocuparnos por la posibilidad de que nosotros, en la era moderna, también seamos responsables, sin saberlo, de graves errores a gran escala. Sería una coincidencia muy afortunada que la generación presente fuera la primera cuyas intuiciones fueran perfectamente correctas desde el punto de vista moral[^2].
+Históricamente, la gente tenía creencias que ahora consideramos moralmente horribles. En las sociedades occidentales, antes se creía firmemente que era intuitivamente obvio que las personas de color y las mujeres tenían menos derechos que los hombres blancos, que la homosexualidad era mala y que era permisible poseer esclavos. Ahora vemos que estas intuiciones morales estaban muy equivocadas. Esta trayectoria histórica nos da motivos para preocuparnos por la posibilidad de que nosotros, en la era moderna, también seamos responsables, sin saberlo, de graves errores a gran escala. Sería una coincidencia muy afortunada que la generación presente fuera la primera cuyas intuiciones fueran perfectamente correctas desde el punto de vista moral.[^2]
 
 Además, la gente tiene intuiciones morales contradictorias, y necesitamos una forma de resolver estos desacuerdos. Consideramos que el proyecto de la filosofía moral consiste en reflexionar sobre nuestras intuiciones morales contradictorias y desarrollar una teoría que nos diga qué debemos hacer y por qué. Esto nos permitirá identificar qué juicios morales actuales son erróneos, permitiéndonos progresar moralmente y actuar de forma más ética.
 
@@ -33,7 +33,7 @@ Aunque la historia no puede decirnos directamente qué teoría moral es la corre
 
 > el principio que regula las relaciones sociales existentes entre los dos sexos —la subordinación jurídica de un sexo al otro— es moralmente incorrecto en sí mismo, y actualmente uno de los principales obstáculos para el mejoramiento humano; y que debería ser sustituido por un principio de perfecta igualdad, que no admita ningún poder o privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
-En una línea similar, [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick) abogó por la educación de las mujeres y la libertad de la educación respecto a las doctrinas religiosas. Los utilitaristas modernos como [Peter Singer](https://altruismoeficaz.net/autores/petera-singer) son férreos defensores de problemas morales acuciantes como la pobreza extrema y la cría intensiva de animales[^8].
+En una línea similar, [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick) abogó por la educación de las mujeres y la libertad de la educación respecto a las doctrinas religiosas. Los utilitaristas modernos como [Peter Singer](https://altruismoeficaz.net/autores/petera-singer) son férreos defensores de problemas morales acuciantes como la pobreza extrema y la cría intensiva de animales.[^8]
 
 Aunque los primeros defensores del utilitarismo aún estaban lejos de acertar en todo, su razonamiento utilitarista les permitió escapar de muchos de los prejuicios morales de su época y alcanzar posiciones morales y políticas más esclarecidas. Los que vivimos hoy en día no somos, por supuesto, menos falibles que nuestros antepasados. Para ayudar a superar nuestros propios prejuicios, nuestras opiniones morales y políticas también pueden beneficiarse de ser sometidas a la prueba de los principios utilitaristas.
 

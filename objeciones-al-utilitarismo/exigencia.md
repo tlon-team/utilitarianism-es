@@ -1,10 +1,10 @@
 ---
-titulo: "La objeción de la exigencia"
-fecha: 2023-01-29
+title: "La objeción de la exigencia"
+date: 2023-01-29
 borrador: "página"
-borrador: false
+draft: false
 menu: ["objeciones"]
-peso: 4
+weight: 4
 pagina: 4
 descripcion: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
 gradientTop: "#430A4A"
@@ -41,7 +41,7 @@ Se puede lograr una reconciliación más firme rechazando la noción ordinaria d
 
 Según el utilitarismo, si alguien debe ser censurado por sus acciones es algo que debe decidirse en función de las consecuencias que se derivarían de ello. Censurar a la gente siempre que no haga el mayor bien posible tendrá probablemente malas consecuencias, porque la desalienta para intentarlo siquiera. En cambio, el utilitarismo suele recomendar que se elogie a las personas que dan pasos en la dirección correcta, aunque no alcancen el ideal utilitarista. Esto muestra cómo la noción utilitarista de "incorrecto" se aleja de lo que el sentido común entiende por esa noción, que está mucho más ligado a la culpabilidad.
 
-De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-utilitarismo.md#reconstruir-la-correccion-moral-utilitarismo-maximizador-de-suficiencia-y-escalar), hacer menos que lo mejor no tiene por qué considerarse "incorrecto". Es simplemente menos de lo que sería ideal. El utilitarismo de suficiencia identifica un umbral mínimo inferior de lo que es "necesario" para evitar la culpabilidad, mientras que el consecuencialismo escalar evita por completo tales umbrales, evaluando en su lugar la calidad moral de las acciones en una escala continua de mejor a peor. Para una persona acomodada es _mejor_ donar el 10% de sus ingresos a una organización benéfica que donar sólo el 1%, lo cual es mejor que no donar nada.
+De hecho, en el utilitarismo [escalar o de suficiencia](../elementos-y-tipos-de-utilitarismo.md#reconstruir-la-correccion-moral-utilitarismo-maximizador-de-suficiencia-y-escalar), hacer menos que lo mejor no tiene por qué considerarse "incorrecto". Es simplemente menos de lo que sería ideal. El utilitarismo de suficiencia identifica un umbral mínimo inferior de lo que es "necesario" para evitar la culpabilidad, mientras que el consecuencialismo escalar evita por completo tales umbrales, evaluando en su lugar la calidad moral de las acciones en una escala continua de mejor a peor. Para una persona acomodada es _mejor_ donar el 10 % de sus ingresos a una organización benéfica que donar sólo el 1 %, lo cual es mejor que no donar nada.
 
 ## Desacreditar la intuición
 

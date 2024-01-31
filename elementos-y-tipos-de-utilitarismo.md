@@ -1,9 +1,9 @@
 ---
-titulo: "Elementos y tipos de utilitarismo"
-fecha: 2023-01-29
-borrador: false
+title: "Elementos y tipos de utilitarismo"
+date: 2023-01-29
+draft: false
 menu: "main"
-peso: 2
+weight: 2
 descripcion: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
@@ -156,11 +156,11 @@ Dadas nuestras limitaciones cognitivas y epistémicas, no podemos prever todas l
 
 > **El utilitarismo de expectativas es la perspectiva según la cual deberíamos promover el _bienestar esperado_.**
 
-El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^20] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10% de probabilidades de salvar 1000 vidas frente a un 50% de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10% x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50% x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
+El utilitarismo de expectativas sostiene que debemos elegir las acciones con el mayor _valor esperado_.[^20] El valor esperado de una acción es la suma del valor de cada uno de los resultados potenciales multiplicado por la probabilidad de que se produzca ese resultado. Este enfoque sigue la [teoría de la utilidad esperada](https://altruismoeficaz.net/temas/utilidad-esperada), la teoría más aceptada sobre cómo tomar decisiones racionales en condiciones de incertidumbre. Así, por ejemplo, según el utilitarismo de expectativas, deberíamos elegir un 10 % de probabilidades de salvar 1000 vidas frente a un 50 % de probabilidades de salvar 150 vidas, porque la primera opción salva 100 vidas esperadas (= 10 % x 1000 vidas), mientras que la segunda salva 75 vidas esperadas (= 50 % x 150 vidas). Esto nos da una explicación de la elección _racional_ desde un punto de vista moral.
 
 El utilitarismo objetivo, por el contrario, considera que el grado en que debemos realizar una acción depende del bienestar que _de hecho_ producirá. El contraste entre ambas posiciones puede ilustrarse mediante un experimento mental:
 
-> **El tratamiento arriesgado:** Una paciente tiene una rinorrea crónica que la dejará, si no se trata, con un bienestar ligeramente inferior para el resto de su vida. El único tratamiento para su enfermedad es muy arriesgado, con sólo un 1% de probabilidades de éxito. Si tiene éxito, el tratamiento la curará por completo, pero en caso contrario provocará su muerte. El médico le administra el tratamiento, éste tiene éxito y la paciente se cura.
+> **El tratamiento arriesgado:** Una paciente tiene una rinorrea crónica que la dejará, si no se trata, con un bienestar ligeramente inferior para el resto de su vida. El único tratamiento para su enfermedad es muy arriesgado, con sólo un 1 % de probabilidades de éxito. Si tiene éxito, el tratamiento la curará por completo, pero en caso contrario provocará su muerte. El médico le administra el tratamiento, éste tiene éxito y la paciente se cura.
 
 La acción del médico, por pura casualidad y contra todo pronóstico, ha tenido el mejor resultado para la paciente, y no tratarla la habría dejado en una peor situación. Por tanto, según el utilitarismo objetivo, el médico ha actuado correctamente. Sin embargo, actuó mal desde la perspectiva del utilitarismo de las expectativas. Las consecuencias esperadas de administrar el tratamiento, con sus abrumadoras probabilidades de matarla, eran mucho peores para la paciente que no administrarle ningún tratamiento. La decisión del médico resultó ser inmensamente afortunada, pero fue extremadamente imprudente e irracional dada la información de que disponía.
 
@@ -240,7 +240,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 - [@Scheffler1994RejectionConsequentialismPhilosophical].
 - [@Sinnott-Armstrong2003Consequentialism].
 
-### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar).
+### Welfarism & Theories of Well-Being (El bienestar y las teorías del bienestar)
 
 - [@Crisp2001Wellbeing].
 - [@Holtug2003WelfarismVeryIdea].

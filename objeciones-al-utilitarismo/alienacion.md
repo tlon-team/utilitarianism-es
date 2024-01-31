@@ -1,10 +1,10 @@
 ---
-titulo: "La objeción de la alienación"
-fecha: 2023-01-29
-tipo: "página"
-borrador: false
+title: "La objeción de la alienación"
+date: 2023-01-29
+type: "página"
+draft: false
 menu: ["objeciones"]
-peso: 5
+weight: 5
 pagina: 5
 descripcion: "Las teorías morales abstractas amenazan con alienarnos de mucho de lo que valoramos. Este artículo explora dos posibles defensas del utilitarismo contra esta acusación. Una recomienda adoptar motivaciones distintas de las explícitamente utilitaristas. La otra argumenta que las preocupaciones adecuadamente concretas pueden subsumirse en motivaciones utilitaristas más generales."
 gradientTop: "#5F3091"

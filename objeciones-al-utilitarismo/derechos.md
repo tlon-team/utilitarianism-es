@@ -1,10 +1,10 @@
 ---
-titulo: "La objeción de los derechos"
-fecha: 2023-01-29
+title: "La objeción de los derechos"
+date: 2023-01-29
 borrador: "página"
-borrador: false
+draft: false
 menu: ["objeciones"]
-peso: 1
+weight: 1
 pagina: 1
 descripcion: "A muchos les parece objetable que el utilitarismo autorice, aparentemente, violaciones flagrantes de derechos en ciertos escenarios hipotéticos, en los que se sacrifica a inocentes en aras del bien mayor. Este artículo explora las mejores maneras en que los utilitaristas podrían responder a esta objeción".
 gradientTop: "#1F1E70"

@@ -1,10 +1,10 @@
 ---
-titulo: "La objeción de la incertidumbre radical"
-fecha: 2023-03-08
-tipo: "page"
-borrador: false
+title: "La objeción de la incertidumbre radical"
+date: 2023-03-08
+type: "page"
+draft: false
 menu: ["objeciones"]
-peso: 8
+weight: 8
 pagina: 8
 descripcion: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
 gradientTop: "#260380"
@@ -53,7 +53,7 @@ En primer lugar, sugiere que los consecuencialistas de expectativas deben basars
 
 En respuesta, Hilary Greaves argumenta que algún principio de indiferencia restringido parece claramente justificado en casos simples de incertidumbre radical, independientemente de los problemas que pudieran afectar a un principio de este tipo completamente general.[^7] Después de todo, parecería totalmente injustificado tener expectativas asimétricas (en lugar de 50/50) sobre la probabilidad de que salvar hoy la vida de una persona pueda causar o evitar que se produzcan genocidios dentro de milenios. Así que podemos ignorar razonablemente esos factores causales aleatorios.
 
-Sin embargo, como señala la propia Greaves, esto deja sin resolver los casos de "incertidumbre radical compleja", que implican no sólo algunas razones para pensar que una opción es _sistemáticamente mejor_ que otra para el futuro a largo plazo, sino también otras razones para creer lo contrario, y no está claro cómo sopesar estas distintas razones.[^8] Por ejemplo, si evitar la muerte de niños por malaria tiende a resultar en un aumento duradero de la población mundial, hay algunas razones para juzgarlo positivamente, y otras razones para juzgarlo malo globalmente (debido a la "superpoblación")[^9]. Si estamos seguros de que existe un efecto sistemático, pero no estamos seguros de su dirección, entonces es menos obvio que sea razonable ignorarlo. Al menos, no parece que el principio de indiferencia se aplique adecuadamente en este caso: no parece justificado suponer que una población mayor tenga las mismas probabilidades de ser buena o mala.
+Sin embargo, como señala la propia Greaves, esto deja sin resolver los casos de "incertidumbre radical compleja", que implican no sólo algunas razones para pensar que una opción es _sistemáticamente mejor_ que otra para el futuro a largo plazo, sino también otras razones para creer lo contrario, y no está claro cómo sopesar estas distintas razones.[^8] Por ejemplo, si evitar la muerte de niños por malaria tiende a resultar en un aumento duradero de la población mundial, hay algunas razones para juzgarlo positivamente, y otras razones para juzgarlo malo globalmente (debido a la "superpoblación").[^9] Si estamos seguros de que existe un efecto sistemático, pero no estamos seguros de su dirección, entonces es menos obvio que sea razonable ignorarlo. Al menos, no parece que el principio de indiferencia se aplique adecuadamente en este caso: no parece justificado suponer que una población mayor tenga las mismas probabilidades de ser buena o mala.
 
 No obstante, los consecuencialistas pueden repetir el argumento anterior de que las razones "invisibles" (incognoscibles) no pueden guiar nuestras acciones, por lo que las únicas razones que nos quedan son las "visibles" (cognoscibles), que hablan a favor de salvar vidas y otros actos aparentemente buenos hasta que se demuestre lo contrario. Esta respuesta no se basa en ningún principio de indiferencia. En lugar de ello, subraya que la carga de la prueba recae en el escéptico, que debe demostrar _cómo_ deberíamos revisar nuestro juicio inicial de que salvar la vida de un niño tiene un valor esperado de "una vida salvada". Darnos por vencido ante una situación de incertidumbre radical compleja no parece preferible. Así que, hasta tanto se nos ofrezca una alternativa mejor, lo más razonable es mantener nuestro juicio inicial.[^10]
 
@@ -145,7 +145,7 @@ Para una defensa relacionada de la "racionalidad procedimental" de confiar en la
      [@Lenman2000ConsequentialismCluelessness, p. 360].
 
 [^13]:
-     Por ejemplo, un 10% de probabilidades de salvar un millón de vidas es mejor en términos esperados que salvar una vida con seguridad, aunque esta última opción tenga un 90% de probabilidades de producir un resultado mejor. Lo que importa son las magnitudes y probabilidades exactas, y no lo que es "más probable" que sea mejor (por poco que sea).
+     Por ejemplo, un 10 % de probabilidades de salvar un millón de vidas es mejor en términos esperados que salvar una vida con seguridad, aunque esta última opción tenga un 90 % de probabilidades de producir un resultado mejor. Lo que importa son las magnitudes y probabilidades exactas, y no lo que es "más probable" que sea mejor (por poco que sea).
 
 [^14]:
      Una característica importante de la maximización del valor esperado es que no podemos esperar que ninguna alternativa que podamos identificar subjetivamente tenga mejores resultados en el límite (es decir, imaginando que decisiones similares se repiten un número suficiente de veces, en diferentes mundos posibles de ser necesario).

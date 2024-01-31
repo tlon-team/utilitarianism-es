@@ -1,9 +1,9 @@
 ---
-titulo: "Actuar conforme al utilitarismo"
+title: "Actuar conforme al utilitarismo"
 date: 2023-01-29
-borrador: false
+draft: false
 menu: "acting"
-peso: 5
+weight: 5
 ---
 > Crea toda la felicidad que seas capaz de crear; elimina toda la miseria que seas capaz de eliminar. Cada día te permitirá, te invitará a añadir algo al placer de los demás, o a disminuir algo de sus penas."_ \
 > \- [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^1]

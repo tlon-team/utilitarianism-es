@@ -1,11 +1,11 @@
 ---
-titulo: "La objeción de la igualdad"
-fecha: 2023-01-29
-tipo: "página"
-borrador: false
+title: "La objeción de la igualdad"
+date: 2023-01-29
+type: "página"
+draft: false
 menu: ["objeciones"]
-peso: 7
-página: 7
+weight: 7
+page: : 7
 descripcion: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
 gradientTop: "#531694"
 gradientBottom: "#260380"
@@ -85,5 +85,5 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 [^2]: Cf. [@Drupp2018DiscountingDisentangled].
 [^3]: [@Parfit1997EqualityPriority].
 [^4]: Aunque esto deja abierta la elección entre el enfoque utilitarista de la [igual consideración de intereses](../elementos-y-tipos-de-utilitarismo.md#imparcialidad-y-igual-consideracion-de-intereses) y el enfoque [prioritarista](../alternativas-cercanas-al-utilitarismo.md#prioritarismo) de dar un peso extra a los intereses de los menos favorecidos.
-[^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50% de 200 de bienestar o de 0 de bienestar.
+[^5]: De hecho, la forma estándar de definir una magnitud de bienestar es en términos de decisiones racionales en condiciones de incertidumbre. Desde este punto de vista, que un resultado proporcione 100 de bienestar significa que uno, por ejemplo, debería ser indiferente entre ese resultado y una probabilidad del 50 % de 200 de bienestar o de 0 de bienestar.
 [^6]: Cf. [@Harsanyi1955CardinalWelfareIndividualistic].

@@ -1,10 +1,10 @@
 ---
-titulo: "La objeción de la separación de las personas"
-fecha: 2023-01-29
-tipo: "página"
-borrador: false
+title: "La objeción de la separación de las personas"
+date: 2023-01-29
+type: "página"
+draft: false
 menu: ["objeciones"]
-peso: 3
+weight: 3
 pagina: 3
 descripcion: "La idea de que el utilitarismo ignora la 'separación de las personas' ha probado ser una objeción ampliamente influyente. Pero es una objeción difícil de precisar. Este artículo explora tres posibles interpretaciones de la objeción, y cómo los utilitaristas podrían responder a cada una de ellas."
 gradientTop: "#571B9E"

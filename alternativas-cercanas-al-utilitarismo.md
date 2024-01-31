@@ -1,9 +1,9 @@
 ---
-titulo: "Alternativas cercanas al utilitarismo"
+title: "Alternativas cercanas al utilitarismo"
 date: 2023-01-29
-borrador: false
+draft: false
 menu: "main"
-peso: 7
+weight: 7
 descripcion: "Hay varias maneras de rechazar aspectos del utilitarismo sin dejar de estar de acuerdo con la idea central de la teoría (al menos en la práctica). Este capítulo explora una serie de teorías cercanas al utilitarismo para demostrar la solidez de sus recomendaciones prácticas. Incluso alguien que considera que la teoría es técnicamente falsa puede tener buenas razones para estar de acuerdo, en buena medida, con sus veredictos prácticos."
 gradientTop: "#305D9C"
 gradientBottom: "#1F2A70"
@@ -53,7 +53,7 @@ El igualitarismo es la perspectiva de que la desigualdad es mala _en sí misma_,
 
 Los utilitaristas tienden a favorecer la igualdad exclusivamente por razones instrumentales, es decir, porque unos resultados más igualitarios tienden a promover mejor el bienestar general. Debido al valor marginal decreciente del dinero, por ejemplo, un dólar extra supone una diferencia mucho mayor para un indigente que para un multimillonario.
 
-Los igualitaristas consideran que esta valoración meramente instrumental de la igualdad no va lo suficientemente lejos. Por ejemplo, pueden preferir un mundo en el que todos reciben cincuenta años de vida feliz a una alternativa en la que en promedio reciben sesenta años de vida feliz gracias a que el 75% de la población vive feliz hasta los 70 años mientras que el 25% muere prematuramente a los 30 años. Aunque este resultado desigual contiene (podemos suponer) más bienestar general, los igualitaristas pueden, no obstante, considerarlo peor debido al disvalor de la desigualdad.
+Los igualitaristas consideran que esta valoración meramente instrumental de la igualdad no va lo suficientemente lejos. Por ejemplo, pueden preferir un mundo en el que todos reciben cincuenta años de vida feliz a una alternativa en la que en promedio reciben sesenta años de vida feliz gracias a que el 75 % de la población vive feliz hasta los 70 años mientras que el 25 % muere prematuramente a los 30 años. Aunque este resultado desigual contiene (podemos suponer) más bienestar general, los igualitaristas pueden, no obstante, considerarlo peor debido al disvalor de la desigualdad.
 
 Observemos que hay dos maneras de remediar la desigualdad: se puede mejorar la situación de los más desfavorecidos o se puede _empeorar_ la situación de los más acomodados, para que todos estén al mismo nivel. Es evidente que la primera opción es mejor desde el punto de vista del bienestar. Pero cualquiera de las dos vías puede reducir la desigualdad y, por tanto, considerarse una "mejora" desde el punto de vista igualitario. Según la _objeción de igualar hacia abajo_, el igualitarismo tiene la desventaja de que implica que hay _algo_ bueno en perjudicar a los que están mejor aunque no se ayude a nadie.[^5] Los bienestaristas creen, por el contrario, que estos perjuicios son _completamente_ malos.[^6]
 
@@ -166,7 +166,7 @@ El siguiente capítulo analiza varias de las objeciones más importantes al util
 [^7]: [@Parfit1997EqualityPriority, p. 213].
 [^8]: Los párrafos siguientes están tomados directamente de [@Chappell2021ParfitEthics].
 [^9]:
-    Suponemos, para simplificar, que el prioritarismo se aplica al bienestar en cada momento y no a lo largo de toda la vida. Para esta última perspectiva, la objeción debe modificarse para incluir comparaciones contrafácticas en lugar de temporales. Supongamos que Shane será más feliz si una moneda sale cara, y además puede otorgarse a sí mismo uno de dos beneficios condicionales: un beneficio mayor si la moneda sale cara, o un beneficio menor si sale cruz. Si los beneficios a los más desfavorecidos importan más, y él se ve desfavorecido cuando sale cruz, entonces el prioritarismo puede recomendar el 50% de posibilidades de un beneficio menor (en caso de que salga cruz) como un opción superior al 50% de posibilidades de un beneficio mayor. Pero esta no sería la elección prudente.
+    Suponemos, para simplificar, que el prioritarismo se aplica al bienestar en cada momento y no a lo largo de toda la vida. Para esta última perspectiva, la objeción debe modificarse para incluir comparaciones contrafácticas en lugar de temporales. Supongamos que Shane será más feliz si una moneda sale cara, y además puede otorgarse a sí mismo uno de dos beneficios condicionales: un beneficio mayor si la moneda sale cara, o un beneficio menor si sale cruz. Si los beneficios a los más desfavorecidos importan más, y él se ve desfavorecido cuando sale cruz, entonces el prioritarismo puede recomendar el 50 % de posibilidades de un beneficio menor (en caso de que salga cruz) como un opción superior al 50 % de posibilidades de un beneficio mayor. Pero esta no sería la elección prudente.
 
     Esto supone que el prioritarismo adopta una forma _ex post_. Para objeciones al prioritarismo _ex ante_, véase [@Gustafsson2022ExAntePrioritarianism].
 [^10]: [@Greene2001IntuitionsDecliningMarginal].

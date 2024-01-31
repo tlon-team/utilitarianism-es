@@ -1,9 +1,9 @@
 ---
-titulo: "Argumentos a favor del utilitarismo"
-fecha: 2023-01-29
-borrador: false
+title: "Argumentos a favor del utilitarismo"
+date: 2023-01-29
+draft: false
 menu: "main"
-peso: 3
+weight: 3
 descripcion: "Este capítulo explica el equilibrio reflexivo como metodología moral y presenta varios argumentos a favor del utilitarismo respecto de los enfoques morales no consecuencialistas."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
