@@ -84,10 +84,10 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarismoCrashCourse].
+- [@Crashcourse2016UtilitarianismCrashCourse].
 - [@Lazari-Radek2017UtilitarianismVeryShort].
 - [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@2023WhatIsUtilitarianism].
+- [@Appiah2022WhatIsUtilitarianism].
 
 ### Los Clásicos
 
@@ -97,15 +97,15 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
 
 ### Más información
 
-- [@Driver2022HistoriaDelUtilitarismo].
-- [@Schultz2017FelicidadVidaDeLosFilósofos].
+- [@Driver2022HistoryOfUtilitarianism].
+- [@Schultz2017HappinessPhilosophersLives].
 - [@Crimmins2013BloomsburyEncyclopediaUtilitarianism].
 - [@Parfit2011WhatMatters].
 - [@Ng1990WelfarismUtilitarianismRehabilitation].
 
 [^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase [@Williams2015PosibilidadOngoingMoral].
+[^2]: Para más detalles, véase [@Williams2015PossibilityOngoingMoral].
 
 [^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
 

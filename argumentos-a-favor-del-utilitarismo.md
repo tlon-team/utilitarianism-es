@@ -186,7 +186,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 [^H3]: [@Hare2016ShouldWeWish, pp. 454–455].
 
-[^H4]: <cite>[@Hare2016ShouldWeWish]</cite> discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
+[^H4]: El artículo <cite>[@Hare2016ShouldWeWish]</cite> discute los motivos de escepticismo de algunos filósofos sobre el significado moral de la _justificabilidad ex ante para todos_, y apoya el principio con argumentos adicionales de _consentimiento presunto_, _manos sucias_ y _composición_.
 
 [^11]: [@Singer2011ExpandingCircleEthics].
 [^12]: [@Williams2015PossibilityOngoingMoral].
@@ -200,8 +200,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 [^19]: [@Chappell2011IntuitionSystemAnd].
 [^20]: El deontólogo puede insistir en que debería ser más importante _para Jack_, aunque no lo sea para nadie más. Pero esto se opone a la idea atractiva de que el punto de vista moral es imparcial y capaz de producir veredictos sobre los que observadores razonables (y no sólo el propio agente) podrían estar de acuerdo.
 [^21]:
-    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot ([@Foot1967ProblemAbortionDoctrine, p. 26]): "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine."
-
+    Por ejemplo, podrías inquietar a tu cónyuge permaneciendo oculto en un camuflaje, cuando hubiera jurado que estabas en la habitación haciéndole compañía. O, como sugiere Foot: "Un actor que no se presenta a una representación normalmente la arruinará, en lugar de permitir que se arruine" ([@Foot1967ProblemAbortionDoctrine, p. 26]).
 [^22]: [@Beauchamp2020JustifyingPhysicianAssisted].
 [^23]: [@Bennett1995ActItself].
 [^24]:
