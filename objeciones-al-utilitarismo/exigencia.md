@@ -77,11 +77,11 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 - [@Berkey2016DemandingnessOfMorality].
 - [@Bykvist2010UtilitarianismGuidePerplexed, chap. 7: ¿Es el utilitarismo demasiado exigente?].
-- @Kagan1982¿Es el consecuencialismo demasiado exigente?
-- @Lazari-Radek2014PointViewUniverse, pp. 317–336].
-- @Singer1972FamineAffluenceMorality].
-- @Sobel2007ImpotenciaExigenciaObjeción].
-- @Wolf1982SantosMorales].
+- [@Kagan1982DoesConsequentialismDemand].
+- [@Lazari-Radek2014PointViewUniverse, pp. 317–336].
+- [@Singer1972FamineAffluenceMorality].
+- [@Sobel2007ImpotenceDemandingnessObjection].
+- [@Wolf1982MoralSaints].
 
 [^1]: Cf. [@Wolf1982MoralSaints].
 [^2]: [@Givewell2022AgainstMalariaFoundation].
