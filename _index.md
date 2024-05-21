@@ -35,7 +35,7 @@ La versión original y más influyente del utilitarismo es el _utilitarismo clá
 
 ## Introducción al utilitarismo: Un libro de texto en línea
 
-Este sitio web sirve como libro de texto de introducción al utilitarismo de nivel universitario. Ofrece una introducción concisa, accesible y atractiva al utilitarismo moderno. El contenido de este sitio web pretende ser comprensible para un público amplio, evitando en lo posible la jerga filosófica y proporcionando definiciones cuando sea necesario.
+Este sitio web sirve como libro de texto de introducción al utilitarismo de nivel universitario. Ofrece una introducción concisa, accesible y estimulante al utilitarismo moderno. El contenido de este sitio web pretende ser comprensible para un público amplio, evitando en lo posible la jerga filosófica y proporcionando definiciones cuando sea necesario.
 
 {{< index-navigation >}}
 
