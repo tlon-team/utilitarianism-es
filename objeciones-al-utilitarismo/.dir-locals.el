@@ -6,5 +6,5 @@
 		   (eval . (add-hook 'after-save-hook #'tlon-autofix-all nil t))
 		   ;; (eval . (add-hook 'after-save-hook #'tlon-check-file-title-match nil t))
                    ;; (eval . (add-hook 'after-save-hook #'tlon-yaml-reorder-front-matter nil t))
-		   (eval . (add-hook 'after-save-hook #'tlon-highlight-url-correspondences nil t))
+		   ;; (eval . (add-hook 'after-save-hook #'tlon-highlight-url-correspondences nil t))
 		   (eval . (add-hook 'before-save-hook #'tlon-md-sort-related-entries nil t)))))
