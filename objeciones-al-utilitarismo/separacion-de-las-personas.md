@@ -1,12 +1,14 @@
 ---
 title: "La objeción de la separación de las personas"
+slug: "separacion-de-las-personas"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
-type: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 3
-pagina: 3
-descripcion: "La idea de que el utilitarismo ignora la 'separación de las personas' ha probado ser una objeción ampliamente influyente. Pero es una objeción difícil de precisar. Este artículo explora tres posibles interpretaciones de la objeción, y cómo los utilitaristas podrían responder a cada una de ellas."
+page: 3
+description: "La idea de que el utilitarismo ignora la 'separación de las personas' ha probado ser una objeción ampliamente influyente. Pero es una objeción difícil de precisar. Este artículo explora tres posibles interpretaciones de la objeción, y cómo los utilitaristas podrían responder a cada una de ellas."
 gradientTop: "#571B9E"
 gradientBottom: "#430A4A"
 ---
@@ -31,7 +33,7 @@ En una interpretación más amplia, podemos considerar que la objeción afirma q
 La interpretación estándar de la separación de las personas la entiende como una cuestión de _indemnización_.[^3] El agente que resulta perjudicado es _indemnizado_ si más tarde recibe un mayor beneficio por haber sufrido el perjuicio, mientras que no recibe tal compensación si el beneficio va a parar a otra persona. Como dijo Nozick “Utilizar a una persona [en beneficio de otra]… no respeta ni tiene suficientemente en cuenta el hecho de que es una persona separada, que la suya es la única vida que tiene. _Él_ no obtiene un bien compensatorio por su sacrificio.”[^4]
 
 Los utilitaristas pueden responder que no sólo debemos ayudar a los demás por interés propio.[^5] Puede que los ricos no se beneficien personalmente de [donar más a organizaciones benéficas que salvan vidas](../actuar-conforme-al-utilitarismo.md#salud-y-desarrollo-globales), pero aun así deberían hacerlo, porque sus intereses personales _no son los únicos que importan_. Cada persona necesitada es un individuo, igualmente merecedor de preocupación moral y respeto, que vive la única vida que tiene. Cuando el utilitarismo nos insta a ayudar a los demás, no niega que los demás sean distintos de nosotros. Simplemente niega la suposición [egoísta](../alternativas-cercanas-al-utilitarismo.md#egoismo-y-parcialismo) de que el hecho de que sean distintos significa que no deberían importarnos. Y, de hecho, esto no es exclusivo de los utilitaristas. Como escriben Katarzyna de Lazari-Radek y [Peter Singer](https://altruismoeficaz.net/autores/peter-singer), “[c]ualquiera que esté a favor de cobrar impuestos a las personas de altos ingresos y utilizar lo recaudado para proporcionar beneficios a otras personas necesitadas debe estar de acuerdo en que a veces es justificable imponer un costo a una persona para beneficiar a otra.”[^6] Si rechazamos el egoísmo, también deberíamos rechazar el supuesto de que la indemnización es esencial para la justificación moral.[^7]
- 
+
 ## Fungibilidad
 
 Una preocupación más profunda es que podría parecer que el utilitarismo trata a los individuos como totalmente fungibles o remplazables sin remordimiento. Según la caracterización de Peter Singer, “[e]s como si los seres sintientes fueran receptáculos de algo valioso, y no importara si un receptáculo se rompe mientras haya otro al que pueda transferirse su contenido sin que se derrame nada."[^8]
@@ -104,9 +106,9 @@ Hemos visto que la objeción de la "separación de las personas" al utilitarismo
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y más información
 

@@ -1,12 +1,14 @@
 ---
 title: "La objeción de la abusabilidad"
+slug: "abusabilidad"
+authors: "Chappell, R.Y."
 date: 2023-03-08
-type: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 9
-page: : 9
-descripcion: "Algunas personas argumentan que el utilitarismo recomienda su propia desaparición, es decir, desaconseja que se lo acepte, debido al riesgo de que las apelaciones erróneas al 'bien mayor' en la practica conduzcan a que se realicen acciones terriblemente nocivas. Este artículo explora la mejor manera de protegerse contra tales riesgos, y cuestiona si es una objeción a una teoría la posibilidad de que cause su propia desaparición."
+página: 9
+description: "Algunas personas argumentan que el utilitarismo recomienda su propia desaparición, es decir, desaconseja que se lo acepte, debido al riesgo de que las apelaciones erróneas al 'bien mayor' en la practica conduzcan a que se realicen acciones terriblemente nocivas. Este artículo explora la mejor manera de protegerse contra tales riesgos, y cuestiona si es una objeción a una teoría la posibilidad de que cause su propia desaparición."
 gradientTop: "#6F4BC9"
 gradientBottom: "#57579d"
 ---
@@ -69,9 +71,9 @@ Aun así, al fin y al cabo no hay garantía de que las creencias verdaderas sean
 
 {{< next-page-objection hide-next="true" end-objection="true" >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y Más información
 

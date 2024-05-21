@@ -1,12 +1,14 @@
 ---
 title: "La objeción de la incertidumbre radical"
+slug: "incertidumbre-radical"
+authors: "Chappell, R.Y."
 date: 2023-03-08
-type: "page"
+tipo: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 8
-pagina: 8
-descripcion: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
+page: 8
+description: "¿Se ve socavado el utilitarismo por nuestra incapacidad para predecir las consecuencias a largo plazo de nuestras acciones? Este artículo explora si los utilitaristas pueden seguir guiándose por el valor esperado a corto plazo incluso cuando es pequeño en comparación con el valor o disvalor potencial de las consecuencias a largo plazo desconocidas."
 gradientTop: "#260380"
 gradientBottom: "#6F4BC9"
 ---
@@ -91,9 +93,9 @@ Hay razones para dudar de que la incertidumbre radical constituya realmente una 
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y Más información
 
@@ -157,7 +159,7 @@ Para una defensa relacionada de la "racionalidad procedimental" de confiar en la
 Resulta sorprendente que incluso Lenman admita que “es muy plausible que las consecuencias invisibles de la acción también importen”, aunque añada que “no hay ninguna razón clara para suponer que esta importancia sea moralmente relevante, así como tampoco son cuestiones de preocupación moral las consecuencias, visibles o no, de los terremotos o de los impactos de meteoritos (aunque ciertamente pueden importar enormemente). No hay nada particularmente irrazonable en ello. Se trata simplemente de decir, por ejemplo, que los crímenes de Hitler, aunque fueron algo terrible, no son algo que podamos plantear sensatamente en la discusión sobre las deficiencias o excelencias morales de [alguien que salvó la vida de un antepasado lejano de Hitler]” ([@Lenman2000ConsequentialismCluelessness, p. 364]).
 
     Este es un uso extraño de "importancia moral". Está claro que los agentes morales deberían preocuparse por los terremotos, los meteoritos y los futuros dictadores genocidas. (Como mínimo, deberíamos preferir que hubiera menos de esas cosas, como parte de nuestra preocupación benéfica por los demás en general.) Un agente que fuera realmente _indiferente_ a estas cosas no sería un agente virtuoso: su indiferencia revela un desprecio insensible por las personas futuras. Por tanto, no cabe duda de que podría constituir un "fallo moral" no preocuparse por tales acontecimientos perniciosos.
-    
+
     Por otro lado, si Lenman realmente sólo quiere decir que _el hecho de que ocurran realmente determinadas consecuencias imprevisibles_ no debería alterar nuestra valoración de las "deficiencias o excelencias morales" de una persona, entonces esto parece una verdad de Perogrullo que no amenaza en modo alguno el consecuencialismo. Es un punto conocido que muchas formas de evaluación agencial (por ejemplo, la racionalidad, la virtud, etc.) son “internalistas” —en el sentido de que sobrevienen a las propiedades intrínsecas del agente, y no a lo que sucede en el mundo externo, más allá de su control. [Los utilitaristas híbridos](/tipos-de-utilitarismo#utilitarismo-global-y-utilitarismo-híbrido) combinan cómodamente ese internalismo sobre las valoraciones agenciales con un análisis utilitarista de nuestras razones para actuar.
 
 [^17]:

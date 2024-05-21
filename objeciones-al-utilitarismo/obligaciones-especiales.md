@@ -1,12 +1,14 @@
 ---
 title: "La objeción de las obligaciones especiales"
+slug: "obligaciones-especiales"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
-type: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 6
-pagina: 6
-descripcion: "Relaciones como la paternidad o la tutela aparentemente dan lugar a obligaciones especiales de proteger a quienes caen bajo nuestro cuidado (siendo estas obligaciones más estrictas que nuestros deberes generales de beneficencia hacia los extraños). Este artículo explora hasta qué punto el utilitarismo imparcial puede dar cabida a intuiciones y prácticas normativas de parcialidad."
+page: 6
+description: "Relaciones como la paternidad o la tutela aparentemente dan lugar a obligaciones especiales de proteger a quienes caen bajo nuestro cuidado (siendo estas obligaciones más estrictas que nuestros deberes generales de beneficencia hacia los extraños). Este artículo explora hasta qué punto el utilitarismo imparcial puede dar cabida a intuiciones y prácticas normativas de parcialidad."
 gradientTop: "#822FA8"
 gradientBottom: "#531694"
 ---
@@ -63,9 +65,9 @@ Frente a quienes insisten en la parcialidad en un nivel teórico fundamental, lo
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y más información
 

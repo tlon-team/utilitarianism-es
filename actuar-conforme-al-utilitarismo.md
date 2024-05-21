@@ -1,5 +1,7 @@
 ---
 title: "Actuar conforme al utilitarismo"
+slug: "actuar-conforme-al-utilitarismo"
+authors: "MacAskill, W. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "acting"
@@ -60,7 +62,10 @@ Dado que algunos problemas morales pueden ser mucho más importantes que otros, 
 
 ### Salud y desarrollo globales
 
-> _”Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente."_ <br> \- Derek Parfit[^11]
+> _”Algo que importa mucho es que nosotros, los ricos, hayamos permitido gran parte del sufrimiento y muchas de las muertes prematuras de las personas más pobres del mundo que podríamos haber evitado muy fácilmente."_
+>
+> – Derek Parfit[^11]
+{ .align-author-right }
 
 Como se explica en el capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#cosmopolitismo), los utilitaristas apoyan el cosmopolitismo, según el cual la distancia geográfica entre un actor y el beneficiario potencial de su ayuda no es moralmente relevante en sí misma. El cosmopolitismo implica que debemos buscar intervenciones eficaces para ayudar a los demás, con independencia de su nacionalidad, de su lugar de residencia o de su procedencia.
 
@@ -74,7 +79,10 @@ Otras formas de ayudar a los más pobres, costo-eficaces y respaldadas por evide
 
 ### Bienestar animal en las granjas
 
-> La pregunta no es ‘¿Pueden *razonar*?’, ni ‘¿Pueden *hablar*?’, sino ‘¿Pueden *sufrir*?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire."_ <br> \- [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^17]
+> _La pregunta no es ‘¿Pueden **razonar**?’, ni ‘¿Pueden **hablar**?’, sino ‘¿Pueden **sufrir**?’ ¿Por qué debería la ley negar su protección a cualquier ser sensible?… Llegará el momento en que la humanidad extenderá su manto sobre todo lo que respire."_
+>
+> – [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham)[^17]
+{ .align-author-right }
 
 Mejorar el bienestar de los animales de granja debería ser una alta prioridad moral para los utilitaristas. El argumento para llegar a esta conclusión es sencillo: primero, los animales importan moralmente; segundo, los humanos causan una enorme cantidad de sufrimiento innecesario a los animales en los criaderos intensivos; tercero, hay formas fáciles de reducir el número de animales de granja y la gravedad de su sufrimiento. Examinaremos estas premisas una por una.
 
@@ -92,7 +100,10 @@ En EE. UU., sólo se donan unas pocas decenas de millones de dólares filantró
 
 ### Reducción del riesgo existencial
 
-> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad."_ \- Derek Parfit[^23]
+> Los utilitaristas clásicos... afirmarían, como Sidgwick, que la destrucción de la humanidad sería con mucho el mayor de todos los crímenes concebibles. La gravedad de este crimen residiría en la enorme reducción de la suma posible de felicidad."
+>
+> — Derek Parfit[^23]
+{ .align-author-right }
 
 El capítulo [Utilitarismo y ética práctica](./utilitarismo-y-etica-practica.md#largoplacismo) introdujo el _largoplacismo fuerte_, según el cual el determinante más importante del valor de nuestras acciones presentes es cómo afectan al futuro a largo plazo. El largoplacismo fuerte se deriva del utilitarismo —y de muchos otros puntos de vista morales— si asumimos que algunas de nuestras acciones pueden influir significativamente en el futuro a largo plazo y que podemos estimar sus efectos positivos y negativos.[^24]
 
@@ -150,7 +161,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 
 {{< acting-buttons >}}
 
-{{< how-to-cite authors="MacAskill, W. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 ## Recursos y más información
 
@@ -176,7 +187,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
   - [@Harris2021DoingGoodConversation].
   - [@Harris2016WhatMoralProgress].
   - [Utilitarian Podcast](https://podcasts.apple.com/us/podcast/utilitarian/id1529734932). Pódcast sobre utilitarismo presentado por Gus Docker.
-  
+
 
 ### Salud y desarrollo globales
 

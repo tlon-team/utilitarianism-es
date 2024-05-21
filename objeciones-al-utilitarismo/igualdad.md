@@ -1,12 +1,14 @@
 ---
 title: "La objeción de la igualdad"
+slug: "igualdad"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
-type: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 7
-page: : 7
-descripcion: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
+página: 7
+description: "El utilitarismo se preocupa por el bienestar general de las personas en la población, pero muchos objetan que la justicia requiere una preocupación adicional por la forma en que este bienestar se distribuye entre las personas. Este artículo examina esta objeción y cuáles son las mejores respuestas que los utilitaristas podrían ofrecer."
 gradientTop: "#531694"
 gradientBottom: "#260380"
 ---
@@ -69,9 +71,9 @@ Por último, los defensores del utilitarismo pueden, una vez más, aceptar que e
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y Más información
 

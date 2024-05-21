@@ -2,11 +2,11 @@
 ---
 title: "Objeciones al utilitarismo y respuestas"
 date: 2023-01-29
-type: false
+tipo: false
 menu: ["objeciones", "principal"]
 weight: 100
-pagina: 0
-descripcion: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
+page: 0
+description: "Este capítulo presenta una caja de herramientas con estrategias generales para responder a las objeciones al utilitarismo, antes de introducir las objeciones específicas más influyentes a la teoría."
 gradientTop: "#1F2A70"
 gradientBottom: "#1F1E70"
 ---
@@ -15,7 +15,7 @@ gradientBottom: "#1F1E70"
 > Katarzyna de Lazari-Radek & [Peter Singer](https://altruismoeficaz.net/autores/peter-singer)[^1]
 
 {{< TOC >}}
- 
+
 El utilitarismo es una teoría moral muy controvertida. Los críticos han planteado muchas objeciones en su contra, y sus defensores han respondido con intentos de desarticularlas.
 
 Aunque nuestra presentación se centra en el utilitarismo, vale la pena señalar que muchas de las objeciones que se exponen a continuación también podrían utilizarse para cuestionar [otras formas de consecuencialismo](../alternativas-cercanas-al-utilitarismo.md) (del mismo modo que muchos de los [argumentos a favor del utilitarismo](../argumentos-a-favor-del-utilitarismo.md) también se aplican a estos puntos de vista relacionados). Este capítulo explora las objeciones al utilitarismo y puntos de vista estrechamente relacionados en contraposición a los enfoques no consecuencialistas de la ética.

@@ -1,10 +1,12 @@
 ---
 title: "Argumentos a favor del utilitarismo"
+slug: "argumentos-a-favor-del-utilitarismo"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
 weight: 3
-descripcion: "Este capítulo explica el equilibrio reflexivo como metodología moral y presenta varios argumentos a favor del utilitarismo respecto de los enfoques morales no consecuencialistas."
+description: "Este capítulo explica el equilibrio reflexivo como metodología moral y presenta varios argumentos a favor del utilitarismo respecto de los enfoques morales no consecuencialistas."
 gradientTop: "#012147"
 gradientBottom: "#084BC7"
 ---
@@ -131,7 +133,7 @@ El siguiente capítulo analiza las teorías del bienestar, es decir, lo que se c
 
 {{< next-page-textbook title="Teorías del bienestar" url="/teorias-del-bienestar" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

@@ -1,10 +1,12 @@
 ---
 title: "Elementos y tipos de utilitarismo"
+slug: "elementos-y-tipos-de-utilitarismo"
+authors: "MacAskill, W., Meissner, D., y Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
 weight: 2
-descripcion: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
+description: "Tras definir el utilitarismo, este capítulo ofrece un análisis detallado de sus cuatro elementos clave (consecuencialismo, bienestarismo, imparcialidad y agregacionismo). Explica la diferencia entre utilitarismo maximizador, satisfaccionista y escalar, y otras distinciones importantes entre las teorías utilitaristas."
 gradientTop: "#236d9f"
 gradientBottom: "#012147"
 ---
@@ -25,7 +27,7 @@ Las teorías utilitaristas comparten cuatro elementos definitorios:
 
 Combinándolos, podemos definir el utilitarismo de la siguiente manera:
 
->  **El utilitarismo es la teoría de que uno debe siempre promover el bienestar general.**
+> **El utilitarismo es la teoría de que uno debe siempre promover el bienestar general.**
 
 A veces los filósofos hablan de "utilidad" en lugar de "bienestar", pero normalmente significan lo mismo.
 
@@ -228,7 +230,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 
 {{< next-page-textbook title="Argumentos-a-favor-del-utilitarismo" url="/arguments-for-utilitarianism" >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., y Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 

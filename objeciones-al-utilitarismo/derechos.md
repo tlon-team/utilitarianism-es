@@ -1,12 +1,14 @@
 ---
 title: "La objeción de los derechos"
+slug: "derechos"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
-borrador: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 1
-pagina: 1
-descripcion: "A muchos les parece objetable que el utilitarismo autorice, aparentemente, violaciones flagrantes de derechos en ciertos escenarios hipotéticos, en los que se sacrifica a inocentes en aras del bien mayor. Este artículo explora las mejores maneras en que los utilitaristas podrían responder a esta objeción".
+page: 1
+description: "A muchos les parece objetable que el utilitarismo autorice, aparentemente, violaciones flagrantes de derechos en ciertos escenarios hipotéticos, en los que se sacrifica a inocentes en aras del bien mayor. Este artículo explora las mejores maneras en que los utilitaristas podrían responder a esta objeción."
 gradientTop: "#1F1E70"
 gradientBottom: "#371E87"
 ---
@@ -65,13 +67,13 @@ Por supuesto, es importante subrayar que la vida real no viene con tales estipul
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y Más información
 
-- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 4: Objections], sec. “Does utilitarianism tell us to act immorally?”. 
+- [@Lazari-Radek2017UtilitarianismVeryShort, chap. 4: Objections], sec. “Does utilitarianism tell us to act immorally?”.
 - [@Bykvist2010UtilitarianismGuidePerplexed, chap. 8: Is Utilitarianism too permissive?].
 - [@Kagan1998NormativeEthics, chap. 3].
 - [@Kagan1989LimitsMorality].

@@ -1,15 +1,20 @@
 ---
 title: "Teorías del bienestar"
+slug: "teorias-del-bienestar"
+authors: "Chappell, R.Y. y Meissner, D."
 date: 2023-01-29
 draft: false
 menu: "main"
 weight: 4
-descripcion: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
+description: "Explora las tres principales teorías del bienestar, o lo que hace que una vida sea buena para el individuo que la vive: el hedonismo, la teoría del deseo y la teoría de la lista objetiva."
 gradientTop: "#084BC7"
 gradientBottom: "#1B7CCC"
 ---
 
-> _"¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?"_ <br> \- [Jeremy Bentham](/utilitarismo/jeremy-bentham)[^1]
+> _"¿A qué se atribuirá el carácter de la utilidad, sino a lo que es fuente de placer?"_
+>
+> –[Jeremy Bentham](/utilitarismo/jeremy-bentham)[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
@@ -168,7 +173,7 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 
 {{< next-page-textbook title="Ética de la población" url="/etica-de-la-poblacion" >}}
 
-{{< how-to-cite authors="Chappell, R.Y. y Meissner, D." >}}
+{{< how-to-cite >}}
 
 {{< button >}}
 
@@ -219,7 +224,7 @@ El próximo capítulo aborda la _ética de la población_, y cómo evaluar resul
 [^6]: Este punto de vista se conoce como _[egoísmo ético](https://altruismoeficaz.net/temas/egoismo)_.
 [^7]: Cf. [@Sinhababu2015EpistemicArgumentFor], y su ensayo invitado, [Naturalistic Arguments for Ethical Hedonism](https://utilitarianism.net/guest-essays/naturalistic-arguments-for-ethical-hedonism/).
 [^8]:
-Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que están restringidos moralmente en su sadismo de manera estricta: nunca permitirían dañar a otro a menos que ello causara mayores beneficios netos a otros (incluidos ellos mismos). Podríamos incluso imaginar que están dispuestos a someterse ellos mismos a torturas si ello beneficia a un número suficiente de personas. (Quizá echen a suertes la elección de la víctima, en una analogía sádica de la _Lotería de la supervivencia_ de John Harris.) Cuando se estipula que los sádicos tienen conciencia moral de este modo, puede ser más fácil aceptar que su placer sádico cuenta como un bien en sí mismo.
+    Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que están restringidos moralmente en su sadismo de manera estricta: nunca permitirían dañar a otro a menos que ello causara mayores beneficios netos a otros (incluidos ellos mismos). Podríamos incluso imaginar que están dispuestos a someterse ellos mismos a torturas si ello beneficia a un número suficiente de personas. (Quizá echen a suertes la elección de la víctima, en una analogía sádica de la _Lotería de la supervivencia_ de John Harris.) Cuando se estipula que los sádicos tienen conciencia moral de este modo, puede ser más fácil aceptar que su placer sádico cuenta como un bien en sí mismo.
 
     [@Harris1975SurvivalLottery].
 
@@ -239,7 +244,7 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
     [@Kolber1994MentalStatismExperience].
 
     [@Greene2001PsychologicalPerspectiveNozick].
-    
+
     [@deBrigard2010IfYouIt].
 
 [^16]:
@@ -278,12 +283,11 @@ Para controlar esto, imaginemos una sociedad de sádicos utilitaristas que está
 [^31]: Como memorizar la guía telefónica u otros datos triviales no parece tener ningún valor, es mejor restringirse al conocimiento _significativo_, o al conocimiento de verdades _importantes_.
 [^32]: Recordemos nuestro contraste entre la persona A (con una vida excelente) y la persona B, que experimenta una "repetición" pasiva de la vida de A, con un acceso extra de placer al final. Aunque la vida de B contiene más placer, la vida de A contendrá más valor global si también contamos las relaciones amorosas, los logros, etc., como bienes básicos de bienestar. Aunque la vida de B contiene las mismas experiencias _de_ relaciones amorosas, logros, etc., que la de A, es una "repetición" pasiva, que no involucra elecciones o interacciones reales. Por lo tanto, la vida de B no incluye ninguno de los logros o relaciones reales de A.
 [^33]: Para una exploración del estado actual de las relaciones entre las teorías del bienestar y los puntos de vista metaéticos, véase [@Fletcher2021DearPrudenceNature, chap. 7].
-[^34]:
-Los [expresivistas](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) podrían ofrecer una glosa antirrealista de lo que "realmente importa". Pero entonces pueden extender con la misma comodidad esta glosa al tipo de "objetividad" de primer orden postulada por las teorías de la lista objetiva.
+[^34]: Los [expresivistas](https://www.rep.routledge.com/articles/thematic/expressivism/v-1) podrían ofrecer una glosa antirrealista de lo que "realmente importa". Pero entonces pueden extender con la misma comodidad esta glosa al tipo de "objetividad" de primer orden postulada por las teorías de la lista objetiva.
 [^35]: Cf.  [@Bedke2010MightAllNormativity].
 [^36]: En efecto, sería menos "misterioso" negar la realidad del valor y afirmar que la valoración subjetiva es _todo lo que hay_ en las inmediaciones. Pero esto sería una forma de nihilismo: que _S_ valore _p_ es un hecho puramente descriptivo de la psicología de _S_. No hay nada inherentemente cargado de valor en esto, a menos que afirmemos además que la valoración subjetiva es algo que realmente _importa_ de alguna manera. Y entonces volvemos a atribuir valor real, con todo el misterio que ello implica.
 [^37]:
-Como escribe Peter Railton: "lo que es intrínsecamente valioso para una persona debe tener una conexión con lo que encontraría convincente o atractivo en algún grado, al menos si fuera racional y consciente. Sería una concepción intolerablemente alienada del bien de alguien imaginar que pudiera dejar de comprometerlo de algún modo."
+    Como escribe Peter Railton: "lo que es intrínsecamente valioso para una persona debe tener una conexión con lo que encontraría convincente o atractivo en algún grado, al menos si fuera racional y consciente. Sería una concepción intolerablemente alienada del bien de alguien imaginar que pudiera dejar de comprometerlo de algún modo."
 
     [@Railton2003FactsAndValues, p. 47].
 

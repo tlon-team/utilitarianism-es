@@ -1,10 +1,11 @@
 ---
 title: "Introducción al utilitarismo"
+slug: "introduccion-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"
 weight: 1
-descripcion: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
+description: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
@@ -12,6 +13,8 @@ gradientBottom: "#236d9f"
 > *"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente.*
 >
 > — Mòzǐ[^1]
+
+{{< TOC >}}
 
 ¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](./argumentos-a-favor-del-utilitarismo.md) y sus [críticos](./objeciones-al-utilitarismo).
 
@@ -49,10 +52,10 @@ A veces, los filósofos hablan de "utilidad" en lugar de "bienestar", pero estas
 
 Todas las teorías éticas de la familia utilitarista comparten cuatro elementos definitorios: el consecuencialismo, el bienestarismo, la imparcialidad y el agregacionismo, que definiremos a continuación:
 
-1.  **Consecuencialismo:** uno debe siempre promover los buenos resultados.
-2.  **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
-3.  **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
-4.  **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
+1. **Consecuencialismo:** uno debe siempre promover los buenos resultados.
+2. **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
+3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
+4. **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
 
 [Los rivales del utilitarismo](./alternativas-cercanas-al-utilitarismo.md) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
 
@@ -116,7 +119,7 @@ En el capítulo siguiente se analizan más a fondo los cuatro elementos de las t
     [@Bentham1838PrinciplesOfPenal, p. 162]
 
 [^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y [@CamposBoralevi1984BenthamOppressed].
-	
+
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
 [^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase [@Mill2016Autobiography, p. 166].

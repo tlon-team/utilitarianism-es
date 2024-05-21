@@ -1,12 +1,14 @@
 ---
 title: "La objeción de la exigencia"
+slug: "exigencia"
+authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
-borrador: "página"
+type: "page"
 draft: false
-menu: ["objeciones"]
+menu: ["objections"]
 weight: 4
-pagina: 4
-descripcion: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
+page: 4
+description: "Al ordenarnos elegir imparcialmente el mejor resultado, incluso a un costo significativo para nosotros, el utilitarismo puede parecer una teoría increíblemente exigente. Esta página explora si esta característica del utilitarismo es objetable y, de ser así, cómo podrían responder mejor los defensores de esta teoría."
 gradientTop: "#430A4A"
 gradientBottom: "#5F3091"
 ---
@@ -69,9 +71,9 @@ Por último, los defensores del utilitarismo pueden simplemente aceptar que la m
 
 {{< next-page-objection >}}
 
-{{< how-to-cite authors="MacAskill, W., Meissner, D., and Chappell, R.Y." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y Más información
 

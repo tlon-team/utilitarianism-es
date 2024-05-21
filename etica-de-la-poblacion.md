@@ -1,10 +1,12 @@
 ---
 title: "Ética de la población"
+slug: "etica-de-la-poblacion"
+authors: "Chappell, R.Y., Meissner, D., y MacAskill, W."
 date: 2023-01-29
 draft: false
 menu: "main"
 weight: 5
-descripcion: "La ética de la población aborda cuestiones como el peso de las nuevas vidas en relación con el de las ya existentes, y el modo de equilibrar la cantidad y la calidad de vida (cuando se comparan poblaciones de distinto tamaño). En este capítulo se analizan cinco grandes enfoques de la ética de la población: la perspectiva total, la perspectiva promedio, las teorías del valor variable, las teorías del nivel crítico (y del rango crítico) y las perspectivas centradas en las personas afectadas."
+description: "La ética de la población aborda cuestiones como el peso de las nuevas vidas en relación con el de las ya existentes, y el modo de equilibrar la cantidad y la calidad de vida (cuando se comparan poblaciones de distinto tamaño). En este capítulo se analizan cinco grandes enfoques de la ética de la población: la perspectiva total, la perspectiva promedio, las teorías del valor variable, las teorías del nivel crítico (y del rango crítico) y las perspectivas centradas en las personas afectadas."
 gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
 key_traduccion: Chappell2023EticaDePoblacion
@@ -258,9 +260,9 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 {{< next-page-textbook title="Utilitarismo-y-etica-practica" url="/utilitarismo-y-etica-practica" >}}
 
-{{< how-to-cite authors="Chappell, R.Y., Meissner, D., y MacAskill, W." >}}
+{{< how-to-cite >}}
 
-{{< botón >}}
+{{< button >}}
 
 ## Recursos y más información
 
@@ -403,7 +405,7 @@ Aunque Parfit merece el reconocimiento por plantear el debate filosófico en tor
 [^23]: [@Greaves2017PopulationAxiology].
 [^24]:
     Por ejemplo, [@Tannsjo2002WhyWeOught].
-	
+
 	[@Huemer2008DefenceRepugnance].
 
 [^25]: Obsérvese que las perspectivas promedio y total _siempre_ coinciden en la clasificación de los resultados cuando éstos contienen el mismo número de individuos. En tales casos, se dice que ambas teorías son "extensionalmente equivalentes".
@@ -468,9 +470,9 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
     [@Narveson1967UtilitarianismNewGenerations].
 
     [@Narveson1973MoralProblemsPopulation].
-    
+
     [@Roberts2002NewWayOf].
-    
+
     [@Roberts2004PersonBasedConsequentialism].
 
 [^48]: Al menos, no puede ser mejor o peor en términos de bienestar.
@@ -515,7 +517,7 @@ Gustafsson desarrolla un punto de vista en esta línea, aunque con una terminolo
     [@Greaves2017MoralUncertaintyPopulation].
 
     Véase también:
-    
+
     [@MacAskill2019PracticalEthicsGiven, chap. 8].
 	
     [@Ord2020AppendixBPopulation].
