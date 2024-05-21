@@ -292,7 +292,7 @@ En el capítulo siguiente se discuten argumentos a favor del utilitarismo y del 
 ### El utilitarismo multinivel frente al utilitarismo de un solo nivel
 
 - [@Crisp1997RoutledgePhilosophyGuidebook, pp. 105–112].
-- [@Hare1981MoralThinkingIts]
+- [@Hare1981MoralThinkingIts].
 - [@Railton1984AlienationConsequentialismDemands].
 
 ### Utilitarismo global y utilitarismo híbrido
