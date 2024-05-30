@@ -11,10 +11,10 @@ gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
 ---
 
-> ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.
+> _¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente._
 >
 > – [Henry Sidgwick](https://altruismoeficaz.net/autores/henry-sidgwick)[^1]
-{ .align-author-right }
+{ .align-author-right }l
 
 {{< TOC >}}
 
@@ -26,7 +26,7 @@ En el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitaris
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
-> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_
+> _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado._
 >
 > – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), {{< cite -Mill1859Liberty >}}
 { .align-author-right }

@@ -1,6 +1,3 @@
 # utilitarianism-es
 
-Spanish translation of `utilitarianism.net`.
-
-The repository with the original English content can be found
-[here](https://github.com/whyboris/utilitarianism.net).
+This repository hosts the source files for the Spanish translation of `utilitarianism.net`. This translation is published at [utilitarismo.net](https://utilitarismo.net/).
