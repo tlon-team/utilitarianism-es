@@ -4,19 +4,20 @@ slug: "introduccion-al-utilitarismo"
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 1
+weight: 101
 description: "Este capítulo presenta el utilitarismo y sus principales costos y beneficios como teoría moral."
 gradientTop: "#0c3b5b"
 gradientBottom: "#236d9f"
 ---
 
-> *"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente.*
+> _"La tarea del benevolente es sin duda tratar diligentemente de promover el beneficio del mundo y eliminar el daño al mundo y tomar esto como modelo en todo el mundo. ¿Beneficia a la gente? Hazlo. ¿No beneficia a la gente? Detente."_
 >
 > — Mòzǐ[^1]
+{ .align-author-right }
 
 {{< TOC >}}
 
-¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](./argumentos-a-favor-del-utilitarismo.md) y sus [críticos](./objeciones-al-utilitarismo).
+¿Qué debemos hacer moralmente? El utilitarismo da una respuesta: siempre debemos promover el bienestar general. En comparación con otras teorías éticas, el utilitarismo es menos deferente con el pensamiento común y puede decirnos que hagamos cambios sustanciales en cómo conducimos nuestras vidas. Quizá más que ninguna otra teoría ética, ha dado lugar a un encendido debate filosófico entre sus [defensores](/argumentos-a-favor-del-utilitarismo) y sus [críticos](/objeciones).
 
 ## ¿Por qué necesitamos teorías morales?
 
@@ -26,13 +27,13 @@ Históricamente, la gente tenía creencias que ahora consideramos moralmente hor
 
 Además, la gente tiene intuiciones morales contradictorias, y necesitamos una forma de resolver estos desacuerdos. Consideramos que el proyecto de la filosofía moral consiste en reflexionar sobre nuestras intuiciones morales contradictorias y desarrollar una teoría que nos diga qué debemos hacer y por qué. Esto nos permitirá identificar qué juicios morales actuales son erróneos, permitiéndonos progresar moralmente y actuar de forma más ética.
 
-Uno de los intentos más destacados e influyentes de crear una teoría de este tipo es el *utilitarismo*. El utilitarismo fue desarrollado por los filósofos [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) y [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), que se basaron en ideas que se remontan a los antiguos griegos. Desde entonces, el utilitarismo ha sido ampliamente discutido y ha tenido una influencia significativa en la economía y las políticas públicas.
+Uno de los intentos más destacados e influyentes de crear una teoría de este tipo es el _utilitarismo_. El utilitarismo fue desarrollado por los filósofos [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) y [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), que se basaron en ideas que se remontan a los antiguos griegos. Desde entonces, el utilitarismo ha sido ampliamente discutido y ha tenido una influencia significativa en la economía y las políticas públicas.
 
 ## Historial
 
 Aunque la historia no puede decirnos directamente qué teoría moral es la correcta, el razonamiento moral utilitarista tiene un sólido historial de contribución al progreso moral colectivo de la humanidad, lo que sugiere que al menos puede haber algo moralmente saludable en estas ideas. Los utilitaristas clásicos de los siglos <abbr>XVIII</abbr> y <abbr>XIX</abbr> tenían actitudes sociales y políticas muy adelantadas a su tiempo: como reformador social progresista, [Jeremy Bentham](https://altruismoeficaz.net/autores/jeremy-bentham) defendió cuestiones como la separación de la Iglesia y el Estado; la abolición de la esclavitud y de la pena de muerte; regulaciones jurídicas para proteger a los criminales y a los animales no humanos del trato cruel;[^3] y la despenalización de la homosexualidad.[^4] De hecho, sus manuscritos sobre la homosexualidad eran tan liberales que su editor los ocultó al público tras la muerte de Bentham. Sólo se publicaron dos siglos más tarde.
 
-[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo <cite>[@Mill1869SubjectionOfWomen]</cite>,[^6] Mill sostenía que
+[John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill) defendió la provisión de asistencia social a los pobres y la libertad de expresión. Fue el segundo diputado del Parlamento británico en reclamar el sufragio femenino[^5] y abogó por la igualdad de género en general. En su ensayo {{< cite "-Mill1869SubjectionOfWomen" >}},[^6] Mill sostenía que
 
 > el principio que regula las relaciones sociales existentes entre los dos sexos —la subordinación jurídica de un sexo al otro— es moralmente incorrecto en sí mismo, y actualmente uno de los principales obstáculos para el mejoramiento humano; y que debería ser sustituido por un principio de perfecta igualdad, que no admita ningún poder o privilegio por una de las partes, ni incapacidad por la otra.[^7]
 
@@ -54,24 +55,24 @@ Todas las teorías éticas de la familia utilitarista comparten cuatro elementos
 
 1. **Consecuencialismo:** uno debe siempre promover los buenos resultados.
 2. **Bienestarismo:** el valor de un resultado está totalmente determinado por el bienestar de los individuos que lo integran.
-3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar *de quién* sea el bienestar.
-4. **Agregacionismo**: el valor de un resultado está determinado por la *suma* del valor de las vidas que contiene.[^12]
+3. **Imparcialidad:** una cantidad dada de bienestar es igualmente valiosa sin importar _de quié_ sea el bienestar.
+4. **Agregacionismo**: el valor de un resultado está determinado por la _suma_ del valor de las vidas que contiene.[^12]
 
-[Los rivales del utilitarismo](./alternativas-cercanas-al-utilitarismo.md) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
+[Los rivales del utilitarismo](/alternativas-cercanas-al-utilitarismo) son teorías que niegan uno o más de los cuatro elementos anteriores. Por ejemplo, podrían sostener que las acciones pueden ser intrínsecamente correctas o incorrectas independientemente de sus consecuencias, o que otras cosas además del bienestar pueden contribuir al valor de un resultado, o que la moral nos permite ser parciales con nuestros amigos y familiares, o que deberíamos hacer lo que más beneficie al miembro más desfavorecido de la sociedad.
 
 ## Hoja de ruta
 
-Examinamos los cuatro elementos del utilitarismo en mayor profundidad, junto con otras distinciones teóricas, en el [Capítulo 2: Elementos y tipos de utilitarismo](./elementos-y-tipos-de-utilitarismo.md).
+Examinamos los cuatro elementos del utilitarismo en mayor profundidad, junto con otras distinciones teóricas, en el [Capítulo 2: Elementos y tipos de utilitarismo](/elementos-y-tipos-de-utilitarismo).
 
-En el [Capítulo 3](./argumentos-a-favor-del-utilitarismo.md) se explica el equilibrio reflexivo como metodología moral y se presentan varios argumentos a favor del utilitarismo (y otras teorías consecuencialistas similares) frente a perspectivas morales alternativas. Esto incluye una discusión sobre el velo de la ignorancia, la expansión del círculo moral y el argumento de que el utilitarismo ofrece una explicación especialmente convincente de *lo que fundamentalmente importa*. Este capítulo también explica la paradoja de la deontología, los argumentos genealógicos evolutivos y otras objeciones a la ética no consecuencialista.
+En el [Capítulo 3](/argumentos-a-favor-del-utilitarismo) se explica el equilibrio reflexivo como metodología moral y se presentan varios argumentos a favor del utilitarismo (y otras teorías consecuencialistas similares) frente a perspectivas morales alternativas. Esto incluye una discusión sobre el velo de la ignorancia, la expansión del círculo moral y el argumento de que el utilitarismo ofrece una explicación especialmente convincente de _lo que fundamentalmente importa_. Este capítulo también explica la paradoja de la deontología, los argumentos genealógicos evolutivos y otras objeciones a la ética no consecuencialista.
 
-En los capítulos 4 y 5 se analizan, respectivamente, [teorías del bienestar](./teorias-del-bienestar.md) y de la [ética de la población](./etica-de-la-poblacion.md) específicas. Aunque el utilitarismo se asocia a menudo con el *hedonismo* sobre el bienestar y la *perspectiva total* de la ética de la población (una combinación conocida como *utilitarismo clásico*), hay otras opciones que también vale la pena considerar. Hay que tener en cuenta, sobre todo, que las objeciones al hedonismo o a la perspectiva total pueden dejar intactas otras formas de utilitarismo.
+En los capítulos 4 y 5 se analizan, respectivamente, [teorías del bienestar](/teorias-del-bienestar) y de la [ética de la población](/etica-de-la-poblacion) específicas. Aunque el utilitarismo se asocia a menudo con el _hedonismo_ sobre el bienestar y la _perspectiva total_ de la ética de la población (una combinación conocida como _utilitarismo clásico_), hay otras opciones que también vale la pena considerar. Hay que tener en cuenta, sobre todo, que las objeciones al hedonismo o a la perspectiva total pueden dejar intactas otras formas de utilitarismo.
 
-El [Capítulo 6](./utilitarismo-y-etica-practica.md) y nuestro artículo complementario [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md) exploran las aplicaciones prácticas del utilitarismo y sus implicaciones para la forma en que debemos vivir nuestras vidas. Argumentamos que, en la práctica, un utilitarista debería intentar hacer el mayor bien posible sin dejar de respetar virtudes morales de sentido común como la integridad, la fiabilidad y el cumplimiento de la ley, con el fin de fomentar la cooperación social y mitigar el riesgo de cometer errores de cálculo.
+El [Capítulo 6](/utilitarismo-y-etica-practica) y nuestro artículo complementario [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo) exploran las aplicaciones prácticas del utilitarismo y sus implicaciones para la forma en que debemos vivir nuestras vidas. Argumentamos que, en la práctica, un utilitarista debería intentar hacer el mayor bien posible sin dejar de respetar virtudes morales de sentido común como la integridad, la fiabilidad y el cumplimiento de la ley, con el fin de fomentar la cooperación social y mitigar el riesgo de cometer errores de cálculo.
 
-[El capítulo 7](./alternativas-cercanas-al-utilitarismo.md) examina hasta qué punto estas recomendaciones prácticas resisten diversas desviaciones de la teoría utilitarista estricta. Aunque algunas teorías alternativas pueden tener implicaciones prácticas radicalmente divergentes, sostenemos que una amplia gama de puntos de vista razonables convergen en última instancia en la recomendación práctica central de la ética utilitarista, a saber, utilizar una fracción significativa del propio tiempo y/o dinero para ayudar a los demás, y tratar de hacerlo de la manera más eficaz posible, sin violar las restricciones morales de sentido común.
+[El capítulo 7](/alternativas-cercanas-al-utilitarismo) examina hasta qué punto estas recomendaciones prácticas resisten diversas desviaciones de la teoría utilitarista estricta. Aunque algunas teorías alternativas pueden tener implicaciones prácticas radicalmente divergentes, sostenemos que una amplia gama de puntos de vista razonables convergen en última instancia en la recomendación práctica central de la ética utilitarista, a saber, utilizar una fracción significativa del propio tiempo y/o dinero para ayudar a los demás, y tratar de hacerlo de la manera más eficaz posible, sin violar las restricciones morales de sentido común.
 
-Las principales [objeciones al utilitarismo](./objeciones-al-utilitarismo) se abordan en el capítulo 8. Presentamos una "[caja de herramientas](./objeciones-al-utilitarismo-y-respuestas.md~#caja-de-herramientas-utilitarista)" con maniobras generales a disposición de los utilitaristas para hacer frente a una amplia gama de objeciones, y luego mostramos cómo esta caja de herramientas se puede utilizar para responder a inquietudes relativas a los derechos, las exigencias de la moral, la incertidumbre radical, y más.
+Las principales [objeciones al utilitarismo](/objeciones) se abordan en el capítulo 8. Presentamos una "[caja de herramientas](/objeciones/#la-caja-de-herramientas-del-utilitarista)" con maniobras generales a disposición de los utilitaristas para hacer frente a una amplia gama de objeciones, y luego mostramos cómo esta caja de herramientas se puede utilizar para responder a inquietudes relativas a los derechos, las exigencias de la moral, la incertidumbre radical, y más.
 
 ## Conclusión
 
@@ -83,57 +84,67 @@ La ética utilitarista tiene una tradición intelectual que abarca siglos, duran
 
 En el capítulo siguiente se analizan más a fondo los cuatro elementos de las teorías utilitaristas y se presentan diversas variantes del utilitarismo.
 
+{{< next-page-textbook >}}
+
+---
+
+{{< how-to-cite >}}
+
+{{< button >}}
+
 ## Recursos y más información
 
 ### Introducción
 
-- [@Crashcourse2016UtilitarianismCrashCourse].
-- [@Lazari-Radek2017UtilitarianismVeryShort].
-- [@Bykvist2010UtilitarianismGuidePerplexed].
-- [@Appiah2022WhatIsUtilitarianism].
+- {{< cite Crashcourse2016UtilitarianismCrashCourse >}}
+- {{< cite "Lazari-Radek2017UtilitarianismVeryShort" >}}
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed >}}
+- {{< cite Appiah2022WhatIsUtilitarianism >}}
 
 ### Los Clásicos
 
-- [@Bentham2017IntroductionToPrinciples].
-- [@Mill2005Utilitarianism].
-- [@Sidgwick2011MethodsOfEthics].
+- {{< cite Bentham2017IntroductionToPrinciples >}}
+- {{< cite Mill2005Utilitarianism >}}
+- {{< cite Sidgwick2011MethodsOfEthics >}}
 
 ### Más información
 
-- [@Driver2022HistoryOfUtilitarianism].
-- [@Schultz2017HappinessPhilosophersLives].
-- [@Crimmins2013BloomsburyEncyclopediaUtilitarianism].
-- [@Parfit2011WhatMatters].
-- [@Ng1990WelfarismUtilitarianismRehabilitation].
+- {{< cite Driver2022HistoryOfUtilitarianism >}}
+- {{< cite Schultz2017HappinessPhilosophersLives >}}
+- {{< cite Crimmins2013BloomsburyEncyclopediaUtilitarianism >}}
+- {{< cite Parfit2011WhatMatters >}}
+- {{< cite Ng1990WelfarismUtilitarianismRehabilitation >}}
 
-[^1]: *Mòzǐ* 32: 1, C. trad. Fraser.
+[^1]: _Mòzǐ_ 32: 1, C. trad. Fraser.
 
-[^2]: Para más detalles, véase [@Williams2015PossibilityOngoingMoral].
+[^2]: Para más detalles, véase {{< cite Williams2015PossibilityOngoingMoral >}}
 
-[^3]: Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden *razonar*? ni ¿Pueden *conversar*? Si no ¿Pueden *sufrir*?"
+[^3]:
 
-    [@Bentham2017IntroductionToPrinciples, pp. 143–4|291]
+    Por ejemplo, Bentham comentó sobre la cuestión de la protección de los animales: "La pregunta no es: ¿Pueden _razonar_? ni ¿Pueden _conversar_? Si no ¿Pueden _sufrir_?"
+
+    {{< cite Bentham2017IntroductionToPrinciples "pp. 143–4|291" >}}
 
     "¿Por qué la ley habría de negar su protección a un ser sensible? Ya llegará el momento en que la humanidad extenderá su manto sobre todo lo que respira. Hemos comenzado por atender a la condición de los esclavos; terminaremos por aliviar la de todos los animales que asisten nuestros trabajos o satisfacen nuestras necesidades."
 
-    [@Bentham1838PrinciplesOfPenal, p. 162]
+    {{< cite Bentham1838PrinciplesOfPenal "p. 162" >}}
 
-[^4]: Cfr. [@Bentham2017IntroductionToPrinciples]; y [@CamposBoralevi1984BenthamOppressed].
+[^4]: Cfr. {{< cite Bentham2017IntroductionToPrinciples >}}; y {{< cite CamposBoralevi1984BenthamOppressed >}}
 
 [^5]: Parlamento del Reino Unido, [The 1866 Women's Suffrage petition: the first mass Votes for Women petition](https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/1866-suffrage-petition/).
 
-[^6]: Mill atribuye muchas de las ideas de *El sometimiento de la mujer* a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase [@Mill2016Autobiography, p. 166].
+[^6]: Mill atribuye muchas de las ideas de _El sometimiento de la mujer_ a su esposa, [Harriet Taylor Mill](https://altruismoeficaz.net/autores/harriet-taylor-mill). Véase {{< cite Mill2016Autobiography "p. 166" >}}
 
-[^7]: [@Mill1869SubjectionOfWomen, p. 1].
+[^7]: {{< cite Mill1869SubjectionOfWomen "p. 1" >}}
 
-[^8]: Sobre la pobreza extrema véase [@Singer2009LifeYouCan].
+[^8]: Sobre la pobreza extrema véase {{< cite Singer2009LifeYouCan >}}
 
-    Sobre la cría intensiva de animales véase [@Singer2023AnimalLiberationNow].
+    Sobre la cría intensiva de animales véase {{< cite Singer2023AnimalLiberationNow >}}
 
-[^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](./etica-de-la-poblacion.md) en el capítulo 5.
+[^9]: Esto es más claro en un contexto de población fija, donde las acciones individuales no afectan el número o la identidad de las personas. Para casos más complejos, véase el debate sobre la [ética de la población](/etica-de-la-poblacion/) en el capítulo 5.
 
-[^10]: Sin embargo, cuando los economistas utilizan el término “[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](./teorias-del-bienestar.md).
+[^10]: Sin embargo, cuando los economistas utilizan el término “[utilidad](https://es.wikipedia.org/wiki/Utilidad_(econom%C3%ADa))" suelen referirse, en cambio, a la representación numérica de las [preferencias de un individuo](/teorias-del-bienestar/).
 
-[^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](./teorias-del-bienestar.md) explora si el bienestar puede implicar algo más que esto.
+[^11]: Utilizamos "felicidad" para referirnos a experiencias conscientes placenteras. [Capítulo 4: Teorías del bienestar](/teorias-del-bienestar/) explora si el bienestar puede implicar algo más que esto.
 
-[^12]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no alteran el número ni la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con entornos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre [ética de la población](./etica-de-la-poblacion.md) del capítulo 5. Obsérvese además que quienes no son bienestaristas podrían considerar que otras cosas, además de las vidas, aportan valor al mundo, lo cual debería incluirse en la suma. Ponemos entre paréntesis esta posibilidad para facilitar la exposición.
+[^12]: Esta definición se aplica a un contexto de población fija, en el que las acciones individuales no alteran el número ni la identidad de las personas. Hay teorías agregacionistas que difieren en el modo de lidiar con entornos de población variable. Se trata de una cuestión técnica, relevante para el debate sobre [ética de la población](/etica-de-la-poblacion/) del capítulo 5. Obsérvese además que quienes no son bienestaristas podrían considerar que otras cosas, además de las vidas, aportan valor al mundo, lo cual debería incluirse en la suma. Ponemos entre paréntesis esta posibilidad para facilitar la exposición.
