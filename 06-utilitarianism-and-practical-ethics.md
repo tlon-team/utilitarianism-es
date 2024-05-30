@@ -5,12 +5,10 @@ authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
 date: 2023-01-29
 draft: false
 menu: "main"
-weight: 6
+weight: 106
 description: "El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en llevar una vida ética. A pesar de no dar ningún peso intrínseco a las restricciones deónticas, en la práctica apoya muchas prohibiciones y virtudes de sentido común. Su principal diferencia práctica radica en su énfasis en hacer el bien positivamente, de forma más amplia y eficiente de lo que la gente suele priorizar."
 gradientTop: "#089FD1"
 gradientBottom: "#305D9C"
-key_original: MacAskill2023UtilitarianismPracticalEthics
-key_translation: Macaskill2023UtilitarismoEticaPractica
 ---
 
 > ¿Debemos extender nuestra preocupación a todos los seres capaces de sentir placer y dolor cuyos sentimientos se ven afectados por nuestra conducta? ¿O debemos limitar nuestra perspectiva a la felicidad humana? El primer punto de vista es el adoptado por... la escuela utilitarista... [P]arece arbitrario e irrazonable excluir del objetivo final, así concebido, cualquier placer de cualquier ser sintiente.
@@ -24,13 +22,13 @@ key_translation: Macaskill2023UtilitarismoEticaPractica
 
 El utilitarismo tiene importantes implicaciones sobre cómo debemos pensar en llevar una vida ética. En este capítulo, nos centraremos en cinco de sus implicaciones teóricas. En primer lugar, a diferencia de muchas otras teorías éticas, el utilitarismo no considera que las acciones y las omisiones sean moralmente diferentes. En segundo lugar, es inusualmente exigente: requiere que sacrifiquemos más que muchas otras teorías éticas. En tercer lugar, implica que debemos ser imparciales con respecto a las causas: que debemos dirigir nuestros esfuerzos altruistas allí donde podamos tener el mayor impacto positivo sobre los demás. En cuarto lugar, nos insta a considerar el bienestar de las personas independientemente del país en el que vivan, la especie a la que pertenezcan y el momento en el que existan. En quinto lugar, a pesar de diferir radicalmente de la moral de sentido común como enfoque ético, el utilitarismo suele respaldar las prohibiciones morales de sentido común.
 
-En el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md) se discute cómo deberían actuar los utilitaristas en la práctica. En resumen, la mayoría de los utilitaristas deberían [donar una parte significativa de sus ingresos](./actuar-conforme-al-utilitarismo.md#donar-a-organizaciones-beneficas) para resolver los problemas más acuciantes del mundo, deberían [dedicar sus carreras profesionales a hacer el bien](./actuar-conforme-al-utilitarismo.md#eleccion-de-carrera-profesional), y deberían aspirar a altos grados de cooperatividad, integridad personal y honestidad.
+En el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo/) se discute cómo deberían actuar los utilitaristas en la práctica. En resumen, la mayoría de los utilitaristas deberían [donar una parte significativa de sus ingresos](/actuar-conforme-al-utilitarismo#donar-a-organizaciones-beneficas) para resolver los problemas más acuciantes del mundo, deberían [dedicar sus carreras profesionales a hacer el bien](/actuar-conforme-al-utilitarismo#eleccion-de-carrera-profesional), y deberían aspirar a altos grados de cooperatividad, integridad personal y honestidad.
 
 ## ¿Hay diferencia entre hacer daño y permitirlo?
 
 > _Una persona puede causar un mal a los demás no sólo por sus acciones, sino también por su inacción, y en ambos casos es responsable justificadamente ante ellos por el daño causado."_
 >
-> – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), <cite>[@Mill1859Liberty]</cite>
+> – [John Stuart Mill](https://altruismoeficaz.net/autores/john-stuart-mill), {{< cite -Mill1859Liberty >}}
 { .align-author-right }
 
 Muchos teóricos no consecuencialistas consideran que hay una diferencia moralmente relevante entre _[hacer daño y permitirlo](https://plato.stanford.edu/entries/doing-allowing/)_, incluso si las consecuencias de una acción o inacción son las mismas. Esta postura se conoce como la "doctrina de hacer y permitir", según la cual los daños causados por acciones —por cosas que hacemos activamente— son peores que los daños por omisión. Quienes sostienen esta doctrina pueden afirmar, por ejemplo, que es peor hacer daño a un niño, en igualdad de condiciones, que no evitar que ese mismo niño sufra daños en un accidente.
@@ -43,11 +41,11 @@ Importa mucho si existe o no una diferencia moral intrínseca entre hacer daño 
 
 ## Exigencia
 
-El utilitarismo es una teoría ética muy [exigente](./objeciones-al-utilitarismo/exigencia.md): sostiene que siempre que puedas hacer más para ayudar a otras personas que para ayudarte a ti mismo, deberías hacerlo.[^2] Por ejemplo, si pudieras sacrificar tu vida para salvar la de muchas otras personas, entonces, en igualdad de condiciones, según el utilitarismo, deberías hacerlo.
+El utilitarismo es una teoría ética muy [exigente](/objeciones/exigencia/): sostiene que siempre que puedas hacer más para ayudar a otras personas que para ayudarte a ti mismo, deberías hacerlo.[^2] Por ejemplo, si pudieras sacrificar tu vida para salvar la de muchas otras personas, entonces, en igualdad de condiciones, según el utilitarismo, deberías hacerlo.
 
-Aunque son raras las ocasiones en las que sacrificar la propia vida es lo mejor, el utilitarismo mantiene su nivel de exigencia en el mundo actual. Por ejemplo, [donando a una organización benéfica de salud global muy eficaz](./actuar-conforme-al-utilitarismo.md#donar-a-organizaciones-beneficas) puedes salvar la vida de un niño por sólo unos miles de dólares.[^3] Siempre que el beneficio que otros reciban de tales donaciones supere lo que tú ganarías guardándote el dinero para ti —como es casi seguro que ocurra, si eres un ciudadano típico de un país rico—, deberías donarlo. De hecho, probablemente deberías donar la mayor parte de tus ingresos de por vida. Según el utilitarismo, sólo es realmente justificable gastar dinero en uno mismo —por ejemplo, en ir al cine o en comprar ropa bonita— si se piensa que este gasto haría más bien que cualquier donación posible. Se trata de un listón muy alto.
+Aunque son raras las ocasiones en las que sacrificar la propia vida es lo mejor, el utilitarismo mantiene su nivel de exigencia en el mundo actual. Por ejemplo, [donando a una organización benéfica de salud global muy eficaz](/actuar-conforme-al-utilitarismo#donar-a-organizaciones-beneficas) puedes salvar la vida de un niño por sólo unos miles de dólares.[^3] Siempre que el beneficio que otros reciban de tales donaciones supere lo que tú ganarías guardándote el dinero para ti —como es casi seguro que ocurra, si eres un ciudadano típico de un país rico—, deberías donarlo. De hecho, probablemente deberías donar la mayor parte de tus ingresos de por vida. Según el utilitarismo, sólo es realmente justificable gastar dinero en uno mismo —por ejemplo, en ir al cine o en comprar ropa bonita— si se piensa que este gasto haría más bien que cualquier donación posible. Se trata de un listón muy alto.
 
-Además de recomendar donaciones muy significativas, el utilitarismo afirma que también hay que [elegir la carrera profesional que más beneficie a los demás](./actuar-conforme-al-utilitarismo.md#eleccion-de-carrera profesional). Esto podría implicar trabajar en una organización sin ánimo de lucro, realizar investigaciones de gran importancia o dedicarse a la política o al activismo.
+Además de recomendar donaciones muy significativas, el utilitarismo afirma que también hay que [elegir la carrera profesional que más beneficie a los demás](/actuar-conforme-al-utilitarismo#eleccion-de-carrera profesional). Esto podría implicar trabajar en una organización sin ánimo de lucro, realizar investigaciones de gran importancia o dedicarse a la política o al activismo.
 
 ## Imparcialidad respecto a las causas
 
@@ -83,7 +81,7 @@ Según el utilitarismo, la distancia geográfica y la pertenencia a una nación 
 
 Por supuesto, la distancia geográfica entre una persona y su beneficiario puede tener una importancia instrumental: a menudo es más fácil ayudar a gente cercana que a gente lejana. Sin embargo, en un planeta cada vez más globalizado se ha vuelto mucho más fácil beneficiar incluso a quienes viven al otro lado del mundo. Y debido a las extremas desigualdades económicas a escala mundial, una unidad adicional de recursos beneficia mucho más a los habitantes de los países menos desarrollados que a los de países prósperos como Estados Unidos o el Reino Unido; potencialmente, entre 100 y 1000 veces más.[^9]
 
-Analizamos las implicaciones del cosmopolitismo para la acción en el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md#salud-y-desarrollo-globales).
+Analizamos las implicaciones del cosmopolitismo para la acción en el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo#salud-y-desarrollo-globales).
 
 ### Antiespecismo: ampliar el círculo moral en la dimensión de la especie
 
@@ -101,7 +99,7 @@ El especismo subyace a la actual explotación de miles de millones de animales n
 
 Sin embargo, no todo el sufrimiento animal es causado por los humanos. Hay muchos más animales salvajes que viven en la naturaleza que animales domésticos.[^12] En contraste con una idea romántica de la naturaleza muy difundida, los animales salvajes suelen tener vidas cortas en entornos hostiles y sufren por múltiples causas, como la depredación, las enfermedades, los parásitos, la exposición al calor o frío extremos, el hambre, la sed y la desnutrición. En este contexto, sería un error considerar sólo el bienestar de los animales domésticos que sufren por la actividad humana, ignorando el bienestar de los animales salvajes que sufren simplemente porque los humanos permiten que se les haga daño.[^13] Como ya se ha señalado, para el utilitarista, la distinción entre hacer daño y permitirlo es irrelevante. Por lo tanto, desde el punto de vista utilitarista, deberíamos preocuparnos por igual por el bienestar de los animales domésticos y salvajes. Dicho esto, actualmente sabemos poco sobre cómo mejorar sistemáticamente la vida de los animales salvajes. En cambio, reducir el consumo de carne procedente de la cría intensiva o mejorar las condiciones de vida en las granjas industriales supondría claramente enormes beneficios para los animales.[^14]
 
-Discutimos las implicaciones de rechazar el especismo para la acción ética en el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md#bienestar-animal-en-las-granjas).
+Discutimos las implicaciones de rechazar el especismo para la acción ética en el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo#bienestar-animal-en-las-granjas).
 
 ### Largoplacismo: ampliar el círculo moral en la dimensión temporal
 
@@ -115,15 +113,15 @@ El número de personas que podría haber en el futuro supera astronómicamente a
 
 El largoplacismo fuerte está implícito en la mayoría de las formas plausibles de utilitarismo[^17] si asumimos que algunas de nuestras acciones pueden influir significativamente en el futuro a largo plazo y que podemos estimar qué efectos son positivos y cuáles negativos. Por ejemplo, hay riesgos para la supervivencia de la raza humana, como la guerra nuclear, el cambio climático extremo, los patógenos artificiales y la inteligencia artificial general.[^18] Si creemos que la supervivencia de la raza humana tiene un valor positivo, reducir el riesgo de extinción humana es una forma de influir positivamente en el futuro a largo plazo.[^19] Un debate sobre el largoplacismo excedería los límites de este capítulo, pero para obtener más información, recomendamos leer este [artículo académico](https://globalprioritiesinstitute.org/wp-content/uploads/2019/Greaves_MacAskill_The_Case_for_Strong_Longtermism.pdf).[^20]
 
-Discutimos las implicaciones morales del largoplacismo para la acción en el artículo [Actuar conforme al utilitarismo](./actuar-conforme-al-utilitarismo.md#reduccion-riesgo-existencial).
+Discutimos las implicaciones morales del largoplacismo para la acción en el artículo [Actuar conforme al utilitarismo](/actuar-conforme-al-utilitarismo#reduccion-riesgo-existencial).
 
 ## Respetar las normas morales de sentido común
 
 A veces la gente confunde el utilitarismo con la afirmación de que _uno siempre debería calcular explícitamente el valor esperado de cada acción posible, y realizar la acción que obtenga la puntuación más alta._ De hecho, el utilitarismo _no_ recomienda adoptar este procedimiento de decisión "utilitarista ingenuo".[^21]
 
-En cambio, como [teoría multinivel](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel), el utilitarismo especifica objetivos morales —criterios para juzgar objetivamente los méritos morales de una acción, dados todos los detalles fácticos relevantes—[^22] pero deja abierta la cuestión de qué tipo de _procedimiento de decisión_ deberíamos intentar seguir en la práctica. Al fin y al cabo, es una cuestión empírica abierta cuál es la mejor manera de alcanzar realmente los objetivos morales especificados.
+En cambio, como [teoría multinivel](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel), el utilitarismo especifica objetivos morales —criterios para juzgar objetivamente los méritos morales de una acción, dados todos los detalles fácticos relevantes—[^22] pero deja abierta la cuestión de qué tipo de _procedimiento de decisión_ deberíamos intentar seguir en la práctica. Al fin y al cabo, es una cuestión empírica abierta cuál es la mejor manera de alcanzar realmente los objetivos morales especificados.
 
-El utilitarismo implica que debemos utilizar el procedimiento de decisión que mejor nos ayude a promover el bienestar general (en términos esperados). Aunque no podemos estar seguros de qué procedimiento de decisión satisface este criterio, podemos hacer algunas conjeturas. Como afirman los psicólogos Stefan Schubert y Lucius Caviola en <cite>[@Schubert2023SchubertStefan]</cite>, la mejor forma de promover el bienestar general es perseguir ambiciosamente [acciones que ayuden eficazmente a los demás](./actuar-conforme-al-utilitarismo.md), minimizando al mismo tiempo los riesgos de consecuencias negativas mediante la adopción de virtudes y restricciones de sentido común.
+El utilitarismo implica que debemos utilizar el procedimiento de decisión que mejor nos ayude a promover el bienestar general (en términos esperados). Aunque no podemos estar seguros de qué procedimiento de decisión satisface este criterio, podemos hacer algunas conjeturas. Como afirman los psicólogos Stefan Schubert y Lucius Caviola en {{< cite -Schubert2023SchubertStefan >}}, la mejor forma de promover el bienestar general es perseguir ambiciosamente [acciones que ayuden eficazmente a los demás](/actuar-conforme-al-utilitarismo/), minimizando al mismo tiempo los riesgos de consecuencias negativas mediante la adopción de virtudes y restricciones de sentido común.
 
 Es un hecho ampliamente reconocido que los humanos no somos fiables a la hora de calcular utilidades,[^23] especialmente cuando entran en conflicto con reglas y heurísticas generalmente fiables (como las que prohíben dañar a otras personas). En consecuencia, no podemos tomar al pie de la letra los cálculos de valor esperado que infringen las normas. Incluso si has calculado que asesinar a tu rival daría lugar, de algún modo, a un bien mayor, deberías ser muy escéptico de que esto sea realmente así. Al fin y al cabo, si no crees realmente que en general sería mejor para los demás (en situaciones similares) hacer lo mismo, entonces debes creer que la mayor parte de los cálculos que favorecen el asesinato han salido mal. Por lo tanto, si no tienes evidencia especial (que rompa la simetría) que demuestre que tú, en particular, eres la rara excepción a esta regla, entonces debes concluir que es sumamente probable que tus propios cálculos a favor del asesinato hayan salido mal.[^24] De modo que, en ausencia de evidencia especial de este tipo, debes concluir que romper las reglas tiene un valor esperado menor, a pesar de tus cálculos iniciales en sentido contrario.
 
@@ -133,7 +131,7 @@ En resumen, el utilitarismo _no_ nos dice que calculemos constantemente las util
 
 Como primera aproximación, un procedimiento de decisión utilitarista plausible podría llevarnos a[^26]
 
-1. Buscar cualquier "oportunidad al alcance de la mano" para [ayudar eficazmente a los demás](./actuar-conforme-al-utilitarismo.md) sin causar daño a terceros,
+1. Buscar cualquier "oportunidad al alcance de la mano" para [ayudar eficazmente a los demás](/actuar-conforme-al-utilitarismo/) sin causar daño a terceros,
 2. Inculcar [virtudes para los utilitaristas del mundo real](https://www.utilitarianism.net/guest-essays/virtues-for-real-world-utilitarians/) (incluyendo el respeto por las normas morales de sentido común), y
 3. En un momento de calma, reflexionar sobre cómo podríamos priorizar y dirigir mejor nuestros esfuerzos morales, por ejemplo, buscando análisis de costo-beneficio de expertos y otros tipos de evidencia para fundamentar mejor nuestros juicios generales de valor esperado.[^27]
 
@@ -149,7 +147,9 @@ Aunque los utilitaristas deben tratar de dedicar vidas a hacer el mayor bien pos
 
 El siguiente capítulo analiza algunas teorías rivales importantes que pueden solaparse significativamente con el utilitarismo en la práctica.
 
-{{< next-page-textbook title="Alternativas-casi-utilitaristas" url="/alternativas-casi-utilitaristas" >}}
+{{< next-page-textbook >}}
+
+---
 
 {{< how-to-cite >}}
 
@@ -159,70 +159,70 @@ El siguiente capítulo analiza algunas teorías rivales importantes que pueden s
 
 ### ¿Hay alguna diferencia entre hacer daño y permitirlo?
 
-- [@Woollard2002DoingVs].
-- [@Bennett1995ActItself].
+- {{< cite Woollard2002DoingVs >}}
+- {{< cite Bennett1995ActItself >}}
 
 ### La ampliación del círculo moral
 
-- [@Singer1997DrowningChildAnd].
-- [@Singer1981ExpandingCircleEthics].
+- {{< cite Singer1997DrowningChildAnd >}}
+- {{< cite Singer1981ExpandingCircleEthics >}}
 
 ### Cosmopolitismo: ampliar el círculo moral en la dimensión goegráfica
 
-- [@Crashcourse2017PovertyOurResponse].
-- [@Singer2009LifeYouCan]. (el libro está disponible para su descarga gratuita).
-- [@Singer2016FamineAffluenceMorality].
-- [@Scheffler1999ConceptionsCosmopolitanism].
+- {{< cite Crashcourse2017PovertyOurResponse >}}
+- {{< cite Singer2009LifeYouCan >}} (el libro está disponible para su descarga gratuita).
+- {{< cite Singer2016FamineAffluenceMorality >}}
+- {{< cite Scheffler1999ConceptionsCosmopolitanism >}}
 
 ### Antiespecismo: ampliar el círculo moral en la dimensión de la especie
 
-- [@Crashcourse2017NonHumanAnimals].
-- [@Singer2023AnimalLiberationNow].
-- [@McMahan2003Animals].
-- [@Sebo2019UtilitarianCaseFor].
+- {{< cite Crashcourse2017NonHumanAnimals >}}
+- {{< cite Singer2023AnimalLiberationNow >}}
+- {{< cite McMahan2003Animals >}}
+- {{< cite Sebo2019UtilitarianCaseFor >}}
 
 ### Largoplacismo: ampliar el círculo moral en la dimensión temporal
 
-- [@Ord2020PrecipiceExistentialRisk].
-- [@Greaves2021CaseStrongLongtermism].
-- [@Beckstead2013OverwhelmingImportanceShaping].
-- [@Bostrom2003AstronomicalWasteOpportunity].
-- [@MacAskill2022WhatWeOwe].
+- {{< cite Ord2020PrecipiceExistentialRisk >}}
+- {{< cite Greaves2021CaseStrongLongtermism >}}
+- {{< cite Beckstead2013OverwhelmingImportanceShaping >}}
+- {{< cite Bostrom2003AstronomicalWasteOpportunity >}}
+- {{< cite MacAskill2022WhatWeOwe >}}
 
 ### Respetar las normas morales de sentido común
 
-- [@Gibbard1984UtilitarianismAndHuman].
-- [@Hare1981MoralThinkingIts].
-- [@Mackie1984RightsUtilityAnd].
-- [@Pettit1986RestrictiveConsequentialism].
+- {{< cite Gibbard1984UtilitarianismAndHuman >}}
+- {{< cite Hare1981MoralThinkingIts >}}
+- {{< cite Mackie1984RightsUtilityAnd >}}
+- {{< cite Pettit1986RestrictiveConsequentialism >}}
 
-[^1]: [@Sidgwick1907MethodsEthics, p. 414].
-[^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase [@Singer2009LifeYouCan].
-[^3]: [@GiveWell2010YourDollarGoes].
-[^4]: [@Berman2018ImpedimentsEffectiveAltruism].
-[^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en [@SentiencePolitics2016BenefitsCauseneutrality].
-[^6]: [@Ord2013MoralImperativeCosteffectiveness].
-[^7]: Cf. [@Singer1981ExpandingCircleEthics].
-[^8]: [@Singer2011PracticalEthics, p. 50].
-[^9]: Cf. [@MacAskill2015DoingGoodBetter, chap. 1].
-[^10]: [@Singer2002AnimalLiberation, p. 9]. De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. [@Caviola2019MoralStandingAnimals].
-[^11]: Por ejemplo, véase [@Low2012CambridgeDeclarationConsciousness].
-[^12]: [@Tomasik2019HowManyWild].
+[^1]: {{< cite Sidgwick1907MethodsEthics "p. 414" >}}
+[^2]: Para un análisis de las exigencias de la moral en el contexto de la mitigación de la pobreza global, véase {{< cite Singer2009LifeYouCan >}}
+[^3]: {{< cite GiveWell2010YourDollarGoes >}}
+[^4]: {{< cite Berman2018ImpedimentsEffectiveAltruism >}}
+[^5]: Los argumentos a favor de la neutralidad respecto a las causas se exponen en {{< cite SentiencePolitics2016BenefitsCauseneutrality >}}
+[^6]: {{< cite Ord2013MoralImperativeCosteffectiveness >}}
+[^7]: Cf. {{< cite Singer1981ExpandingCircleEthics >}}
+[^8]: {{< cite Singer2011PracticalEthics "p. 50" >}}
+[^9]: Cf. {{< cite MacAskill2015DoingGoodBetter "chap. 1" >}}
+[^10]: {{< cite Singer2002AnimalLiberation "p. 9" >}} De hecho, hay evidencia psicológica que sugiere que el especismo va de la mano de otras actitudes discriminatorias como el racismo, el sexismo y la homofobia: Cf. {{< cite Caviola2019MoralStandingAnimals >}}
+[^11]: Por ejemplo, véase {{< cite Low2012CambridgeDeclarationConsciousness >}}
+[^12]: {{< cite Tomasik2019HowManyWild >}}
 [^13]:
-    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse [@Ng1995WelfareBiologyEvolutionary]; [@McMahan2015MoralProblemPredation]; [@Moen2016EthicsOfWild].
+    Hay un debate académico en curso sobre la importancia moral del bienestar de los animales salvajes. Por ejemplo, véanse {{< cite Ng1995WelfareBiologyEvolutionary >}}; {{< cite McMahan2015MoralProblemPredation >}}; {{< cite Moen2016EthicsOfWild >}}
 [^14]:
-    Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: [@Wiblin2019AnimalsWildOften].
-[^15]: [@Adams2008LongtermAstrophysicalProcesses].
-[^16]: Para un debate sobre esta idea y sus supuestos subyacentes, véase [@Beckstead2013OverwhelmingImportanceShaping].
-[^17]: Cf. [@Greaves2021CaseStrongLongtermism, sec. 4.1].
-[^18]: Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, véase [@Ord2020PrecipiceExistentialRisk].
-[^19]: Para un artículo clásico sobre la importancia de reducir el riesgo existencial, véase [@Bostrom2013ExistentialRiskPrevention].
+    Para profundizar en este tema recomendamos esta entrevista a la investigadora Persis Eskander: {{< cite Wiblin2019AnimalsWildOften >}}
+[^15]: {{< cite Adams2008LongtermAstrophysicalProcesses >}}
+[^16]: Para un debate sobre esta idea y sus supuestos subyacentes, véase {{< cite Beckstead2013OverwhelmingImportanceShaping >}}
+[^17]: Cf. {{< cite Greaves2021CaseStrongLongtermism "sec. 4.1" >}}
+[^18]: Para un análisis detallado de los riesgos existenciales y la importancia moral del futuro a largo plazo de la humanidad, véase {{< cite Ord2020PrecipiceExistentialRisk >}}
+[^19]: Para un artículo clásico sobre la importancia de reducir el riesgo existencial, véase {{< cite Bostrom2013ExistentialRiskPrevention >}}
 [^20]: Nótese que el profesor William MacAskill, coautor de este sitio web, también es coautor de este artículo.
-[^21]: Como explica [el capítulo 2](./elementos-y-tipos-de-utilitarismo.md#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel): “que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos. Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.”
+[^21]: Como explica [el capítulo 2](/elementos-y-tipos-de-utilitarismo#utilitarismo-multinivel-y-utilitarismo-de-un-solo-nivel): “que sepamos, nadie ha defendido nunca el utilitarismo de un solo nivel, ni siquiera los utilitaristas clásicos. Calcular deliberadamente las consecuencias esperadas de nuestras acciones es propenso a errores y se corre el riesgo de caer en la parálisis de la decisión.”
 [^22]:
      Estos detalles podrían estipularse simplemente en un ejemplo hipotético. En los casos de la vida real, nuestra incertidumbre sobre los detalles relevantes de los hechos debería llevarnos a tener la misma incertidumbre sobre nuestros veredictos y evaluaciones morales.
 [^23]:
-     Véase, por ejemplo, [@Mackie1984RightsUtilityAnd].
+     Véase, por ejemplo, {{< cite Mackie1984RightsUtilityAnd >}}
 [^24]:
      En particular, no puedes tomar al pie de la letra tu inclinación a pensar que hay razones especiales en tu caso, si crees que la mayoría de las personas en situaciones subjetivamente similares se equivocan al considerar que tienen tales razones especiales. La evidencia que rompe la simetría es aquella que establece _de forma distintiva_ tu fiabilidad en comparación con la de otras personas con creencias similares (pero, en su caso, equivocadas). Nótese que es muy difícil obtener este tipo de evidencia.
 [^25]:
