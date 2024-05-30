@@ -127,7 +127,7 @@ Las teorías del valor variable más simples pueden representarse mediante la si
 
 Este valor marginal decreciente permite a las teorías del valor variable evitar algunos de los puntos débiles de las perspectivas total y promedio. Por ejemplo, Hilary Greaves escribe que:[^29]
 
-> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100.000 millones de personas.
+> Podría decirse que [la perspectiva promedio] es intuitivamente menos plausible para poblaciones pequeñas: si por lo demás sólo hay diez personas que vivirán alguna vez, por ejemplo, parece (quizás) mejor añadir una persona más con un nivel de bienestar positivo determinado que si ya hay 100 000 millones de personas.
 
 A primera vista, una característica atractiva de las teorías del valor variable es que se aproximan a la perspectiva total con poblaciones pequeñas y a la perspectiva promedio con poblaciones grandes, ya que así pueden evitar la conclusión repugnante.[^30]
 
@@ -230,7 +230,7 @@ También podemos formular objeciones más teóricas a tal punto de vista. Por ej
 2. que haya ordenaciones cíclicas del valor (decir que A es mejor que B, B es mejor que C y C es mejor que A);
 3. que impliquen que todos los resultados que difieren incluso ligeramente en el número de personas que existen son incomparables.
 
-Por todas estas razones, los utilitaristas rechazan en gran medida las perspectivas centradas en las personas afectadas, aunque siguen debatiendo qué teoría impersonal es la más adecuada[^57].
+Por todas estas razones, los utilitaristas rechazan en gran medida las perspectivas centradas en las personas afectadas, aunque siguen debatiendo qué teoría impersonal es la más adecuada.[^57]
 
 ## Implicaciones prácticas de las teorías éticas de la población
 
