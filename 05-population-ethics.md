@@ -11,6 +11,8 @@ gradientTop: "#1B7CCC"
 gradientBottom: "#089FD1"
 ---
 
+{{< TOC >}}
+
 ## Introducción
 
 Los utilitaristas están de acuerdo en que si el número de personas existentes se mantiene constante, debemos promover la _suma total del bienestar_ en esa población fija.[^1] En el mundo real, sin embargo, la población no permanece fija. Tenemos la posibilidad de aumentar la población, por ejemplo, teniendo hijos. Si estas personas adicionales tienen una buena vida, ¿es esa una forma de mejorar el mundo? Esta pregunta pertenece al ámbito de la _ética de la población_, que trata de los problemas morales que surgen cuando nuestras acciones influyen en la identidad y el número de las personas que nacen, y en la calidad de vida tienen.
@@ -165,7 +167,7 @@ Para profundizar en este punto de vista, podemos pensar que el valor de una vida
 
 La implicación clave de esta teoría del rango crítico (con una borrosidad del valor moderada) es que una vida intrínsecamente buena debe contener _significativamente_ más bienestar que una vida intrínsecamente mala, porque entre estos dos niveles hay un rango moderado de vidas que son mediocres, como se ilustra a continuación:[^40]
 
-![Teoría del rango crítico](/img/population-ethics-6.es.png)
+![Teoría del rango crítico](/img/population-ethics-6.es.svg)
 
 El punto de vista resultante, aunque teóricamente complejo, parece menos susceptible de objeciones severas que los otros puntos de vista que hemos estudiado. En particular, puede evitar simultáneamente tanto la conclusión repugnante como la conclusión sádica. Pero vale la pena señalar que no puede dar cabida a la fuerte intuición "antirrepugnancia" de que el mundo idílico A es estrictamente _mejor_ que el mundo repugnante Z.[^41] En su lugar, las teorías críticas del rango consideran que los dos mundos son incomparables, debido a la inmensa borrosidad del valor introducida por todas esas vidas mediocres en el mundo Z.
 
@@ -342,7 +344,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 [^8]:
     Reducir el riesgo existencial es una prioridad no sólo para la perspectiva total, sino para una amplia variedad de perspectivas morales. Sin embargo, para la perspectiva total, preservar la prosperidad a largo plazo de la civilización tiene un valor especialmente importante.
 
-    {{< cite Ord2020PrecipiceExistentialRisk "chap. 2" >}}
+    {{< cite Ord2020PrecipiceExistentialRisk "cap. 2" >}}
 
 [^9]:
     Aunque Parfit merece el reconocimiento por plantear el debate filosófico en torno a la conclusión repugnante, podría decirse que Henry Sidgwick se percató de ello mucho antes, al escribir que "el punto hasta el cual, según los principios utilitaristas, debe alentarse el aumento de la población, no es aquel en el que la felicidad media es la mayor posible... sino aquel en el que la felicidad alcanza su máximo".
@@ -382,7 +384,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
     {{< cite Huemer2008DefenceRepugnance >}}
 
-[^17]: {{< cite Parfit1984ReasonsPersons "chap. 19" >}}
+[^17]: {{< cite Parfit1984ReasonsPersons "cap. 19" >}}
 [^18]: Al menos bajo supuestos normales. Como veremos más adelante, esto ya no se sigue si, además de la tricotomía estándar de las relaciones de valor (ser _mayor que_, _menor que_ y _precisamente igual_), existe una cuarta relación de estar _a la par_. La razón es que B podría ser mejor que A+, mientras que _tanto_ A+ como B están meramente a la par de A.
 [^19]:
     {{< cite Spears2021RepugnantConclusions >}}
@@ -428,7 +430,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
     Cf. {{< cite Greaves2017PopulationAxiology >}}
 
-[^31]: {{< cite Parfit1984ReasonsPersons "chap. 18" >}}
+[^31]: {{< cite Parfit1984ReasonsPersons "cap. 18" >}}
 [^32]: Consideremos un mundo bueno con mil millones de personas felices y una sola persona miserable. Imaginemos que aumentamos repetidamente el número de personas felices y miserables de acuerdo con un mismo factor: diez mil millones de personas felices y diez personas miserables, cien mil millones de personas felices y cien personas miserables, etc. Para una población suficientemente grande, cada vez que aumentamos su tamaño de esta manera, el mundo empeora (según estas teorías asimétricas) hasta que finalmente llegamos a un mundo globalmente malo.
 [^33]: Para un intento de este tipo, véase la sección 7.2.2 de {{< cite Chappell2021ParfitEthics >}}
 [^34]: Generalmente se supone que el nivel crítico no es negativo, es decir, es positivo o cero. Un nivel crítico negativo atribuiría inverosímilmente un valor positivo a (algunas) vidas negativas.
@@ -478,7 +480,7 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
 [^47]: Al menos, no puede ser mejor o peor en términos de bienestar.
 [^48]:
-    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "chap. 8" >}}
+    Cf. {{< cite Arrhenius2000FutureGenerationsChallenge "cap. 8" >}}
 
     {{< cite Heyd1988ProcreationAndValue >}}
 
@@ -519,6 +521,6 @@ En el siguiente capítulo se analizan las implicaciones más importantes del uti
 
     Véase también:
 
-    {{< cite MacAskill2019PracticalEthicsGiven "chap. 8" >}}
+    {{< cite MacAskill2019PracticalEthicsGiven "cap. 8" >}}
 
     {{< cite Ord2020AppendixBPopulation >}}
