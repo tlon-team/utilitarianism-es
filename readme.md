@@ -29,7 +29,7 @@ This repository hosts the source files for the Spanish translation of `utilitari
     1. First select `main`, then name your branch with a name that describes the nature of the commits you are merging (e.g. `improve-translations`).
 10. Now copy back the files in the `utilitarianism-es` repo to the `content/es/` directory of `utilitarianism.net` (e.g. from `~/repos/utilitarianism-es/` to `~/source/utilitarianism.net/content/es/`), excluding the `images` subdirectory and the files `.dir-locals`, `.git`, `.gitignore` and `readme.md` (i.e. the files that were not part of the original content of `content/es/`), overwriting the existing files.
 11. In the `utilitarianism.net` repo, stage (`s`) and commit these changes (`c c`).
-12. Push the changes (`P`, then `set-upstream` (`u`) to the remote branch, e.g. `<user>/improve-translations`).
+12. Push the changes (`P p`).
 13. Create a pull request (`N c p`).
     1. As source branch, select the remote branch selected above, e.g. `<user>/improve-translations`.
     2. As target branch, select `origin/main`.
