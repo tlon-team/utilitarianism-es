@@ -27,7 +27,7 @@ La riqueza y la renta están distribuidas de forma muy desigual en todo el mundo
 
 ![Distribución mundial de la renta](/img/World-Income-Distribution.svg)
 
-> _Ganar más de $29.000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}
+> _Ganar más de $29 000 al año te sitúa en el 5 % más rico de la población mundial._ Cf. {{< cite GivingWhatWeCan2019HowRichAm >}}
 
 La riqueza y la renta exhiben lo que los economistas llaman _utilidad marginal decreciente_.[^3] La idea es simple: el grado en que aumenta el bienestar de una persona que recibe mayores ingresos depende de sus ingresos actuales. Aunque las personas más ricas dicen estar más satisfechas con su vida en general, cuanto más rico se es, menos bienestar se obtiene con una misma cantidad adicional de dinero. Un agricultor pobre de Kenia se beneficiará mucho más de recibir un dólar extra que un miembro de la clase media de un país rico.
 
@@ -142,7 +142,7 @@ Quizá resulte sorprendente que asumir un compromiso personal significativo de a
 
 Una segunda forma de ayudar a resolver los problemas más importantes del mundo es elegir la carrera profesional adecuada: la mayoría de nosotros dedicaremos unas 80 000 horas a lo largo de nuestra vida a nuestra carrera profesional y algunas carreras tienen un impacto mucho mayor que otras. La elección de una carrera profesional es, por tanto, una de las decisiones morales más importantes en la vida de una persona. Si utilizamos este tiempo para resolver los problemas más apremiantes, podemos tener un impacto enorme. Sin embargo, no es en absoluto obvio cuáles son las carreras profesionales que nos permitirán hacer el mayor bien desde una perspectiva utilitarista.
 
-Afortunadamente, hay investigaciones que nos ayudan a tomar decisiones más informadas. La organización [80.000 Horas](https://80000hours.org/)[^38] aspira a ayudar a la gente a utilizar su carrera profesional para resolver los problemas más apremiantes del mundo. Para ello, investigan cómo las personas pueden maximizar el impacto social de sus carreras profesionales, ofrecen asesoramiento en línea y apoyan a los lectores con condiciones para trabajar en áreas prioritarias.
+Afortunadamente, hay investigaciones que nos ayudan a tomar decisiones más informadas. La organización [80 000 Horas](https://80000hours.org/)[^38] aspira a ayudar a la gente a utilizar su carrera profesional para resolver los problemas más apremiantes del mundo. Para ello, investigan cómo las personas pueden maximizar el impacto social de sus carreras profesionales, ofrecen asesoramiento en línea y apoyan a los lectores con condiciones para trabajar en áreas prioritarias.
 
 Al igual que ocurre con las donaciones, elegir una carrera profesional con impacto no tiene por qué suponer un gran sacrificio personal: podemos disfrutar de una variedad de trabajos mucho más amplia de lo que habríamos creído antes de haberlos probado.[^39] Además, es poco probable que uno prospere en un trabajo del que no disfruta. Sería insostenible seguir una carrera profesional haciendo algo que uno detesta. En este sentido, mantener la salud física y el bienestar emocional es crucial para no agotarse y poder seguir haciendo el bien a largo plazo. Por lo tanto, elegir una carrera profesional que maximice el impacto social no implica renunciar a una carrera gratificante, estimulante y agradable.
 
@@ -178,7 +178,7 @@ Para hacer el mayor bien posible, los utilitaristas suelen donar dinero a organi
 - Sitios web y organizaciones relevantes para el altruismo eficaz:
   - [Biblioteca Altruismo Eficaz](https://www.altruismoeficaz.net/): Sitio web que ofrece recursos en línea sobre el altruismo eficaz.
   - [GiveWell](https://www.givewell.org/): Evaluador de organizaciones benéficas cuyo objetivo es encontrar oportunidades de donación excepcionales.
-  - [80.000 Horas](https://80000hours.org/): Organización sin ánimo de lucro dedicada a la investigación y a ayudar a personas con talento a maximizar el impacto social de sus carreras profesionales.
+  - [80 000 Horas](https://80000hours.org/): Organización sin ánimo de lucro dedicada a la investigación y a ayudar a personas con talento a maximizar el impacto social de sus carreras profesionales.
   - [Giving What We Can](https://www.givingwhatwecan.org/): Comunidad de personas que se han comprometido a donar el 10 % de sus ingresos a lo largo de su vida a organizaciones benéficas eficaces.
   - [Charity Entrepreneurship](https://www.charityentrepreneurship.com/): Incubadora de organizaciones benéficas que ayuda a poner en marcha múltiples organizaciones benéficas de gran impacto cada año.
 - Podcasts sobre altruismo eficaz y utilitarismo:
