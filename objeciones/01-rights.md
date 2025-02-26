@@ -1,7 +1,7 @@
 ---
 title: "La objeción de los derechos"
 slug: "derechos"
-authors: "MacAskill, W., Meissner, D., and Chappell, R.Y."
+authors: "MacAskill, W., Meissner, D., y Chappell, R.Y."
 date: 2023-01-29
 type: "page"
 draft: false
@@ -73,9 +73,9 @@ Por supuesto, es importante subrayar que la vida real no viene con tales estipul
 
 ## Recursos y Más información
 
-- {{< cite Lazari-Radek2017UtilitarianismVeryShort "chap. 4: Objections" >}}, sec. “Does utilitarianism tell us to act immorally?”.
-- {{< cite Bykvist2010UtilitarianismGuidePerplexed "chap. 8: Is Utilitarianism too permissive?" >}}
-- {{< cite Kagan1998NormativeEthics "chap. 3" >}}
+- {{< cite Lazari-Radek2017UtilitarianismVeryShort "cap. 4: Objections" >}}, sec. “Does utilitarianism tell us to act immorally?”.
+- {{< cite Bykvist2010UtilitarianismGuidePerplexed "cap. 8: Is Utilitarianism too permissive?" >}}
+- {{< cite Kagan1998NormativeEthics "cap. 3" >}}
 - {{< cite Kagan1989LimitsOfMorality >}}
 - {{< cite "Rivera-Lopez2012MoralMurderer" >}}
 - {{< cite Thomson1976KillingLettingDie >}}
